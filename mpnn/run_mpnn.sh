@@ -1,16 +1,6 @@
-#!/bin/bash
-#SBATCH --job-name=mpnn_score
-#SBATCH --partition=gpu-2
-#SBATCH --gres=gpu:1
-#SBATCH --output=logs/mpnn_%j.out
-#SBATCH --error=logs/mpnn_%j.err
-
-source ~/.bashrc
-conda activate predict
-
-IN_DIR="/lustre/home/tbwang/EnzymeShells/Enzyme_Shells/structure"
-OUT_BASE_DIR="/lustre/home/tbwang/EnzymeShells/Enzyme_Shells/mpnn"
-MPNN_DIR="/lustre/home/tbwang/LigandMPNN"
+IN_DIR="/share/home/wangtb/enzyme_shells/structure"
+OUT_BASE_DIR="/share/home/wangtb/enzyme_shells/mpnn"
+MPNN_DIR="/share/home/wangtb/LigandMPNN"
 
 mkdir -p "$OUT_BASE_DIR"
 mkdir -p logs
