@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading VA191A;
+Reading VA191V;
+Reading VA191I;
+Reading VA191L;
+Reading VA191M;
+Reading VA191F;
+Reading VA191Y;
+Reading VA191W;
+Reading VA191S;
+Reading VA191T;
+Reading VA191N;
+Reading VA191Q;
+Reading VA191C;
+Reading VA191G;
+Reading VA191P;
+Reading VA191R;
+Reading VA191H;
+Reading VA191K;
+Reading VA191D;
+Reading VA191E;
+Reading AA192A;
+Reading AA192V;
+Reading AA192I;
+Reading AA192L;
+Reading AA192M;
+Reading AA192F;
+Reading AA192Y;
+Reading AA192W;
+Reading AA192S;
+Reading AA192T;
+Reading AA192N;
+Reading AA192Q;
+Reading AA192C;
+Reading AA192G;
+Reading AA192P;
+Reading AA192R;
+Reading AA192H;
+Reading AA192K;
+Reading AA192D;
+Reading AA192E;
+Reading LA193A;
+Reading LA193V;
+Reading LA193I;
+Reading LA193L;
+Reading LA193M;
+Reading LA193F;
+Reading LA193Y;
+Reading LA193W;
+Reading LA193S;
+Reading LA193T;
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate VALA191 has residue index 190
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate ALAA192 has residue index 191
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Residue to Mutate LEUA193 has residue index 192
+Mutating residue = VALA191 into ALA
+Mutating residue = VALA191 into VAL
+Mutating residue = VALA191 into ILE
+Mutating residue = VALA191 into LEU
+Mutating residue = VALA191 into MET
+Mutating residue = VALA191 into PHE
+Mutating residue = VALA191 into TYR
+Mutating residue = VALA191 into TRP
+Mutating residue = VALA191 into SER
+Mutating residue = VALA191 into THR
+Mutating residue = VALA191 into ASN
+Mutating residue = VALA191 into GLN
+Mutating residue = VALA191 into CYS
+Mutating residue = VALA191 into GLY
+Mutating residue = VALA191 into PRO
+Mutating residue = VALA191 into ARG
+Mutating residue = VALA191 into HIS
+Mutating residue = VALA191 into LYS
+Mutating residue = VALA191 into ASP
+Mutating residue = VALA191 into GLU
+Mutating residue = ALAA192 into ALA
+Mutating residue = ALAA192 into VAL
+Mutating residue = ALAA192 into ILE
+Mutating residue = ALAA192 into LEU
+Mutating residue = ALAA192 into MET
+Mutating residue = ALAA192 into PHE
+Mutating residue = ALAA192 into TYR
+Mutating residue = ALAA192 into TRP
+Mutating residue = ALAA192 into SER
+Mutating residue = ALAA192 into THR
+Mutating residue = ALAA192 into ASN
+Mutating residue = ALAA192 into GLN
+Mutating residue = ALAA192 into CYS
+Mutating residue = ALAA192 into GLY
+Mutating residue = ALAA192 into PRO
+Mutating residue = ALAA192 into ARG
+Mutating residue = ALAA192 into HIS
+Mutating residue = ALAA192 into LYS
+Mutating residue = ALAA192 into ASP
+Mutating residue = ALAA192 into GLU
+Mutating residue = LEUA193 into ALA
+Mutating residue = LEUA193 into VAL
+Mutating residue = LEUA193 into ILE
+Mutating residue = LEUA193 into LEU
+Mutating residue = LEUA193 into MET
+Mutating residue = LEUA193 into PHE
+Mutating residue = LEUA193 into TYR
+Mutating residue = LEUA193 into TRP
+Mutating residue = LEUA193 into SER
+Mutating residue = LEUA193 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:21:26 2026
+Total time spend: 252.69 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 77 结果提取成功，已映射突变信息。

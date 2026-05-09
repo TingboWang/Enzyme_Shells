@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading NA2C;
+Reading NA2D;
+Reading NA2E;
+Reading NA2F;
+Reading NA2G;
+Reading NA2H;
+Reading NA2I;
+Reading NA2K;
+Reading NA2L;
+Reading NA2M;
+Reading NA2P;
+Reading NA2Q;
+Reading NA2R;
+Reading NA2S;
+Reading NA2T;
+Reading NA2V;
+Reading NA2W;
+Reading NA2Y;
+Reading NA37A;
+Reading NA37C;
+Reading NA37D;
+Reading NA37E;
+Reading NA37F;
+Reading NA37G;
+Reading NA37H;
+Reading NA37I;
+Reading NA37K;
+Reading NA37L;
+Reading NA37M;
+Reading NA37P;
+Reading NA37Q;
+Reading NA37R;
+Reading NA37S;
+Reading NA37T;
+Reading NA37V;
+Reading NA37W;
+Reading NA37Y;
+Reading NA54A;
+Reading NA54C;
+Reading NA54D;
+Reading NA54E;
+Reading NA54F;
+Reading NA54G;
+Reading NA54H;
+Reading NA54I;
+Reading NA54K;
+Reading NA54L;
+Reading NA54M;
+Reading NA54P;
+Reading NA54Q;
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA2 has residue index 1
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA37 has residue index 36
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Residue to Mutate ASNA54 has residue index 53
+Mutating residue = ASNA2 into CYS
+Mutating residue = ASNA2 into ASP
+Mutating residue = ASNA2 into GLU
+Mutating residue = ASNA2 into PHE
+Mutating residue = ASNA2 into GLY
+Mutating residue = ASNA2 into HIS
+Mutating residue = ASNA2 into ILE
+Mutating residue = ASNA2 into LYS
+Mutating residue = ASNA2 into LEU
+Mutating residue = ASNA2 into MET
+Mutating residue = ASNA2 into PRO
+Mutating residue = ASNA2 into GLN
+Mutating residue = ASNA2 into ARG
+Mutating residue = ASNA2 into SER
+Mutating residue = ASNA2 into THR
+Mutating residue = ASNA2 into VAL
+Mutating residue = ASNA2 into TRP
+Mutating residue = ASNA2 into TYR
+Mutating residue = ASNA37 into ALA
+Mutating residue = ASNA37 into CYS
+Mutating residue = ASNA37 into ASP
+Mutating residue = ASNA37 into GLU
+Mutating residue = ASNA37 into PHE
+Mutating residue = ASNA37 into GLY
+Mutating residue = ASNA37 into HIS
+Mutating residue = ASNA37 into ILE
+Mutating residue = ASNA37 into LYS
+Mutating residue = ASNA37 into LEU
+Mutating residue = ASNA37 into MET
+Mutating residue = ASNA37 into PRO
+Mutating residue = ASNA37 into GLN
+Mutating residue = ASNA37 into ARG
+Mutating residue = ASNA37 into SER
+Mutating residue = ASNA37 into THR
+Mutating residue = ASNA37 into VAL
+Mutating residue = ASNA37 into TRP
+Mutating residue = ASNA37 into TYR
+Mutating residue = ASNA54 into ALA
+Mutating residue = ASNA54 into CYS
+Mutating residue = ASNA54 into ASP
+Mutating residue = ASNA54 into GLU
+Mutating residue = ASNA54 into PHE
+Mutating residue = ASNA54 into GLY
+Mutating residue = ASNA54 into HIS
+Mutating residue = ASNA54 into ILE
+Mutating residue = ASNA54 into LYS
+Mutating residue = ASNA54 into LEU
+Mutating residue = ASNA54 into MET
+Mutating residue = ASNA54 into PRO
+Mutating residue = ASNA54 into GLN
+Your file run OK
+End time of FoldX: Sat May  9 16:21:21 2026
+Total time spend: 241.39 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 52 结果提取成功，已映射突变信息。

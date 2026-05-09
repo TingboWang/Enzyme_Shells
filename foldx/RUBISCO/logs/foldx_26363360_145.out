@@ -1,0 +1,155 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading SA409I;
+Reading SA409K;
+Reading SA409L;
+Reading SA409M;
+Reading SA409N;
+Reading SA409P;
+Reading SA409Q;
+Reading SA409R;
+Reading SA409T;
+Reading SA409V;
+Reading SA409W;
+Reading SA409Y;
+Reading SA439A;
+Reading SA439C;
+Reading SA439D;
+Reading SA439E;
+Reading SA439F;
+Reading SA439G;
+Reading SA439H;
+Reading SA439I;
+Reading SA439K;
+Reading SA439L;
+Reading SA439M;
+Reading SA439N;
+Reading SA439P;
+Reading SA439Q;
+Reading SA439R;
+Reading SA439T;
+Reading SA439V;
+Reading SA439W;
+Reading SA439Y;
+Reading SA462A;
+Reading SA462C;
+Reading SA462D;
+Reading SA462E;
+Reading SA462F;
+Reading SA462G;
+Reading SA462H;
+Reading SA462I;
+Reading SA462K;
+Reading SA462L;
+Reading SA462M;
+Reading SA462N;
+Reading SA462P;
+Reading SA462Q;
+Reading SA462R;
+Reading SA462T;
+Reading SA462V;
+Reading SA462W;
+Reading SA462Y;
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA409 has residue index 407
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+Residue to Mutate SERA439 has residue index 437
+SA462A	Specified residue not found.
+no mutations performed.
+警告：任务 145 未生成 Dif_RUBISCO.fxout

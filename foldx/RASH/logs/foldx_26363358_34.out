@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RASH.pdb
+1 models read: RASH.pdb
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+Starting BuildModel
+Reading KA88Y;
+Reading KA88C;
+Reading SA89Y;
+Reading SA89D;
+Reading SA89W;
+Reading SA89V;
+Reading SA89T;
+Reading SA89R;
+Reading SA89Q;
+Reading SA89P;
+Reading SA89N;
+Reading SA89M;
+Reading SA89L;
+Reading SA89K;
+Reading SA89I;
+Reading SA89H;
+Reading SA89G;
+Reading SA89F;
+Reading SA89E;
+Reading SA89A;
+Reading SA89C;
+Reading FA90I;
+Reading FA90C;
+Reading FA90W;
+Reading FA90V;
+Reading FA90T;
+Reading FA90S;
+Reading FA90R;
+Reading FA90Q;
+Reading FA90P;
+Reading FA90N;
+Reading FA90M;
+Reading FA90L;
+Reading FA90Y;
+Reading FA90H;
+Reading FA90G;
+Reading FA90E;
+Reading FA90D;
+Reading FA90A;
+Reading FA90K;
+Reading EA91H;
+Reading EA91K;
+Reading EA91F;
+Reading EA91G;
+Reading EA91I;
+Reading EA91L;
+Reading EA91M;
+Reading EA91N;
+Reading EA91C;
+Reading EA91P;
+Residue to Mutate LYSA88 has residue index 87
+Residue to Mutate LYSA88 has residue index 87
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate SERA89 has residue index 88
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate PHEA90 has residue index 89
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Residue to Mutate GLUA91 has residue index 90
+Mutating residue = LYSA88 into TYR
+Mutating residue = LYSA88 into CYS
+Mutating residue = SERA89 into TYR
+Mutating residue = SERA89 into ASP
+Mutating residue = SERA89 into TRP
+Mutating residue = SERA89 into VAL
+Mutating residue = SERA89 into THR
+Mutating residue = SERA89 into ARG
+Mutating residue = SERA89 into GLN
+Mutating residue = SERA89 into PRO
+Mutating residue = SERA89 into ASN
+Mutating residue = SERA89 into MET
+Mutating residue = SERA89 into LEU
+Mutating residue = SERA89 into LYS
+Mutating residue = SERA89 into ILE
+Mutating residue = SERA89 into HIS
+Mutating residue = SERA89 into GLY
+Mutating residue = SERA89 into PHE
+Mutating residue = SERA89 into GLU
+Mutating residue = SERA89 into ALA
+Mutating residue = SERA89 into CYS
+Mutating residue = PHEA90 into ILE
+Mutating residue = PHEA90 into CYS
+Mutating residue = PHEA90 into TRP
+Mutating residue = PHEA90 into VAL
+Mutating residue = PHEA90 into THR
+Mutating residue = PHEA90 into SER
+Mutating residue = PHEA90 into ARG
+Mutating residue = PHEA90 into GLN
+Mutating residue = PHEA90 into PRO
+Mutating residue = PHEA90 into ASN
+Mutating residue = PHEA90 into MET
+Mutating residue = PHEA90 into LEU
+Mutating residue = PHEA90 into TYR
+Mutating residue = PHEA90 into HIS
+Mutating residue = PHEA90 into GLY
+Mutating residue = PHEA90 into GLU
+Mutating residue = PHEA90 into ASP
+Mutating residue = PHEA90 into ALA
+Mutating residue = PHEA90 into LYS
+Mutating residue = GLUA91 into HIS
+Mutating residue = GLUA91 into LYS
+Mutating residue = GLUA91 into PHE
+Mutating residue = GLUA91 into GLY
+Mutating residue = GLUA91 into ILE
+Mutating residue = GLUA91 into LEU
+Mutating residue = GLUA91 into MET
+Mutating residue = GLUA91 into ASN
+Mutating residue = GLUA91 into CYS
+Mutating residue = GLUA91 into PRO
+Your file run OK
+End time of FoldX: Sat May  9 16:24:39 2026
+Total time spend: 440.40 seconds.
+validated file "RASH_1.pdb" => successfully finished
+validated file "RASH_2.pdb" => successfully finished
+validated file "RASH_3.pdb" => successfully finished
+validated file "RASH_4.pdb" => successfully finished
+validated file "RASH_5.pdb" => successfully finished
+validated file "RASH_6.pdb" => successfully finished
+validated file "RASH_7.pdb" => successfully finished
+validated file "RASH_8.pdb" => successfully finished
+validated file "RASH_9.pdb" => successfully finished
+validated file "RASH_10.pdb" => successfully finished
+validated file "RASH_11.pdb" => successfully finished
+validated file "RASH_12.pdb" => successfully finished
+validated file "RASH_13.pdb" => successfully finished
+validated file "RASH_14.pdb" => successfully finished
+validated file "RASH_15.pdb" => successfully finished
+validated file "RASH_16.pdb" => successfully finished
+validated file "RASH_17.pdb" => successfully finished
+validated file "RASH_18.pdb" => successfully finished
+validated file "RASH_19.pdb" => successfully finished
+validated file "RASH_20.pdb" => successfully finished
+validated file "RASH_21.pdb" => successfully finished
+validated file "RASH_22.pdb" => successfully finished
+validated file "RASH_23.pdb" => successfully finished
+validated file "RASH_24.pdb" => successfully finished
+validated file "RASH_25.pdb" => successfully finished
+validated file "RASH_26.pdb" => successfully finished
+validated file "RASH_27.pdb" => successfully finished
+validated file "RASH_28.pdb" => successfully finished
+validated file "RASH_29.pdb" => successfully finished
+validated file "RASH_30.pdb" => successfully finished
+validated file "RASH_31.pdb" => successfully finished
+validated file "RASH_32.pdb" => successfully finished
+validated file "RASH_33.pdb" => successfully finished
+validated file "RASH_34.pdb" => successfully finished
+validated file "RASH_35.pdb" => successfully finished
+validated file "RASH_36.pdb" => successfully finished
+validated file "RASH_37.pdb" => successfully finished
+validated file "RASH_38.pdb" => successfully finished
+validated file "RASH_39.pdb" => successfully finished
+validated file "RASH_40.pdb" => successfully finished
+validated file "RASH_41.pdb" => successfully finished
+validated file "RASH_42.pdb" => successfully finished
+validated file "RASH_43.pdb" => successfully finished
+validated file "RASH_44.pdb" => successfully finished
+validated file "RASH_45.pdb" => successfully finished
+validated file "RASH_46.pdb" => successfully finished
+validated file "RASH_47.pdb" => successfully finished
+validated file "RASH_48.pdb" => successfully finished
+validated file "RASH_49.pdb" => successfully finished
+validated file "RASH_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 34 结果提取成功，已映射突变信息。

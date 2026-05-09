@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RASH.pdb
+1 models read: RASH.pdb
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+Starting BuildModel
+Reading EA162P;
+Reading EA162Q;
+Reading EA162R;
+Reading EA162Y;
+Reading EA162S;
+Reading EA162K;
+Reading EA162T;
+Reading EA162V;
+Reading IA163T;
+Reading IA163S;
+Reading IA163R;
+Reading IA163Q;
+Reading IA163P;
+Reading IA163N;
+Reading IA163M;
+Reading IA163L;
+Reading IA163W;
+Reading IA163K;
+Reading IA163G;
+Reading IA163F;
+Reading IA163E;
+Reading IA163D;
+Reading IA163C;
+Reading IA163A;
+Reading IA163V;
+Reading IA163H;
+Reading IA163Y;
+Reading RA164E;
+Reading RA164W;
+Reading RA164V;
+Reading RA164T;
+Reading RA164S;
+Reading RA164Q;
+Reading RA164P;
+Reading RA164N;
+Reading RA164M;
+Reading RA164L;
+Reading RA164K;
+Reading RA164I;
+Reading RA164H;
+Reading RA164G;
+Reading RA164F;
+Reading RA164Y;
+Reading RA164D;
+Reading RA164A;
+Reading RA164C;
+Reading QA165C;
+Reading QA165Y;
+Reading QA165W;
+Reading QA165V;
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate GLUA162 has residue index 161
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ILEA163 has residue index 162
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate ARGA164 has residue index 163
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Mutating residue = GLUA162 into PRO
+Mutating residue = GLUA162 into GLN
+Mutating residue = GLUA162 into ARG
+Mutating residue = GLUA162 into TYR
+Mutating residue = GLUA162 into SER
+Mutating residue = GLUA162 into LYS
+Mutating residue = GLUA162 into THR
+Mutating residue = GLUA162 into VAL
+Mutating residue = ILEA163 into THR
+Mutating residue = ILEA163 into SER
+Mutating residue = ILEA163 into ARG
+Mutating residue = ILEA163 into GLN
+Mutating residue = ILEA163 into PRO
+Mutating residue = ILEA163 into ASN
+Mutating residue = ILEA163 into MET
+Mutating residue = ILEA163 into LEU
+Mutating residue = ILEA163 into TRP
+Mutating residue = ILEA163 into LYS
+Mutating residue = ILEA163 into GLY
+Mutating residue = ILEA163 into PHE
+Mutating residue = ILEA163 into GLU
+Mutating residue = ILEA163 into ASP
+Mutating residue = ILEA163 into CYS
+Mutating residue = ILEA163 into ALA
+Mutating residue = ILEA163 into VAL
+Mutating residue = ILEA163 into HIS
+Mutating residue = ILEA163 into TYR
+Mutating residue = ARGA164 into GLU
+Mutating residue = ARGA164 into TRP
+Mutating residue = ARGA164 into VAL
+Mutating residue = ARGA164 into THR
+Mutating residue = ARGA164 into SER
+Mutating residue = ARGA164 into GLN
+Mutating residue = ARGA164 into PRO
+Mutating residue = ARGA164 into ASN
+Mutating residue = ARGA164 into MET
+Mutating residue = ARGA164 into LEU
+Mutating residue = ARGA164 into LYS
+Mutating residue = ARGA164 into ILE
+Mutating residue = ARGA164 into HIS
+Mutating residue = ARGA164 into GLY
+Mutating residue = ARGA164 into PHE
+Mutating residue = ARGA164 into TYR
+Mutating residue = ARGA164 into ASP
+Mutating residue = ARGA164 into ALA
+Mutating residue = ARGA164 into CYS
+Mutating residue = GLNA165 into CYS
+Mutating residue = GLNA165 into TYR
+Mutating residue = GLNA165 into TRP
+Mutating residue = GLNA165 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:32:01 2026
+Total time spend: 877.83 seconds.
+validated file "RASH_1.pdb" => successfully finished
+validated file "RASH_2.pdb" => successfully finished
+validated file "RASH_3.pdb" => successfully finished
+validated file "RASH_4.pdb" => successfully finished
+validated file "RASH_5.pdb" => successfully finished
+validated file "RASH_6.pdb" => successfully finished
+validated file "RASH_7.pdb" => successfully finished
+validated file "RASH_8.pdb" => successfully finished
+validated file "RASH_9.pdb" => successfully finished
+validated file "RASH_10.pdb" => successfully finished
+validated file "RASH_11.pdb" => successfully finished
+validated file "RASH_12.pdb" => successfully finished
+validated file "RASH_13.pdb" => successfully finished
+validated file "RASH_14.pdb" => successfully finished
+validated file "RASH_15.pdb" => successfully finished
+validated file "RASH_16.pdb" => successfully finished
+validated file "RASH_17.pdb" => successfully finished
+validated file "RASH_18.pdb" => successfully finished
+validated file "RASH_19.pdb" => successfully finished
+validated file "RASH_20.pdb" => successfully finished
+validated file "RASH_21.pdb" => successfully finished
+validated file "RASH_22.pdb" => successfully finished
+validated file "RASH_23.pdb" => successfully finished
+validated file "RASH_24.pdb" => successfully finished
+validated file "RASH_25.pdb" => successfully finished
+validated file "RASH_26.pdb" => successfully finished
+validated file "RASH_27.pdb" => successfully finished
+validated file "RASH_28.pdb" => successfully finished
+validated file "RASH_29.pdb" => successfully finished
+validated file "RASH_30.pdb" => successfully finished
+validated file "RASH_31.pdb" => successfully finished
+validated file "RASH_32.pdb" => successfully finished
+validated file "RASH_33.pdb" => successfully finished
+validated file "RASH_34.pdb" => successfully finished
+validated file "RASH_35.pdb" => successfully finished
+validated file "RASH_36.pdb" => successfully finished
+validated file "RASH_37.pdb" => successfully finished
+validated file "RASH_38.pdb" => successfully finished
+validated file "RASH_39.pdb" => successfully finished
+validated file "RASH_40.pdb" => successfully finished
+validated file "RASH_41.pdb" => successfully finished
+validated file "RASH_42.pdb" => successfully finished
+validated file "RASH_43.pdb" => successfully finished
+validated file "RASH_44.pdb" => successfully finished
+validated file "RASH_45.pdb" => successfully finished
+validated file "RASH_46.pdb" => successfully finished
+validated file "RASH_47.pdb" => successfully finished
+validated file "RASH_48.pdb" => successfully finished
+validated file "RASH_49.pdb" => successfully finished
+validated file "RASH_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 62 结果提取成功，已映射突变信息。

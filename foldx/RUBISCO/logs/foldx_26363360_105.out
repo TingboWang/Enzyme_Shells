@@ -1,0 +1,127 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading LA455V;
+Reading LA455W;
+Reading LA455Y;
+Reading LA464A;
+Reading LA464C;
+Reading LA464D;
+Reading LA464E;
+Reading LA464F;
+Reading LA464G;
+Reading LA464H;
+Reading LA464I;
+Reading LA464K;
+Reading LA464M;
+Reading LA464N;
+Reading LA464P;
+Reading LA464Q;
+Reading LA464R;
+Reading LA464S;
+Reading LA464T;
+Reading LA464W;
+Reading LA464Y;
+Reading LA70A;
+Reading LA70C;
+Reading LA70D;
+Reading LA70E;
+Reading LA70F;
+Reading LA70G;
+Reading LA70H;
+Reading LA70I;
+Reading LA70K;
+Reading LA70M;
+Reading LA70N;
+Reading LA70P;
+Reading LA70Q;
+Reading LA70R;
+Reading LA70S;
+Reading LA70T;
+Reading LA70V;
+Reading LA70W;
+Reading LA70Y;
+Reading LA80A;
+Reading LA80C;
+Reading LA80D;
+Reading LA80E;
+Reading LA80F;
+Reading LA80G;
+Reading LA80H;
+Reading LA80I;
+Reading LA80K;
+Reading LA80M;
+Residue to Mutate LEUA455 has residue index 453
+Residue to Mutate LEUA455 has residue index 453
+Residue to Mutate LEUA455 has residue index 453
+LA464A	Specified residue not found.
+no mutations performed.
+警告：任务 105 未生成 Dif_RUBISCO.fxout

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading FA1038S;
+Reading FA1038V;
+Reading FA1038Y;
+Reading FA1045C;
+Reading FA1045I;
+Reading FA1045L;
+Reading FA1045S;
+Reading FA1045V;
+Reading FA1045Y;
+Reading FA1046C;
+Reading FA1046I;
+Reading FA1046L;
+Reading FA1046S;
+Reading FA1046V;
+Reading FA1046Y;
+Reading FA105C;
+Reading FA105I;
+Reading FA105L;
+Reading FA105S;
+Reading FA105V;
+Reading FA105Y;
+Reading FA1080C;
+Reading FA1080I;
+Reading FA1080L;
+Reading FA1080S;
+Reading FA1080V;
+Reading FA1080Y;
+Reading FA1105C;
+Reading FA1105I;
+Reading FA1105L;
+Reading FA1105S;
+Reading FA1105V;
+Reading FA1105Y;
+Reading FA1134C;
+Reading FA1134I;
+Reading FA1134L;
+Reading FA1134S;
+Reading FA1134V;
+Reading FA1134Y;
+Reading FA1174C;
+Reading FA1174I;
+Reading FA1174L;
+Reading FA1174S;
+Reading FA1174V;
+Reading FA1174Y;
+Reading FA1181C;
+Reading FA1181I;
+Reading FA1181L;
+Reading FA1181S;
+Reading FA1181V;
+Residue to Mutate PHEA1038 has residue index 1037
+Residue to Mutate PHEA1038 has residue index 1037
+Residue to Mutate PHEA1038 has residue index 1037
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1045 has residue index 1044
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA1046 has residue index 1045
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1080 has residue index 1079
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1105 has residue index 1104
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1134 has residue index 1133
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1174 has residue index 1173
+Residue to Mutate PHEA1181 has residue index 1180
+Residue to Mutate PHEA1181 has residue index 1180
+Residue to Mutate PHEA1181 has residue index 1180
+Residue to Mutate PHEA1181 has residue index 1180
+Residue to Mutate PHEA1181 has residue index 1180
+Mutating residue = PHEA1038 into SER
+Mutating residue = PHEA1038 into VAL
+Mutating residue = PHEA1038 into TYR
+Mutating residue = PHEA1045 into CYS
+Mutating residue = PHEA1045 into ILE
+Mutating residue = PHEA1045 into LEU
+Mutating residue = PHEA1045 into SER
+Mutating residue = PHEA1045 into VAL
+Mutating residue = PHEA1045 into TYR
+Mutating residue = PHEA1046 into CYS
+Mutating residue = PHEA1046 into ILE
+Mutating residue = PHEA1046 into LEU
+Mutating residue = PHEA1046 into SER
+Mutating residue = PHEA1046 into VAL
+Mutating residue = PHEA1046 into TYR
+Mutating residue = PHEA105 into CYS
+Mutating residue = PHEA105 into ILE
+Mutating residue = PHEA105 into LEU
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA105 into VAL
+Mutating residue = PHEA105 into TYR
+Mutating residue = PHEA1080 into CYS
+Mutating residue = PHEA1080 into ILE
+Mutating residue = PHEA1080 into LEU
+Mutating residue = PHEA1080 into SER
+Mutating residue = PHEA1080 into VAL
+Mutating residue = PHEA1080 into TYR
+Mutating residue = PHEA1105 into CYS
+Mutating residue = PHEA1105 into ILE
+Mutating residue = PHEA1105 into LEU
+Mutating residue = PHEA1105 into SER
+Mutating residue = PHEA1105 into VAL
+Mutating residue = PHEA1105 into TYR
+Mutating residue = PHEA1134 into CYS
+Mutating residue = PHEA1134 into ILE
+Mutating residue = PHEA1134 into LEU
+Mutating residue = PHEA1134 into SER
+Mutating residue = PHEA1134 into VAL
+Mutating residue = PHEA1134 into TYR
+Mutating residue = PHEA1174 into CYS
+Mutating residue = PHEA1174 into ILE
+Mutating residue = PHEA1174 into LEU
+Mutating residue = PHEA1174 into SER
+Mutating residue = PHEA1174 into VAL
+Mutating residue = PHEA1174 into TYR
+Mutating residue = PHEA1181 into CYS
+Mutating residue = PHEA1181 into ILE
+Mutating residue = PHEA1181 into LEU
+Mutating residue = PHEA1181 into SER
+Mutating residue = PHEA1181 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:22:19 2026
+Total time spend: 316.38 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 37 结果提取成功，已映射突变信息。

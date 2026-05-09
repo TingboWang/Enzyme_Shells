@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading TA321A;
+Reading TA321V;
+Reading TA321I;
+Reading TA321L;
+Reading TA321M;
+Reading TA321F;
+Reading TA321Y;
+Reading TA321W;
+Reading TA321S;
+Reading TA321T;
+Reading TA321N;
+Reading TA321Q;
+Reading TA321C;
+Reading TA321G;
+Reading TA321P;
+Reading TA321R;
+Reading TA321H;
+Reading TA321K;
+Reading TA321D;
+Reading TA321E;
+Reading KA322A;
+Reading KA322V;
+Reading KA322I;
+Reading KA322L;
+Reading KA322M;
+Reading KA322F;
+Reading KA322Y;
+Reading KA322W;
+Reading KA322S;
+Reading KA322T;
+Reading KA322N;
+Reading KA322Q;
+Reading KA322C;
+Reading KA322G;
+Reading KA322P;
+Reading KA322R;
+Reading KA322H;
+Reading KA322K;
+Reading KA322D;
+Reading KA322E;
+Reading NA323A;
+Reading NA323V;
+Reading NA323I;
+Reading NA323L;
+Reading NA323M;
+Reading NA323F;
+Reading NA323Y;
+Reading NA323W;
+Reading NA323S;
+Reading NA323T;
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate THRA321 has residue index 320
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate LYSA322 has residue index 321
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Residue to Mutate ASNA323 has residue index 322
+Mutating residue = THRA321 into ALA
+Mutating residue = THRA321 into VAL
+Mutating residue = THRA321 into ILE
+Mutating residue = THRA321 into LEU
+Mutating residue = THRA321 into MET
+Mutating residue = THRA321 into PHE
+Mutating residue = THRA321 into TYR
+Mutating residue = THRA321 into TRP
+Mutating residue = THRA321 into SER
+Mutating residue = THRA321 into THR
+Mutating residue = THRA321 into ASN
+Mutating residue = THRA321 into GLN
+Mutating residue = THRA321 into CYS
+Mutating residue = THRA321 into GLY
+Mutating residue = THRA321 into PRO
+Mutating residue = THRA321 into ARG
+Mutating residue = THRA321 into HIS
+Mutating residue = THRA321 into LYS
+Mutating residue = THRA321 into ASP
+Mutating residue = THRA321 into GLU
+Mutating residue = LYSA322 into ALA
+Mutating residue = LYSA322 into VAL
+Mutating residue = LYSA322 into ILE
+Mutating residue = LYSA322 into LEU
+Mutating residue = LYSA322 into MET
+Mutating residue = LYSA322 into PHE
+Mutating residue = LYSA322 into TYR
+Mutating residue = LYSA322 into TRP
+Mutating residue = LYSA322 into SER
+Mutating residue = LYSA322 into THR
+Mutating residue = LYSA322 into ASN
+Mutating residue = LYSA322 into GLN
+Mutating residue = LYSA322 into CYS
+Mutating residue = LYSA322 into GLY
+Mutating residue = LYSA322 into PRO
+Mutating residue = LYSA322 into ARG
+Mutating residue = LYSA322 into HIS
+Mutating residue = LYSA322 into LYS
+Mutating residue = LYSA322 into ASP
+Mutating residue = LYSA322 into GLU
+Mutating residue = ASNA323 into ALA
+Mutating residue = ASNA323 into VAL
+Mutating residue = ASNA323 into ILE
+Mutating residue = ASNA323 into LEU
+Mutating residue = ASNA323 into MET
+Mutating residue = ASNA323 into PHE
+Mutating residue = ASNA323 into TYR
+Mutating residue = ASNA323 into TRP
+Mutating residue = ASNA323 into SER
+Mutating residue = ASNA323 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:30:12 2026
+Total time spend: 776.88 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 129 结果提取成功，已映射突变信息。

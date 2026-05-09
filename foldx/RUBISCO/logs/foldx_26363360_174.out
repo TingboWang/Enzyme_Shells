@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading YA36R;
+Reading YA36S;
+Reading YA36T;
+Reading YA36V;
+Reading YA36W;
+Reading YA38A;
+Reading YA38C;
+Reading YA38D;
+Reading YA38E;
+Reading YA38F;
+Reading YA38G;
+Reading YA38H;
+Reading YA38I;
+Reading YA38K;
+Reading YA38L;
+Reading YA38M;
+Reading YA38N;
+Reading YA38P;
+Reading YA38Q;
+Reading YA38R;
+Reading YA38S;
+Reading YA38T;
+Reading YA38V;
+Reading YA38W;
+Reading YA426A;
+Reading YA426C;
+Reading YA426D;
+Reading YA426E;
+Reading YA426F;
+Reading YA426G;
+Reading YA426H;
+Reading YA426I;
+Reading YA426K;
+Reading YA426L;
+Reading YA426M;
+Reading YA426N;
+Reading YA426P;
+Reading YA426Q;
+Reading YA426R;
+Reading YA426S;
+Reading YA426T;
+Reading YA426V;
+Reading YA426W;
+Reading YA448A;
+Reading YA448C;
+Reading YA448D;
+Reading YA448E;
+Reading YA448F;
+Reading YA448G;
+Reading YA448H;
+Residue to Mutate TYRA36 has residue index 34
+Residue to Mutate TYRA36 has residue index 34
+Residue to Mutate TYRA36 has residue index 34
+Residue to Mutate TYRA36 has residue index 34
+Residue to Mutate TYRA36 has residue index 34
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA38 has residue index 36
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA426 has residue index 424
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Residue to Mutate TYRA448 has residue index 446
+Mutating residue = TYRA36 into ARG
+Mutating residue = TYRA36 into SER
+Mutating residue = TYRA36 into THR
+Mutating residue = TYRA36 into VAL
+Mutating residue = TYRA36 into TRP
+Mutating residue = TYRA38 into ALA
+Mutating residue = TYRA38 into CYS
+Mutating residue = TYRA38 into ASP
+Mutating residue = TYRA38 into GLU
+Mutating residue = TYRA38 into PHE
+Mutating residue = TYRA38 into GLY
+Mutating residue = TYRA38 into HIS
+Mutating residue = TYRA38 into ILE
+Mutating residue = TYRA38 into LYS
+Mutating residue = TYRA38 into LEU
+Mutating residue = TYRA38 into MET
+Mutating residue = TYRA38 into ASN
+Mutating residue = TYRA38 into PRO
+Mutating residue = TYRA38 into GLN
+Mutating residue = TYRA38 into ARG
+Mutating residue = TYRA38 into SER
+Mutating residue = TYRA38 into THR
+Mutating residue = TYRA38 into VAL
+Mutating residue = TYRA38 into TRP
+Mutating residue = TYRA426 into ALA
+Mutating residue = TYRA426 into CYS
+Mutating residue = TYRA426 into ASP
+Mutating residue = TYRA426 into GLU
+Mutating residue = TYRA426 into PHE
+Mutating residue = TYRA426 into GLY
+Mutating residue = TYRA426 into HIS
+Mutating residue = TYRA426 into ILE
+Mutating residue = TYRA426 into LYS
+Mutating residue = TYRA426 into LEU
+Mutating residue = TYRA426 into MET
+Mutating residue = TYRA426 into ASN
+Mutating residue = TYRA426 into PRO
+Mutating residue = TYRA426 into GLN
+Mutating residue = TYRA426 into ARG
+Mutating residue = TYRA426 into SER
+Mutating residue = TYRA426 into THR
+Mutating residue = TYRA426 into VAL
+Mutating residue = TYRA426 into TRP
+Mutating residue = TYRA448 into ALA
+Mutating residue = TYRA448 into CYS
+Mutating residue = TYRA448 into ASP
+Mutating residue = TYRA448 into GLU
+Mutating residue = TYRA448 into PHE
+Mutating residue = TYRA448 into GLY
+Mutating residue = TYRA448 into HIS
+Your file run OK
+End time of FoldX: Sat May  9 16:22:30 2026
+Total time spend: 308.38 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 174 结果提取成功，已映射突变信息。

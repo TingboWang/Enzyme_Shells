@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading RA313W;
+Reading RA313Y;
+Reading RA337A;
+Reading RA337C;
+Reading RA337D;
+Reading RA337E;
+Reading RA337F;
+Reading RA337G;
+Reading RA337H;
+Reading RA337I;
+Reading RA337K;
+Reading RA337L;
+Reading RA337M;
+Reading RA337N;
+Reading RA337P;
+Reading RA337Q;
+Reading RA337S;
+Reading RA337T;
+Reading RA337V;
+Reading RA337W;
+Reading RA337Y;
+Reading RA354A;
+Reading RA354C;
+Reading RA354D;
+Reading RA354E;
+Reading RA354F;
+Reading RA354G;
+Reading RA354H;
+Reading RA354I;
+Reading RA354K;
+Reading RA354L;
+Reading RA354M;
+Reading RA354N;
+Reading RA354P;
+Reading RA354Q;
+Reading RA354S;
+Reading RA354T;
+Reading RA354V;
+Reading RA354W;
+Reading RA354Y;
+Reading RA375A;
+Reading RA375C;
+Reading RA375D;
+Reading RA375E;
+Reading RA375F;
+Reading RA375G;
+Reading RA375H;
+Reading RA375I;
+Reading RA375K;
+Reading RA375L;
+Residue to Mutate ARGA313 has residue index 311
+Residue to Mutate ARGA313 has residue index 311
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA337 has residue index 335
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA354 has residue index 352
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Residue to Mutate ARGA375 has residue index 373
+Mutating residue = ARGA313 into TRP
+Mutating residue = ARGA313 into TYR
+Mutating residue = ARGA337 into ALA
+Mutating residue = ARGA337 into CYS
+Mutating residue = ARGA337 into ASP
+Mutating residue = ARGA337 into GLU
+Mutating residue = ARGA337 into PHE
+Mutating residue = ARGA337 into GLY
+Mutating residue = ARGA337 into HIS
+Mutating residue = ARGA337 into ILE
+Mutating residue = ARGA337 into LYS
+Mutating residue = ARGA337 into LEU
+Mutating residue = ARGA337 into MET
+Mutating residue = ARGA337 into ASN
+Mutating residue = ARGA337 into PRO
+Mutating residue = ARGA337 into GLN
+Mutating residue = ARGA337 into SER
+Mutating residue = ARGA337 into THR
+Mutating residue = ARGA337 into VAL
+Mutating residue = ARGA337 into TRP
+Mutating residue = ARGA337 into TYR
+Mutating residue = ARGA354 into ALA
+Mutating residue = ARGA354 into CYS
+Mutating residue = ARGA354 into ASP
+Mutating residue = ARGA354 into GLU
+Mutating residue = ARGA354 into PHE
+Mutating residue = ARGA354 into GLY
+Mutating residue = ARGA354 into HIS
+Mutating residue = ARGA354 into ILE
+Mutating residue = ARGA354 into LYS
+Mutating residue = ARGA354 into LEU
+Mutating residue = ARGA354 into MET
+Mutating residue = ARGA354 into ASN
+Mutating residue = ARGA354 into PRO
+Mutating residue = ARGA354 into GLN
+Mutating residue = ARGA354 into SER
+Mutating residue = ARGA354 into THR
+Mutating residue = ARGA354 into VAL
+Mutating residue = ARGA354 into TRP
+Mutating residue = ARGA354 into TYR
+Mutating residue = ARGA375 into ALA
+Mutating residue = ARGA375 into CYS
+Mutating residue = ARGA375 into ASP
+Mutating residue = ARGA375 into GLU
+Mutating residue = ARGA375 into PHE
+Mutating residue = ARGA375 into GLY
+Mutating residue = ARGA375 into HIS
+Mutating residue = ARGA375 into ILE
+Mutating residue = ARGA375 into LYS
+Mutating residue = ARGA375 into LEU
+Your file run OK
+End time of FoldX: Sat May  9 16:27:00 2026
+Total time spend: 577.96 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 135 结果提取成功，已映射突变信息。

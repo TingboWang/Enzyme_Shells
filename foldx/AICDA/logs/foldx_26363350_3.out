@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AICDA.pdb
+1 models read: AICDA.pdb
+
+BackHbond       =               -141.11
+SideHbond       =               -37.58
+Energy_VdW      =               -212.73
+Electro         =               -0.69
+Energy_SolvP    =               287.38
+Energy_SolvH    =               -276.48
+Energy_vdwclash =               17.40
+energy_torsion  =               2.98
+backbone_vdwclash=              115.24
+Entropy_sidec   =               102.00
+Entropy_mainc   =               293.89
+water bonds     =               0.00
+helix dipole    =               -1.15
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.27
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  34.19
+
+
+BackHbond       =               -141.11
+SideHbond       =               -37.58
+Energy_VdW      =               -212.73
+Electro         =               -0.69
+Energy_SolvP    =               287.38
+Energy_SolvH    =               -276.48
+Energy_vdwclash =               17.40
+energy_torsion  =               2.98
+backbone_vdwclash=              115.24
+Entropy_sidec   =               102.00
+Entropy_mainc   =               293.89
+water bonds     =               0.00
+helix dipole    =               -1.15
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.27
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  34.19
+
+Starting BuildModel
+Reading FA115H;
+Reading FA115I;
+Reading FA115K;
+Reading FA115L;
+Reading FA115M;
+Reading FA115N;
+Reading FA115P;
+Reading FA115Q;
+Reading FA115R;
+Reading FA115S;
+Reading FA115T;
+Reading FA115V;
+Reading FA115W;
+Reading FA115Y;
+Reading KA120A;
+Reading KA120C;
+Reading KA120D;
+Reading KA120E;
+Reading KA120F;
+Reading KA120G;
+Reading KA120H;
+Reading KA120I;
+Reading KA120L;
+Reading KA120M;
+Reading KA120N;
+Reading KA120P;
+Reading KA120Q;
+Reading KA120R;
+Reading KA120S;
+Reading KA120T;
+Reading KA120V;
+Reading KA120W;
+Reading KA120Y;
+Reading LA113A;
+Reading LA113C;
+Reading LA113D;
+Reading LA113E;
+Reading LA113F;
+Reading LA113G;
+Reading LA113H;
+Reading LA113I;
+Reading LA113K;
+Reading LA113M;
+Reading LA113N;
+Reading LA113P;
+Reading LA113Q;
+Reading LA113R;
+Reading LA113S;
+Reading LA113T;
+Reading LA113V;
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate PHEA115 has residue index 114
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LYSA120 has residue index 119
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Residue to Mutate LEUA113 has residue index 112
+Mutating residue = PHEA115 into HIS
+Mutating residue = PHEA115 into ILE
+Mutating residue = PHEA115 into LYS
+Mutating residue = PHEA115 into LEU
+Mutating residue = PHEA115 into MET
+Mutating residue = PHEA115 into ASN
+Mutating residue = PHEA115 into PRO
+Mutating residue = PHEA115 into GLN
+Mutating residue = PHEA115 into ARG
+Mutating residue = PHEA115 into SER
+Mutating residue = PHEA115 into THR
+Mutating residue = PHEA115 into VAL
+Mutating residue = PHEA115 into TRP
+Mutating residue = PHEA115 into TYR
+Mutating residue = LYSA120 into ALA
+Mutating residue = LYSA120 into CYS
+Mutating residue = LYSA120 into ASP
+Mutating residue = LYSA120 into GLU
+Mutating residue = LYSA120 into PHE
+Mutating residue = LYSA120 into GLY
+Mutating residue = LYSA120 into HIS
+Mutating residue = LYSA120 into ILE
+Mutating residue = LYSA120 into LEU
+Mutating residue = LYSA120 into MET
+Mutating residue = LYSA120 into ASN
+Mutating residue = LYSA120 into PRO
+Mutating residue = LYSA120 into GLN
+Mutating residue = LYSA120 into ARG
+Mutating residue = LYSA120 into SER
+Mutating residue = LYSA120 into THR
+Mutating residue = LYSA120 into VAL
+Mutating residue = LYSA120 into TRP
+Mutating residue = LYSA120 into TYR
+Mutating residue = LEUA113 into ALA
+Mutating residue = LEUA113 into CYS
+Mutating residue = LEUA113 into ASP
+Mutating residue = LEUA113 into GLU
+Mutating residue = LEUA113 into PHE
+Mutating residue = LEUA113 into GLY
+Mutating residue = LEUA113 into HIS
+Mutating residue = LEUA113 into ILE
+Mutating residue = LEUA113 into LYS
+Mutating residue = LEUA113 into MET
+Mutating residue = LEUA113 into ASN
+Mutating residue = LEUA113 into PRO
+Mutating residue = LEUA113 into GLN
+Mutating residue = LEUA113 into ARG
+Mutating residue = LEUA113 into SER
+Mutating residue = LEUA113 into THR
+Mutating residue = LEUA113 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:30:30 2026
+Total time spend: 809.94 seconds.
+validated file "AICDA_1.pdb" => successfully finished
+validated file "AICDA_2.pdb" => successfully finished
+validated file "AICDA_3.pdb" => successfully finished
+validated file "AICDA_4.pdb" => successfully finished
+validated file "AICDA_5.pdb" => successfully finished
+validated file "AICDA_6.pdb" => successfully finished
+validated file "AICDA_7.pdb" => successfully finished
+validated file "AICDA_8.pdb" => successfully finished
+validated file "AICDA_9.pdb" => successfully finished
+validated file "AICDA_10.pdb" => successfully finished
+validated file "AICDA_11.pdb" => successfully finished
+validated file "AICDA_12.pdb" => successfully finished
+validated file "AICDA_13.pdb" => successfully finished
+validated file "AICDA_14.pdb" => successfully finished
+validated file "AICDA_15.pdb" => successfully finished
+validated file "AICDA_16.pdb" => successfully finished
+validated file "AICDA_17.pdb" => successfully finished
+validated file "AICDA_18.pdb" => successfully finished
+validated file "AICDA_19.pdb" => successfully finished
+validated file "AICDA_20.pdb" => successfully finished
+validated file "AICDA_21.pdb" => successfully finished
+validated file "AICDA_22.pdb" => successfully finished
+validated file "AICDA_23.pdb" => successfully finished
+validated file "AICDA_24.pdb" => successfully finished
+validated file "AICDA_25.pdb" => successfully finished
+validated file "AICDA_26.pdb" => successfully finished
+validated file "AICDA_27.pdb" => successfully finished
+validated file "AICDA_28.pdb" => successfully finished
+validated file "AICDA_29.pdb" => successfully finished
+validated file "AICDA_30.pdb" => successfully finished
+validated file "AICDA_31.pdb" => successfully finished
+validated file "AICDA_32.pdb" => successfully finished
+validated file "AICDA_33.pdb" => successfully finished
+validated file "AICDA_34.pdb" => successfully finished
+validated file "AICDA_35.pdb" => successfully finished
+validated file "AICDA_36.pdb" => successfully finished
+validated file "AICDA_37.pdb" => successfully finished
+validated file "AICDA_38.pdb" => successfully finished
+validated file "AICDA_39.pdb" => successfully finished
+validated file "AICDA_40.pdb" => successfully finished
+validated file "AICDA_41.pdb" => successfully finished
+validated file "AICDA_42.pdb" => successfully finished
+validated file "AICDA_43.pdb" => successfully finished
+validated file "AICDA_44.pdb" => successfully finished
+validated file "AICDA_45.pdb" => successfully finished
+validated file "AICDA_46.pdb" => successfully finished
+validated file "AICDA_47.pdb" => successfully finished
+validated file "AICDA_48.pdb" => successfully finished
+validated file "AICDA_49.pdb" => successfully finished
+validated file "AICDA_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 3 结果提取成功，已映射突变信息。

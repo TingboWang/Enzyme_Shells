@@ -1,0 +1,144 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading RA435Y;
+Reading RA452A;
+Reading RA452C;
+Reading RA452D;
+Reading RA452E;
+Reading RA452F;
+Reading RA452G;
+Reading RA452H;
+Reading RA452I;
+Reading RA452K;
+Reading RA452L;
+Reading RA452M;
+Reading RA452N;
+Reading RA452P;
+Reading RA452Q;
+Reading RA452S;
+Reading RA452T;
+Reading RA452V;
+Reading RA452W;
+Reading RA452Y;
+Reading RA461A;
+Reading RA461C;
+Reading RA461D;
+Reading RA461E;
+Reading RA461F;
+Reading RA461G;
+Reading RA461H;
+Reading RA461I;
+Reading RA461K;
+Reading RA461L;
+Reading RA461M;
+Reading RA461N;
+Reading RA461P;
+Reading RA461Q;
+Reading RA461S;
+Reading RA461T;
+Reading RA461V;
+Reading RA461W;
+Reading RA461Y;
+Reading RA65A;
+Reading RA65C;
+Reading RA65D;
+Reading RA65E;
+Reading RA65F;
+Reading RA65G;
+Reading RA65H;
+Reading RA65I;
+Reading RA65K;
+Reading RA65L;
+Reading RA65M;
+Residue to Mutate ARGA435 has residue index 433
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+Residue to Mutate ARGA452 has residue index 450
+RA461A	Specified residue not found.
+no mutations performed.
+警告：任务 138 未生成 Dif_RUBISCO.fxout

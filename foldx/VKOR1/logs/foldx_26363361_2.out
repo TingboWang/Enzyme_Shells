@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: VKOR1.pdb
+1 models read: VKOR1.pdb
+
+BackHbond       =               -129.26
+SideHbond       =               -18.86
+Energy_VdW      =               -156.14
+Electro         =               -0.18
+Energy_SolvP    =               231.69
+Energy_SolvH    =               -189.32
+Energy_vdwclash =               10.66
+energy_torsion  =               1.99
+backbone_vdwclash=              147.65
+Entropy_sidec   =               65.31
+Entropy_mainc   =               242.14
+water bonds     =               0.00
+helix dipole    =               -0.34
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -2.43
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.15
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  55.41
+
+
+BackHbond       =               -129.26
+SideHbond       =               -18.86
+Energy_VdW      =               -156.14
+Electro         =               -0.18
+Energy_SolvP    =               231.69
+Energy_SolvH    =               -189.32
+Energy_vdwclash =               10.66
+energy_torsion  =               1.99
+backbone_vdwclash=              147.65
+Entropy_sidec   =               65.31
+Entropy_mainc   =               242.14
+water bonds     =               0.00
+helix dipole    =               -0.34
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -2.43
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.15
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  55.41
+
+Starting BuildModel
+Reading LA13I;
+Reading LA13N;
+Reading LA13S;
+Reading AA14P;
+Reading AA14I;
+Reading AA14M;
+Reading LA15V;
+Reading LA15G;
+Reading LA15K;
+Reading LA15N;
+Reading LA15R;
+Reading CA16M;
+Reading CA16I;
+Reading CA16F;
+Reading CA16S;
+Reading CA16P;
+Reading CA16Y;
+Reading CA16R;
+Reading LA17T;
+Reading LA17A;
+Reading LA17Q;
+Reading TA18I;
+Reading TA18L;
+Reading LA20R;
+Reading LA20G;
+Reading LA20S;
+Reading VA21Y;
+Reading VA21G;
+Reading VA21I;
+Reading LA22G;
+Reading LA22R;
+Reading SA23A;
+Reading SA23P;
+Reading LA24T;
+Reading LA24N;
+Reading LA24E;
+Reading AA26K;
+Reading AA26R;
+Reading AA26G;
+Reading LA27E;
+Reading HA28Y;
+Reading HA28D;
+Reading VA29H;
+Reading VA29Q;
+Reading VA29R;
+Reading VA29F;
+Reading VA29C;
+Reading VA29G;
+Reading AA31Q;
+Reading AA31S;
+Residue to Mutate LEUA13 has residue index 12
+Residue to Mutate LEUA13 has residue index 12
+Residue to Mutate LEUA13 has residue index 12
+Residue to Mutate ALAA14 has residue index 13
+Residue to Mutate ALAA14 has residue index 13
+Residue to Mutate ALAA14 has residue index 13
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate CYSA16 has residue index 15
+Residue to Mutate LEUA17 has residue index 16
+Residue to Mutate LEUA17 has residue index 16
+Residue to Mutate LEUA17 has residue index 16
+Residue to Mutate THRA18 has residue index 17
+Residue to Mutate THRA18 has residue index 17
+Residue to Mutate LEUA20 has residue index 19
+Residue to Mutate LEUA20 has residue index 19
+Residue to Mutate LEUA20 has residue index 19
+Residue to Mutate VALA21 has residue index 20
+Residue to Mutate VALA21 has residue index 20
+Residue to Mutate VALA21 has residue index 20
+Residue to Mutate LEUA22 has residue index 21
+Residue to Mutate LEUA22 has residue index 21
+Residue to Mutate SERA23 has residue index 22
+Residue to Mutate SERA23 has residue index 22
+Residue to Mutate LEUA24 has residue index 23
+Residue to Mutate LEUA24 has residue index 23
+Residue to Mutate LEUA24 has residue index 23
+Residue to Mutate ALAA26 has residue index 25
+Residue to Mutate ALAA26 has residue index 25
+Residue to Mutate ALAA26 has residue index 25
+Residue to Mutate LEUA27 has residue index 26
+Residue to Mutate HISA28 has residue index 27
+Residue to Mutate HISA28 has residue index 27
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate VALA29 has residue index 28
+Residue to Mutate ALAA31 has residue index 30
+Residue to Mutate ALAA31 has residue index 30
+Mutating residue = LEUA13 into ILE
+Mutating residue = LEUA13 into ASN
+Mutating residue = LEUA13 into SER
+Mutating residue = ALAA14 into PRO
+Mutating residue = ALAA14 into ILE
+Mutating residue = ALAA14 into MET
+Mutating residue = LEUA15 into VAL
+Mutating residue = LEUA15 into GLY
+Mutating residue = LEUA15 into LYS
+Mutating residue = LEUA15 into ASN
+Mutating residue = LEUA15 into ARG
+Mutating residue = CYSA16 into MET
+Mutating residue = CYSA16 into ILE
+Mutating residue = CYSA16 into PHE
+Mutating residue = CYSA16 into SER
+Mutating residue = CYSA16 into PRO
+Mutating residue = CYSA16 into TYR
+Mutating residue = CYSA16 into ARG
+Mutating residue = LEUA17 into THR
+Mutating residue = LEUA17 into ALA
+Mutating residue = LEUA17 into GLN
+Mutating residue = THRA18 into ILE
+Mutating residue = THRA18 into LEU
+Mutating residue = LEUA20 into ARG
+Mutating residue = LEUA20 into GLY
+Mutating residue = LEUA20 into SER
+Mutating residue = VALA21 into TYR
+Mutating residue = VALA21 into GLY
+Mutating residue = VALA21 into ILE
+Mutating residue = LEUA22 into GLY
+Mutating residue = LEUA22 into ARG
+Mutating residue = SERA23 into ALA
+Mutating residue = SERA23 into PRO
+Mutating residue = LEUA24 into THR
+Mutating residue = LEUA24 into ASN
+Mutating residue = LEUA24 into GLU
+Mutating residue = ALAA26 into LYS
+Mutating residue = ALAA26 into ARG
+Mutating residue = ALAA26 into GLY
+Mutating residue = LEUA27 into GLU
+Mutating residue = H1SA28 into TYR
+Mutating residue = H1SA28 into ASP
+Mutating residue = VALA29 into HIS
+Mutating residue = VALA29 into GLN
+Mutating residue = VALA29 into ARG
+Mutating residue = VALA29 into PHE
+Mutating residue = VALA29 into CYS
+Mutating residue = VALA29 into GLY
+Mutating residue = ALAA31 into GLN
+Mutating residue = ALAA31 into SER
+Your file run OK
+End time of FoldX: Sat May  9 16:21:48 2026
+Total time spend: 264.88 seconds.
+validated file "VKOR1_1.pdb" => successfully finished
+validated file "VKOR1_2.pdb" => successfully finished
+validated file "VKOR1_3.pdb" => successfully finished
+validated file "VKOR1_4.pdb" => successfully finished
+validated file "VKOR1_5.pdb" => successfully finished
+validated file "VKOR1_6.pdb" => successfully finished
+validated file "VKOR1_7.pdb" => successfully finished
+validated file "VKOR1_8.pdb" => successfully finished
+validated file "VKOR1_9.pdb" => successfully finished
+validated file "VKOR1_10.pdb" => successfully finished
+validated file "VKOR1_11.pdb" => successfully finished
+validated file "VKOR1_12.pdb" => successfully finished
+validated file "VKOR1_13.pdb" => successfully finished
+validated file "VKOR1_14.pdb" => successfully finished
+validated file "VKOR1_15.pdb" => successfully finished
+validated file "VKOR1_16.pdb" => successfully finished
+validated file "VKOR1_17.pdb" => successfully finished
+validated file "VKOR1_18.pdb" => successfully finished
+validated file "VKOR1_19.pdb" => successfully finished
+validated file "VKOR1_20.pdb" => successfully finished
+validated file "VKOR1_21.pdb" => successfully finished
+validated file "VKOR1_22.pdb" => successfully finished
+validated file "VKOR1_23.pdb" => successfully finished
+validated file "VKOR1_24.pdb" => successfully finished
+validated file "VKOR1_25.pdb" => successfully finished
+validated file "VKOR1_26.pdb" => successfully finished
+validated file "VKOR1_27.pdb" => successfully finished
+validated file "VKOR1_28.pdb" => successfully finished
+validated file "VKOR1_29.pdb" => successfully finished
+validated file "VKOR1_30.pdb" => successfully finished
+validated file "VKOR1_31.pdb" => successfully finished
+validated file "VKOR1_32.pdb" => successfully finished
+validated file "VKOR1_33.pdb" => successfully finished
+validated file "VKOR1_34.pdb" => successfully finished
+validated file "VKOR1_35.pdb" => successfully finished
+validated file "VKOR1_36.pdb" => successfully finished
+validated file "VKOR1_37.pdb" => successfully finished
+validated file "VKOR1_38.pdb" => successfully finished
+validated file "VKOR1_39.pdb" => successfully finished
+validated file "VKOR1_40.pdb" => successfully finished
+validated file "VKOR1_41.pdb" => successfully finished
+validated file "VKOR1_42.pdb" => successfully finished
+validated file "VKOR1_43.pdb" => successfully finished
+validated file "VKOR1_44.pdb" => successfully finished
+validated file "VKOR1_45.pdb" => successfully finished
+validated file "VKOR1_46.pdb" => successfully finished
+validated file "VKOR1_47.pdb" => successfully finished
+validated file "VKOR1_48.pdb" => successfully finished
+validated file "VKOR1_49.pdb" => successfully finished
+validated file "VKOR1_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 2 结果提取成功，已映射突变信息。

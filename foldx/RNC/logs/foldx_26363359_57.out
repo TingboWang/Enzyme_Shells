@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading QA10F;
+Reading QA10G;
+Reading QA10H;
+Reading QA10I;
+Reading QA10K;
+Reading QA10L;
+Reading QA10M;
+Reading QA10N;
+Reading QA10P;
+Reading QA10R;
+Reading QA10S;
+Reading QA10T;
+Reading QA10V;
+Reading QA10W;
+Reading QA10Y;
+Reading QA130A;
+Reading QA130C;
+Reading QA130D;
+Reading QA130E;
+Reading QA130F;
+Reading QA130G;
+Reading QA130H;
+Reading QA130I;
+Reading QA130K;
+Reading QA130L;
+Reading QA130M;
+Reading QA130N;
+Reading QA130P;
+Reading QA130R;
+Reading QA130S;
+Reading QA130T;
+Reading QA130V;
+Reading QA130W;
+Reading QA130Y;
+Reading QA141A;
+Reading QA141C;
+Reading QA141D;
+Reading QA141E;
+Reading QA141F;
+Reading QA141G;
+Reading QA141H;
+Reading QA141I;
+Reading QA141K;
+Reading QA141L;
+Reading QA141M;
+Reading QA141N;
+Reading QA141P;
+Reading QA141R;
+Reading QA141S;
+Reading QA141T;
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA130 has residue index 129
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Residue to Mutate GLNA141 has residue index 140
+Mutating residue = GLNA10 into PHE
+Mutating residue = GLNA10 into GLY
+Mutating residue = GLNA10 into HIS
+Mutating residue = GLNA10 into ILE
+Mutating residue = GLNA10 into LYS
+Mutating residue = GLNA10 into LEU
+Mutating residue = GLNA10 into MET
+Mutating residue = GLNA10 into ASN
+Mutating residue = GLNA10 into PRO
+Mutating residue = GLNA10 into ARG
+Mutating residue = GLNA10 into SER
+Mutating residue = GLNA10 into THR
+Mutating residue = GLNA10 into VAL
+Mutating residue = GLNA10 into TRP
+Mutating residue = GLNA10 into TYR
+Mutating residue = GLNA130 into ALA
+Mutating residue = GLNA130 into CYS
+Mutating residue = GLNA130 into ASP
+Mutating residue = GLNA130 into GLU
+Mutating residue = GLNA130 into PHE
+Mutating residue = GLNA130 into GLY
+Mutating residue = GLNA130 into HIS
+Mutating residue = GLNA130 into ILE
+Mutating residue = GLNA130 into LYS
+Mutating residue = GLNA130 into LEU
+Mutating residue = GLNA130 into MET
+Mutating residue = GLNA130 into ASN
+Mutating residue = GLNA130 into PRO
+Mutating residue = GLNA130 into ARG
+Mutating residue = GLNA130 into SER
+Mutating residue = GLNA130 into THR
+Mutating residue = GLNA130 into VAL
+Mutating residue = GLNA130 into TRP
+Mutating residue = GLNA130 into TYR
+Mutating residue = GLNA141 into ALA
+Mutating residue = GLNA141 into CYS
+Mutating residue = GLNA141 into ASP
+Mutating residue = GLNA141 into GLU
+Mutating residue = GLNA141 into PHE
+Mutating residue = GLNA141 into GLY
+Mutating residue = GLNA141 into HIS
+Mutating residue = GLNA141 into ILE
+Mutating residue = GLNA141 into LYS
+Mutating residue = GLNA141 into LEU
+Mutating residue = GLNA141 into MET
+Mutating residue = GLNA141 into ASN
+Mutating residue = GLNA141 into PRO
+Mutating residue = GLNA141 into ARG
+Mutating residue = GLNA141 into SER
+Mutating residue = GLNA141 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:25:34 2026
+Total time spend: 494.55 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 57 结果提取成功，已映射突变信息。

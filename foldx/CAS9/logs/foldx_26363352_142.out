@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading TA1098R;
+Reading TA1098S;
+Reading TA1102A;
+Reading TA1102I;
+Reading TA1102N;
+Reading TA1102P;
+Reading TA1102S;
+Reading TA1138A;
+Reading TA1138I;
+Reading TA1138K;
+Reading TA1138P;
+Reading TA1138R;
+Reading TA1138S;
+Reading TA1167A;
+Reading TA1167I;
+Reading TA1167N;
+Reading TA1167P;
+Reading TA1167S;
+Reading TA1314A;
+Reading TA1314I;
+Reading TA1314N;
+Reading TA1314P;
+Reading TA1314S;
+Reading TA1316A;
+Reading TA1316I;
+Reading TA1316N;
+Reading TA1316P;
+Reading TA1316S;
+Reading TA1329A;
+Reading TA1329I;
+Reading TA1329N;
+Reading TA1329P;
+Reading TA1329S;
+Reading TA1330A;
+Reading TA1330I;
+Reading TA1330N;
+Reading TA1330P;
+Reading TA1330S;
+Reading TA1337A;
+Reading TA1337I;
+Reading TA1337K;
+Reading TA1337P;
+Reading TA1337R;
+Reading TA1337S;
+Reading TA1339A;
+Reading TA1339I;
+Reading TA1339N;
+Reading TA1339P;
+Reading TA1339S;
+Reading TA1346A;
+Residue to Mutate THRA1098 has residue index 1097
+Residue to Mutate THRA1098 has residue index 1097
+Residue to Mutate THRA1102 has residue index 1101
+Residue to Mutate THRA1102 has residue index 1101
+Residue to Mutate THRA1102 has residue index 1101
+Residue to Mutate THRA1102 has residue index 1101
+Residue to Mutate THRA1102 has residue index 1101
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1138 has residue index 1137
+Residue to Mutate THRA1167 has residue index 1166
+Residue to Mutate THRA1167 has residue index 1166
+Residue to Mutate THRA1167 has residue index 1166
+Residue to Mutate THRA1167 has residue index 1166
+Residue to Mutate THRA1167 has residue index 1166
+Residue to Mutate THRA1314 has residue index 1313
+Residue to Mutate THRA1314 has residue index 1313
+Residue to Mutate THRA1314 has residue index 1313
+Residue to Mutate THRA1314 has residue index 1313
+Residue to Mutate THRA1314 has residue index 1313
+Residue to Mutate THRA1316 has residue index 1315
+Residue to Mutate THRA1316 has residue index 1315
+Residue to Mutate THRA1316 has residue index 1315
+Residue to Mutate THRA1316 has residue index 1315
+Residue to Mutate THRA1316 has residue index 1315
+Residue to Mutate THRA1329 has residue index 1328
+Residue to Mutate THRA1329 has residue index 1328
+Residue to Mutate THRA1329 has residue index 1328
+Residue to Mutate THRA1329 has residue index 1328
+Residue to Mutate THRA1329 has residue index 1328
+Residue to Mutate THRA1330 has residue index 1329
+Residue to Mutate THRA1330 has residue index 1329
+Residue to Mutate THRA1330 has residue index 1329
+Residue to Mutate THRA1330 has residue index 1329
+Residue to Mutate THRA1330 has residue index 1329
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1337 has residue index 1336
+Residue to Mutate THRA1339 has residue index 1338
+Residue to Mutate THRA1339 has residue index 1338
+Residue to Mutate THRA1339 has residue index 1338
+Residue to Mutate THRA1339 has residue index 1338
+Residue to Mutate THRA1339 has residue index 1338
+Residue to Mutate THRA1346 has residue index 1345
+Mutating residue = THRA1098 into ARG
+Mutating residue = THRA1098 into SER
+Mutating residue = THRA1102 into ALA
+Mutating residue = THRA1102 into ILE
+Mutating residue = THRA1102 into ASN
+Mutating residue = THRA1102 into PRO
+Mutating residue = THRA1102 into SER
+Mutating residue = THRA1138 into ALA
+Mutating residue = THRA1138 into ILE
+Mutating residue = THRA1138 into LYS
+Mutating residue = THRA1138 into PRO
+Mutating residue = THRA1138 into ARG
+Mutating residue = THRA1138 into SER
+Mutating residue = THRA1167 into ALA
+Mutating residue = THRA1167 into ILE
+Mutating residue = THRA1167 into ASN
+Mutating residue = THRA1167 into PRO
+Mutating residue = THRA1167 into SER
+Mutating residue = THRA1314 into ALA
+Mutating residue = THRA1314 into ILE
+Mutating residue = THRA1314 into ASN
+Mutating residue = THRA1314 into PRO
+Mutating residue = THRA1314 into SER
+Mutating residue = THRA1316 into ALA
+Mutating residue = THRA1316 into ILE
+Mutating residue = THRA1316 into ASN
+Mutating residue = THRA1316 into PRO
+Mutating residue = THRA1316 into SER
+Mutating residue = THRA1329 into ALA
+Mutating residue = THRA1329 into ILE
+Mutating residue = THRA1329 into ASN
+Mutating residue = THRA1329 into PRO
+Mutating residue = THRA1329 into SER
+Mutating residue = THRA1330 into ALA
+Mutating residue = THRA1330 into ILE
+Mutating residue = THRA1330 into ASN
+Mutating residue = THRA1330 into PRO
+Mutating residue = THRA1330 into SER
+Mutating residue = THRA1337 into ALA
+Mutating residue = THRA1337 into ILE
+Mutating residue = THRA1337 into LYS
+Mutating residue = THRA1337 into PRO
+Mutating residue = THRA1337 into ARG
+Mutating residue = THRA1337 into SER
+Mutating residue = THRA1339 into ALA
+Mutating residue = THRA1339 into ILE
+Mutating residue = THRA1339 into ASN
+Mutating residue = THRA1339 into PRO
+Mutating residue = THRA1339 into SER
+Mutating residue = THRA1346 into ALA
+Your file run OK
+End time of FoldX: Sat May  9 16:21:11 2026
+Total time spend: 242.10 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 142 结果提取成功，已映射突变信息。

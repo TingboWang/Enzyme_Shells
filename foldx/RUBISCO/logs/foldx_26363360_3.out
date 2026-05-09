@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading AA145H;
+Reading AA145I;
+Reading AA145K;
+Reading AA145L;
+Reading AA145M;
+Reading AA145N;
+Reading AA145P;
+Reading AA145Q;
+Reading AA145R;
+Reading AA145S;
+Reading AA145T;
+Reading AA145V;
+Reading AA145W;
+Reading AA145Y;
+Reading AA177C;
+Reading AA177D;
+Reading AA177E;
+Reading AA177F;
+Reading AA177G;
+Reading AA177H;
+Reading AA177I;
+Reading AA177K;
+Reading AA177L;
+Reading AA177M;
+Reading AA177N;
+Reading AA177P;
+Reading AA177Q;
+Reading AA177R;
+Reading AA177S;
+Reading AA177T;
+Reading AA177V;
+Reading AA177W;
+Reading AA177Y;
+Reading AA179C;
+Reading AA179D;
+Reading AA179E;
+Reading AA179F;
+Reading AA179G;
+Reading AA179H;
+Reading AA179I;
+Reading AA179K;
+Reading AA179L;
+Reading AA179M;
+Reading AA179N;
+Reading AA179P;
+Reading AA179Q;
+Reading AA179R;
+Reading AA179S;
+Reading AA179T;
+Reading AA179V;
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA145 has residue index 143
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA177 has residue index 175
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ALAA179 has residue index 177
+Mutating residue = ALAA145 into HIS
+Mutating residue = ALAA145 into ILE
+Mutating residue = ALAA145 into LYS
+Mutating residue = ALAA145 into LEU
+Mutating residue = ALAA145 into MET
+Mutating residue = ALAA145 into ASN
+Mutating residue = ALAA145 into PRO
+Mutating residue = ALAA145 into GLN
+Mutating residue = ALAA145 into ARG
+Mutating residue = ALAA145 into SER
+Mutating residue = ALAA145 into THR
+Mutating residue = ALAA145 into VAL
+Mutating residue = ALAA145 into TRP
+Mutating residue = ALAA145 into TYR
+Mutating residue = ALAA177 into CYS
+Mutating residue = ALAA177 into ASP
+Mutating residue = ALAA177 into GLU
+Mutating residue = ALAA177 into PHE
+Mutating residue = ALAA177 into GLY
+Mutating residue = ALAA177 into HIS
+Mutating residue = ALAA177 into ILE
+Mutating residue = ALAA177 into LYS
+Mutating residue = ALAA177 into LEU
+Mutating residue = ALAA177 into MET
+Mutating residue = ALAA177 into ASN
+Mutating residue = ALAA177 into PRO
+Mutating residue = ALAA177 into GLN
+Mutating residue = ALAA177 into ARG
+Mutating residue = ALAA177 into SER
+Mutating residue = ALAA177 into THR
+Mutating residue = ALAA177 into VAL
+Mutating residue = ALAA177 into TRP
+Mutating residue = ALAA177 into TYR
+Mutating residue = ALAA179 into CYS
+Mutating residue = ALAA179 into ASP
+Mutating residue = ALAA179 into GLU
+Mutating residue = ALAA179 into PHE
+Mutating residue = ALAA179 into GLY
+Mutating residue = ALAA179 into HIS
+Mutating residue = ALAA179 into ILE
+Mutating residue = ALAA179 into LYS
+Mutating residue = ALAA179 into LEU
+Mutating residue = ALAA179 into MET
+Mutating residue = ALAA179 into ASN
+Mutating residue = ALAA179 into PRO
+Mutating residue = ALAA179 into GLN
+Mutating residue = ALAA179 into ARG
+Mutating residue = ALAA179 into SER
+Mutating residue = ALAA179 into THR
+Mutating residue = ALAA179 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:22:55 2026
+Total time spend: 335.77 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 3 结果提取成功，已映射突变信息。

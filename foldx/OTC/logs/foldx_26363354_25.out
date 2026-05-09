@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading RA40P;
+Reading RA66G;
+Reading RA66K;
+Reading RA66M;
+Reading RA66T;
+Reading RA66W;
+Reading RA89G;
+Reading RA89K;
+Reading RA89S;
+Reading RA89T;
+Reading RA92G;
+Reading RA92P;
+Reading RA92Q;
+Reading RA94G;
+Reading RA94I;
+Reading RA94K;
+Reading RA94S;
+Reading RA94T;
+Reading SA123C;
+Reading SA123G;
+Reading SA123I;
+Reading SA123N;
+Reading SA123R;
+Reading SA132A;
+Reading SA132C;
+Reading SA132F;
+Reading SA132P;
+Reading SA132Y;
+Reading SA133C;
+Reading SA133G;
+Reading SA133I;
+Reading SA133N;
+Reading SA133R;
+Reading SA133T;
+Reading SA146A;
+Reading SA146L;
+Reading SA146P;
+Reading SA146T;
+Reading SA156A;
+Reading SA156C;
+Reading SA156T;
+Reading SA156Y;
+Reading SA164A;
+Reading SA164L;
+Reading SA164P;
+Reading SA184C;
+Reading SA184N;
+Reading SA184T;
+Reading SA185A;
+Reading SA185C;
+Residue to Mutate ARGA40 has residue index 39
+Residue to Mutate ARGA66 has residue index 65
+Residue to Mutate ARGA66 has residue index 65
+Residue to Mutate ARGA66 has residue index 65
+Residue to Mutate ARGA66 has residue index 65
+Residue to Mutate ARGA66 has residue index 65
+Residue to Mutate ARGA89 has residue index 88
+Residue to Mutate ARGA89 has residue index 88
+Residue to Mutate ARGA89 has residue index 88
+Residue to Mutate ARGA89 has residue index 88
+Residue to Mutate ARGA92 has residue index 91
+Residue to Mutate ARGA92 has residue index 91
+Residue to Mutate ARGA92 has residue index 91
+Residue to Mutate ARGA94 has residue index 93
+Residue to Mutate ARGA94 has residue index 93
+Residue to Mutate ARGA94 has residue index 93
+Residue to Mutate ARGA94 has residue index 93
+Residue to Mutate ARGA94 has residue index 93
+Residue to Mutate SERA123 has residue index 122
+Residue to Mutate SERA123 has residue index 122
+Residue to Mutate SERA123 has residue index 122
+Residue to Mutate SERA123 has residue index 122
+Residue to Mutate SERA123 has residue index 122
+Residue to Mutate SERA132 has residue index 131
+Residue to Mutate SERA132 has residue index 131
+Residue to Mutate SERA132 has residue index 131
+Residue to Mutate SERA132 has residue index 131
+Residue to Mutate SERA132 has residue index 131
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate SERA146 has residue index 145
+Residue to Mutate SERA146 has residue index 145
+Residue to Mutate SERA146 has residue index 145
+Residue to Mutate SERA146 has residue index 145
+Residue to Mutate SERA156 has residue index 155
+Residue to Mutate SERA156 has residue index 155
+Residue to Mutate SERA156 has residue index 155
+Residue to Mutate SERA156 has residue index 155
+Residue to Mutate SERA164 has residue index 163
+Residue to Mutate SERA164 has residue index 163
+Residue to Mutate SERA164 has residue index 163
+Residue to Mutate SERA184 has residue index 183
+Residue to Mutate SERA184 has residue index 183
+Residue to Mutate SERA184 has residue index 183
+Residue to Mutate SERA185 has residue index 184
+Residue to Mutate SERA185 has residue index 184
+Mutating residue = ARGA40 into PRO
+Mutating residue = ARGA66 into GLY
+Mutating residue = ARGA66 into LYS
+Mutating residue = ARGA66 into MET
+Mutating residue = ARGA66 into THR
+Mutating residue = ARGA66 into TRP
+Mutating residue = ARGA89 into GLY
+Mutating residue = ARGA89 into LYS
+Mutating residue = ARGA89 into SER
+Mutating residue = ARGA89 into THR
+Mutating residue = ARGA92 into GLY
+Mutating residue = ARGA92 into PRO
+Mutating residue = ARGA92 into GLN
+Mutating residue = ARGA94 into GLY
+Mutating residue = ARGA94 into ILE
+Mutating residue = ARGA94 into LYS
+Mutating residue = ARGA94 into SER
+Mutating residue = ARGA94 into THR
+Mutating residue = SERA123 into CYS
+Mutating residue = SERA123 into GLY
+Mutating residue = SERA123 into ILE
+Mutating residue = SERA123 into ASN
+Mutating residue = SERA123 into ARG
+Mutating residue = SERA132 into ALA
+Mutating residue = SERA132 into CYS
+Mutating residue = SERA132 into PHE
+Mutating residue = SERA132 into PRO
+Mutating residue = SERA132 into TYR
+Mutating residue = SERA133 into CYS
+Mutating residue = SERA133 into GLY
+Mutating residue = SERA133 into ILE
+Mutating residue = SERA133 into ASN
+Mutating residue = SERA133 into ARG
+Mutating residue = SERA133 into THR
+Mutating residue = SERA146 into ALA
+Mutating residue = SERA146 into LEU
+Mutating residue = SERA146 into PRO
+Mutating residue = SERA146 into THR
+Mutating residue = SERA156 into ALA
+Mutating residue = SERA156 into CYS
+Mutating residue = SERA156 into THR
+Mutating residue = SERA156 into TYR
+Mutating residue = SERA164 into ALA
+Mutating residue = SERA164 into LEU
+Mutating residue = SERA164 into PRO
+Mutating residue = SERA184 into CYS
+Mutating residue = SERA184 into ASN
+Mutating residue = SERA184 into THR
+Mutating residue = SERA185 into ALA
+Mutating residue = SERA185 into CYS
+Your file run OK
+End time of FoldX: Sat May  9 16:22:00 2026
+Total time spend: 288.66 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 25 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading AA183Q;
+Reading AA183R;
+Reading AA183S;
+Reading AA183T;
+Reading AA183V;
+Reading AA183W;
+Reading AA183Y;
+Reading AA211C;
+Reading AA211D;
+Reading AA211E;
+Reading AA211F;
+Reading AA211G;
+Reading AA211H;
+Reading AA211I;
+Reading AA211K;
+Reading AA211L;
+Reading AA211M;
+Reading AA211N;
+Reading AA211P;
+Reading AA211Q;
+Reading AA211R;
+Reading AA211S;
+Reading AA211T;
+Reading AA211V;
+Reading AA211W;
+Reading AA211Y;
+Reading AA214C;
+Reading AA214D;
+Reading AA214E;
+Reading AA214F;
+Reading AA214G;
+Reading AA214H;
+Reading AA214I;
+Reading AA214K;
+Reading AA214L;
+Reading AA214M;
+Reading AA214N;
+Reading AA214P;
+Reading AA214Q;
+Reading AA214R;
+Reading AA214S;
+Reading AA214T;
+Reading AA214V;
+Reading AA214W;
+Reading AA214Y;
+Reading AA215C;
+Reading AA215D;
+Reading AA215E;
+Reading AA215F;
+Reading AA215G;
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA183 has residue index 182
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA211 has residue index 210
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA214 has residue index 213
+Residue to Mutate ALAA215 has residue index 214
+Residue to Mutate ALAA215 has residue index 214
+Residue to Mutate ALAA215 has residue index 214
+Residue to Mutate ALAA215 has residue index 214
+Residue to Mutate ALAA215 has residue index 214
+Mutating residue = ALAA183 into GLN
+Mutating residue = ALAA183 into ARG
+Mutating residue = ALAA183 into SER
+Mutating residue = ALAA183 into THR
+Mutating residue = ALAA183 into VAL
+Mutating residue = ALAA183 into TRP
+Mutating residue = ALAA183 into TYR
+Mutating residue = ALAA211 into CYS
+Mutating residue = ALAA211 into ASP
+Mutating residue = ALAA211 into GLU
+Mutating residue = ALAA211 into PHE
+Mutating residue = ALAA211 into GLY
+Mutating residue = ALAA211 into HIS
+Mutating residue = ALAA211 into ILE
+Mutating residue = ALAA211 into LYS
+Mutating residue = ALAA211 into LEU
+Mutating residue = ALAA211 into MET
+Mutating residue = ALAA211 into ASN
+Mutating residue = ALAA211 into PRO
+Mutating residue = ALAA211 into GLN
+Mutating residue = ALAA211 into ARG
+Mutating residue = ALAA211 into SER
+Mutating residue = ALAA211 into THR
+Mutating residue = ALAA211 into VAL
+Mutating residue = ALAA211 into TRP
+Mutating residue = ALAA211 into TYR
+Mutating residue = ALAA214 into CYS
+Mutating residue = ALAA214 into ASP
+Mutating residue = ALAA214 into GLU
+Mutating residue = ALAA214 into PHE
+Mutating residue = ALAA214 into GLY
+Mutating residue = ALAA214 into HIS
+Mutating residue = ALAA214 into ILE
+Mutating residue = ALAA214 into LYS
+Mutating residue = ALAA214 into LEU
+Mutating residue = ALAA214 into MET
+Mutating residue = ALAA214 into ASN
+Mutating residue = ALAA214 into PRO
+Mutating residue = ALAA214 into GLN
+Mutating residue = ALAA214 into ARG
+Mutating residue = ALAA214 into SER
+Mutating residue = ALAA214 into THR
+Mutating residue = ALAA214 into VAL
+Mutating residue = ALAA214 into TRP
+Mutating residue = ALAA214 into TYR
+Mutating residue = ALAA215 into CYS
+Mutating residue = ALAA215 into ASP
+Mutating residue = ALAA215 into GLU
+Mutating residue = ALAA215 into PHE
+Mutating residue = ALAA215 into GLY
+Your file run OK
+End time of FoldX: Sat May  9 16:24:49 2026
+Total time spend: 447.89 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 2 结果提取成功，已映射突变信息。

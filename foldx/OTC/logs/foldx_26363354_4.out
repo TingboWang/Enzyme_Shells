@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading DA149A;
+Reading DA149G;
+Reading DA165A;
+Reading DA165G;
+Reading DA165N;
+Reading DA165V;
+Reading DA165Y;
+Reading DA175V;
+Reading DA175Y;
+Reading DA196A;
+Reading DA196E;
+Reading DA196G;
+Reading DA196H;
+Reading DA196N;
+Reading DA196V;
+Reading DA196Y;
+Reading DA226A;
+Reading DA226E;
+Reading DA226G;
+Reading DA226H;
+Reading DA226N;
+Reading DA226V;
+Reading DA226Y;
+Reading DA249A;
+Reading DA249E;
+Reading DA249G;
+Reading DA249H;
+Reading DA249N;
+Reading DA249V;
+Reading DA249Y;
+Reading DA263A;
+Reading DA263E;
+Reading DA263H;
+Reading DA263N;
+Reading DA263V;
+Reading DA263Y;
+Reading DA297A;
+Reading DA297E;
+Reading DA297G;
+Reading DA297H;
+Reading DA297N;
+Reading DA297V;
+Reading DA297Y;
+Reading DA312A;
+Reading DA312E;
+Reading DA312G;
+Reading DA312H;
+Reading DA312N;
+Reading DA312V;
+Reading DA312Y;
+Residue to Mutate ASPA149 has residue index 148
+Residue to Mutate ASPA149 has residue index 148
+Residue to Mutate ASPA165 has residue index 164
+Residue to Mutate ASPA165 has residue index 164
+Residue to Mutate ASPA165 has residue index 164
+Residue to Mutate ASPA165 has residue index 164
+Residue to Mutate ASPA165 has residue index 164
+Residue to Mutate ASPA175 has residue index 174
+Residue to Mutate ASPA175 has residue index 174
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA196 has residue index 195
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA226 has residue index 225
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA249 has residue index 248
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA263 has residue index 262
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA297 has residue index 296
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Residue to Mutate ASPA312 has residue index 311
+Mutating residue = ASPA149 into ALA
+Mutating residue = ASPA149 into GLY
+Mutating residue = ASPA165 into ALA
+Mutating residue = ASPA165 into GLY
+Mutating residue = ASPA165 into ASN
+Mutating residue = ASPA165 into VAL
+Mutating residue = ASPA165 into TYR
+Mutating residue = ASPA175 into VAL
+Mutating residue = ASPA175 into TYR
+Mutating residue = ASPA196 into ALA
+Mutating residue = ASPA196 into GLU
+Mutating residue = ASPA196 into GLY
+Mutating residue = ASPA196 into HIS
+Mutating residue = ASPA196 into ASN
+Mutating residue = ASPA196 into VAL
+Mutating residue = ASPA196 into TYR
+Mutating residue = ASPA226 into ALA
+Mutating residue = ASPA226 into GLU
+Mutating residue = ASPA226 into GLY
+Mutating residue = ASPA226 into HIS
+Mutating residue = ASPA226 into ASN
+Mutating residue = ASPA226 into VAL
+Mutating residue = ASPA226 into TYR
+Mutating residue = ASPA249 into ALA
+Mutating residue = ASPA249 into GLU
+Mutating residue = ASPA249 into GLY
+Mutating residue = ASPA249 into HIS
+Mutating residue = ASPA249 into ASN
+Mutating residue = ASPA249 into VAL
+Mutating residue = ASPA249 into TYR
+Mutating residue = ASPA263 into ALA
+Mutating residue = ASPA263 into GLU
+Mutating residue = ASPA263 into HIS
+Mutating residue = ASPA263 into ASN
+Mutating residue = ASPA263 into VAL
+Mutating residue = ASPA263 into TYR
+Mutating residue = ASPA297 into ALA
+Mutating residue = ASPA297 into GLU
+Mutating residue = ASPA297 into GLY
+Mutating residue = ASPA297 into HIS
+Mutating residue = ASPA297 into ASN
+Mutating residue = ASPA297 into VAL
+Mutating residue = ASPA297 into TYR
+Mutating residue = ASPA312 into ALA
+Mutating residue = ASPA312 into GLU
+Mutating residue = ASPA312 into GLY
+Mutating residue = ASPA312 into HIS
+Mutating residue = ASPA312 into ASN
+Mutating residue = ASPA312 into VAL
+Mutating residue = ASPA312 into TYR
+Your file run OK
+End time of FoldX: Sat May  9 16:21:59 2026
+Total time spend: 288.07 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 4 结果提取成功，已映射突变信息。

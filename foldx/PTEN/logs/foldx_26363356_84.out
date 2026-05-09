@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading GA208N;
+Reading GA208Q;
+Reading GA208C;
+Reading GA208G;
+Reading GA208P;
+Reading GA208R;
+Reading GA208H;
+Reading GA208K;
+Reading GA208D;
+Reading GA208E;
+Reading GA209A;
+Reading GA209V;
+Reading GA209I;
+Reading GA209L;
+Reading GA209M;
+Reading GA209F;
+Reading GA209Y;
+Reading GA209W;
+Reading GA209S;
+Reading GA209T;
+Reading GA209N;
+Reading GA209Q;
+Reading GA209C;
+Reading GA209G;
+Reading GA209P;
+Reading GA209R;
+Reading GA209H;
+Reading GA209K;
+Reading GA209D;
+Reading GA209E;
+Reading TA210A;
+Reading TA210V;
+Reading TA210I;
+Reading TA210L;
+Reading TA210M;
+Reading TA210F;
+Reading TA210Y;
+Reading TA210W;
+Reading TA210S;
+Reading TA210T;
+Reading TA210N;
+Reading TA210Q;
+Reading TA210C;
+Reading TA210G;
+Reading TA210P;
+Reading TA210R;
+Reading TA210H;
+Reading TA210K;
+Reading TA210D;
+Reading TA210E;
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA208 has residue index 207
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Residue to Mutate THRA210 has residue index 209
+Mutating residue = GLYA208 into ASN
+Mutating residue = GLYA208 into GLN
+Mutating residue = GLYA208 into CYS
+Mutating residue = GLYA208 into GLY
+Mutating residue = GLYA208 into PRO
+Mutating residue = GLYA208 into ARG
+Mutating residue = GLYA208 into HIS
+Mutating residue = GLYA208 into LYS
+Mutating residue = GLYA208 into ASP
+Mutating residue = GLYA208 into GLU
+Mutating residue = GLYA209 into ALA
+Mutating residue = GLYA209 into VAL
+Mutating residue = GLYA209 into ILE
+Mutating residue = GLYA209 into LEU
+Mutating residue = GLYA209 into MET
+Mutating residue = GLYA209 into PHE
+Mutating residue = GLYA209 into TYR
+Mutating residue = GLYA209 into TRP
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA209 into THR
+Mutating residue = GLYA209 into ASN
+Mutating residue = GLYA209 into GLN
+Mutating residue = GLYA209 into CYS
+Mutating residue = GLYA209 into GLY
+Mutating residue = GLYA209 into PRO
+Mutating residue = GLYA209 into ARG
+Mutating residue = GLYA209 into HIS
+Mutating residue = GLYA209 into LYS
+Mutating residue = GLYA209 into ASP
+Mutating residue = GLYA209 into GLU
+Mutating residue = THRA210 into ALA
+Mutating residue = THRA210 into VAL
+Mutating residue = THRA210 into ILE
+Mutating residue = THRA210 into LEU
+Mutating residue = THRA210 into MET
+Mutating residue = THRA210 into PHE
+Mutating residue = THRA210 into TYR
+Mutating residue = THRA210 into TRP
+Mutating residue = THRA210 into SER
+Mutating residue = THRA210 into THR
+Mutating residue = THRA210 into ASN
+Mutating residue = THRA210 into GLN
+Mutating residue = THRA210 into CYS
+Mutating residue = THRA210 into GLY
+Mutating residue = THRA210 into PRO
+Mutating residue = THRA210 into ARG
+Mutating residue = THRA210 into HIS
+Mutating residue = THRA210 into LYS
+Mutating residue = THRA210 into ASP
+Mutating residue = THRA210 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:19:03 2026
+Total time spend: 108.96 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 84 结果提取成功，已映射突变信息。

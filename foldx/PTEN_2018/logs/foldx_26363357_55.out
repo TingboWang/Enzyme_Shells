@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading AA148W;
+Reading AA148V;
+Reading AA148T;
+Reading AA148S;
+Reading AA148R;
+Reading AA148Q;
+Reading AA148N;
+Reading AA148P;
+Reading AA148M;
+Reading AA148L;
+Reading AA148K;
+Reading AA148I;
+Reading AA148H;
+Reading AA148G;
+Reading AA148E;
+Reading AA148F;
+Reading AA148D;
+Reading QA149L;
+Reading QA149R;
+Reading QA149P;
+Reading QA149N;
+Reading QA149M;
+Reading QA149K;
+Reading QA149D;
+Reading QA149H;
+Reading QA149G;
+Reading QA149F;
+Reading QA149T;
+Reading QA149E;
+Reading QA149A;
+Reading QA149S;
+Reading QA149V;
+Reading QA149W;
+Reading QA149Y;
+Reading QA149I;
+Reading QA149C;
+Reading EA150I;
+Reading EA150T;
+Reading EA150A;
+Reading EA150C;
+Reading EA150D;
+Reading EA150F;
+Reading EA150G;
+Reading EA150H;
+Reading EA150Y;
+Reading EA150K;
+Reading EA150L;
+Reading EA150M;
+Reading EA150N;
+Reading EA150P;
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate ALAA148 has residue index 147
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLNA149 has residue index 148
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Residue to Mutate GLUA150 has residue index 149
+Mutating residue = ALAA148 into TRP
+Mutating residue = ALAA148 into VAL
+Mutating residue = ALAA148 into THR
+Mutating residue = ALAA148 into SER
+Mutating residue = ALAA148 into ARG
+Mutating residue = ALAA148 into GLN
+Mutating residue = ALAA148 into ASN
+Mutating residue = ALAA148 into PRO
+Mutating residue = ALAA148 into MET
+Mutating residue = ALAA148 into LEU
+Mutating residue = ALAA148 into LYS
+Mutating residue = ALAA148 into ILE
+Mutating residue = ALAA148 into HIS
+Mutating residue = ALAA148 into GLY
+Mutating residue = ALAA148 into GLU
+Mutating residue = ALAA148 into PHE
+Mutating residue = ALAA148 into ASP
+Mutating residue = GLNA149 into LEU
+Mutating residue = GLNA149 into ARG
+Mutating residue = GLNA149 into PRO
+Mutating residue = GLNA149 into ASN
+Mutating residue = GLNA149 into MET
+Mutating residue = GLNA149 into LYS
+Mutating residue = GLNA149 into ASP
+Mutating residue = GLNA149 into HIS
+Mutating residue = GLNA149 into GLY
+Mutating residue = GLNA149 into PHE
+Mutating residue = GLNA149 into THR
+Mutating residue = GLNA149 into GLU
+Mutating residue = GLNA149 into ALA
+Mutating residue = GLNA149 into SER
+Mutating residue = GLNA149 into VAL
+Mutating residue = GLNA149 into TRP
+Mutating residue = GLNA149 into TYR
+Mutating residue = GLNA149 into ILE
+Mutating residue = GLNA149 into CYS
+Mutating residue = GLUA150 into ILE
+Mutating residue = GLUA150 into THR
+Mutating residue = GLUA150 into ALA
+Mutating residue = GLUA150 into CYS
+Mutating residue = GLUA150 into ASP
+Mutating residue = GLUA150 into PHE
+Mutating residue = GLUA150 into GLY
+Mutating residue = GLUA150 into HIS
+Mutating residue = GLUA150 into TYR
+Mutating residue = GLUA150 into LYS
+Mutating residue = GLUA150 into LEU
+Mutating residue = GLUA150 into MET
+Mutating residue = GLUA150 into ASN
+Mutating residue = GLUA150 into PRO
+Your file run OK
+End time of FoldX: Sat May  9 16:34:45 2026
+Total time spend: 1047.81 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 55 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading DA825H;
+Reading DA825N;
+Reading DA825V;
+Reading DA825Y;
+Reading DA829A;
+Reading DA829E;
+Reading DA829G;
+Reading DA829H;
+Reading DA829N;
+Reading DA829V;
+Reading DA829Y;
+Reading DA835A;
+Reading DA835E;
+Reading DA835G;
+Reading DA835H;
+Reading DA835N;
+Reading DA835V;
+Reading DA835Y;
+Reading DA837A;
+Reading DA837E;
+Reading DA837G;
+Reading DA837H;
+Reading DA837N;
+Reading DA837V;
+Reading DA837Y;
+Reading DA839A;
+Reading DA839E;
+Reading DA839G;
+Reading DA839H;
+Reading DA839N;
+Reading DA839V;
+Reading DA839Y;
+Reading DA849A;
+Reading DA849E;
+Reading DA849G;
+Reading DA849H;
+Reading DA849N;
+Reading DA849V;
+Reading DA849Y;
+Reading DA850A;
+Reading DA850E;
+Reading DA850G;
+Reading DA850H;
+Reading DA850N;
+Reading DA850V;
+Reading DA850Y;
+Reading DA853A;
+Reading DA853E;
+Reading DA853G;
+Reading DA853H;
+Residue to Mutate ASPA825 has residue index 824
+Residue to Mutate ASPA825 has residue index 824
+Residue to Mutate ASPA825 has residue index 824
+Residue to Mutate ASPA825 has residue index 824
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA829 has residue index 828
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA835 has residue index 834
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA837 has residue index 836
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA839 has residue index 838
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA849 has residue index 848
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA850 has residue index 849
+Residue to Mutate ASPA853 has residue index 852
+Residue to Mutate ASPA853 has residue index 852
+Residue to Mutate ASPA853 has residue index 852
+Residue to Mutate ASPA853 has residue index 852
+Mutating residue = ASPA825 into HIS
+Mutating residue = ASPA825 into ASN
+Mutating residue = ASPA825 into VAL
+Mutating residue = ASPA825 into TYR
+Mutating residue = ASPA829 into ALA
+Mutating residue = ASPA829 into GLU
+Mutating residue = ASPA829 into GLY
+Mutating residue = ASPA829 into HIS
+Mutating residue = ASPA829 into ASN
+Mutating residue = ASPA829 into VAL
+Mutating residue = ASPA829 into TYR
+Mutating residue = ASPA835 into ALA
+Mutating residue = ASPA835 into GLU
+Mutating residue = ASPA835 into GLY
+Mutating residue = ASPA835 into HIS
+Mutating residue = ASPA835 into ASN
+Mutating residue = ASPA835 into VAL
+Mutating residue = ASPA835 into TYR
+Mutating residue = ASPA837 into ALA
+Mutating residue = ASPA837 into GLU
+Mutating residue = ASPA837 into GLY
+Mutating residue = ASPA837 into HIS
+Mutating residue = ASPA837 into ASN
+Mutating residue = ASPA837 into VAL
+Mutating residue = ASPA837 into TYR
+Mutating residue = ASPA839 into ALA
+Mutating residue = ASPA839 into GLU
+Mutating residue = ASPA839 into GLY
+Mutating residue = ASPA839 into HIS
+Mutating residue = ASPA839 into ASN
+Mutating residue = ASPA839 into VAL
+Mutating residue = ASPA839 into TYR
+Mutating residue = ASPA849 into ALA
+Mutating residue = ASPA849 into GLU
+Mutating residue = ASPA849 into GLY
+Mutating residue = ASPA849 into HIS
+Mutating residue = ASPA849 into ASN
+Mutating residue = ASPA849 into VAL
+Mutating residue = ASPA849 into TYR
+Mutating residue = ASPA850 into ALA
+Mutating residue = ASPA850 into GLU
+Mutating residue = ASPA850 into GLY
+Mutating residue = ASPA850 into HIS
+Mutating residue = ASPA850 into ASN
+Mutating residue = ASPA850 into VAL
+Mutating residue = ASPA850 into TYR
+Mutating residue = ASPA853 into ALA
+Mutating residue = ASPA853 into GLU
+Mutating residue = ASPA853 into GLY
+Mutating residue = ASPA853 into HIS
+Your file run OK
+End time of FoldX: Sat May  9 16:30:21 2026
+Total time spend: 796.92 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 21 结果提取成功，已映射突变信息。

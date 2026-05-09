@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading AA99N;
+Reading AA99P;
+Reading AA99Q;
+Reading AA99R;
+Reading AA99S;
+Reading AA99T;
+Reading AA99V;
+Reading AA99W;
+Reading AA99Y;
+Reading CA180A;
+Reading CA180D;
+Reading CA180E;
+Reading CA180F;
+Reading CA180G;
+Reading CA180H;
+Reading CA180I;
+Reading CA180K;
+Reading CA180L;
+Reading CA180M;
+Reading CA180N;
+Reading CA180P;
+Reading CA180Q;
+Reading CA180R;
+Reading CA180S;
+Reading CA180T;
+Reading CA180V;
+Reading CA180W;
+Reading CA180Y;
+Reading CA26A;
+Reading CA26D;
+Reading CA26E;
+Reading CA26F;
+Reading CA26G;
+Reading CA26H;
+Reading CA26I;
+Reading CA26K;
+Reading CA26L;
+Reading CA26M;
+Reading CA26N;
+Reading CA26P;
+Reading CA26Q;
+Reading CA26R;
+Reading CA26S;
+Reading CA26T;
+Reading CA26V;
+Reading CA26W;
+Reading CA26Y;
+Reading CA309A;
+Reading CA309D;
+Reading CA309E;
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate ALAA99 has residue index 97
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA180 has residue index 178
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA26 has residue index 24
+Residue to Mutate CYSA309 has residue index 307
+Residue to Mutate CYSA309 has residue index 307
+Residue to Mutate CYSA309 has residue index 307
+Mutating residue = ALAA99 into ASN
+Mutating residue = ALAA99 into PRO
+Mutating residue = ALAA99 into GLN
+Mutating residue = ALAA99 into ARG
+Mutating residue = ALAA99 into SER
+Mutating residue = ALAA99 into THR
+Mutating residue = ALAA99 into VAL
+Mutating residue = ALAA99 into TRP
+Mutating residue = ALAA99 into TYR
+Mutating residue = CYSA180 into ALA
+Mutating residue = CYSA180 into ASP
+Mutating residue = CYSA180 into GLU
+Mutating residue = CYSA180 into PHE
+Mutating residue = CYSA180 into GLY
+Mutating residue = CYSA180 into HIS
+Mutating residue = CYSA180 into ILE
+Mutating residue = CYSA180 into LYS
+Mutating residue = CYSA180 into LEU
+Mutating residue = CYSA180 into MET
+Mutating residue = CYSA180 into ASN
+Mutating residue = CYSA180 into PRO
+Mutating residue = CYSA180 into GLN
+Mutating residue = CYSA180 into ARG
+Mutating residue = CYSA180 into SER
+Mutating residue = CYSA180 into THR
+Mutating residue = CYSA180 into VAL
+Mutating residue = CYSA180 into TRP
+Mutating residue = CYSA180 into TYR
+Mutating residue = CYSA26 into ALA
+Mutating residue = CYSA26 into ASP
+Mutating residue = CYSA26 into GLU
+Mutating residue = CYSA26 into PHE
+Mutating residue = CYSA26 into GLY
+Mutating residue = CYSA26 into HIS
+Mutating residue = CYSA26 into ILE
+Mutating residue = CYSA26 into LYS
+Mutating residue = CYSA26 into LEU
+Mutating residue = CYSA26 into MET
+Mutating residue = CYSA26 into ASN
+Mutating residue = CYSA26 into PRO
+Mutating residue = CYSA26 into GLN
+Mutating residue = CYSA26 into ARG
+Mutating residue = CYSA26 into SER
+Mutating residue = CYSA26 into THR
+Mutating residue = CYSA26 into VAL
+Mutating residue = CYSA26 into TRP
+Mutating residue = CYSA26 into TYR
+Mutating residue = CYSA309 into ALA
+Mutating residue = CYSA309 into ASP
+Mutating residue = CYSA309 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:27:23 2026
+Total time spend: 601.38 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 24 结果提取成功，已映射突变信息。

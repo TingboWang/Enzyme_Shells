@@ -1,0 +1,232 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: LGK.pdb
+1 models read: LGK.pdb
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+Starting BuildModel
+Reading NA437D;
+Reading NA437W;
+Reading WA438Y;
+Reading WA438S;
+Reading WA438A;
+Reading WA438C;
+Reading WA438D;
+Reading WA438E;
+Reading WA438F;
+Reading WA438G;
+Reading WA438H;
+Reading WA438I;
+Reading WA438K;
+Reading WA438L;
+Reading WA438M;
+Reading WA438N;
+Reading WA438P;
+Reading WA438Q;
+Reading WA438R;
+Reading WA438T;
+Reading WA438V;
+Reading AA439D;
+Reading AA439W;
+Reading AA439E;
+Reading AA439F;
+Reading AA439G;
+Reading AA439H;
+Reading AA439I;
+Reading AA439K;
+Reading AA439L;
+Reading AA439C;
+Reading AA439N;
+Reading AA439P;
+Reading AA439Q;
+Reading AA439R;
+Reading AA439S;
+Reading AA439T;
+Reading AA439V;
+Reading AA439Y;
+Reading AA439M;
+Residue to Mutate ASNA437 has residue index 436
+Residue to Mutate ASNA437 has residue index 436
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate TRPA438 has residue index 437
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Residue to Mutate ALAA439 has residue index 438
+Mutating residue = ASNA437 into ASP
+Mutating residue = ASNA437 into TRP
+Mutating residue = TRPA438 into TYR
+Mutating residue = TRPA438 into SER
+Mutating residue = TRPA438 into ALA
+Mutating residue = TRPA438 into CYS
+Mutating residue = TRPA438 into ASP
+Mutating residue = TRPA438 into GLU
+Mutating residue = TRPA438 into PHE
+Mutating residue = TRPA438 into GLY
+Mutating residue = TRPA438 into HIS
+Mutating residue = TRPA438 into ILE
+Mutating residue = TRPA438 into LYS
+Mutating residue = TRPA438 into LEU
+Mutating residue = TRPA438 into MET
+Mutating residue = TRPA438 into ASN
+Mutating residue = TRPA438 into PRO
+Mutating residue = TRPA438 into GLN
+Mutating residue = TRPA438 into ARG
+Mutating residue = TRPA438 into THR
+Mutating residue = TRPA438 into VAL
+Mutating residue = ALAA439 into ASP
+Mutating residue = ALAA439 into TRP
+Mutating residue = ALAA439 into GLU
+Mutating residue = ALAA439 into PHE
+Mutating residue = ALAA439 into GLY
+Mutating residue = ALAA439 into HIS
+Mutating residue = ALAA439 into ILE
+Mutating residue = ALAA439 into LYS
+Mutating residue = ALAA439 into LEU
+Mutating residue = ALAA439 into CYS
+Mutating residue = ALAA439 into ASN
+Mutating residue = ALAA439 into PRO
+Mutating residue = ALAA439 into GLN
+Mutating residue = ALAA439 into ARG
+Mutating residue = ALAA439 into SER
+Mutating residue = ALAA439 into THR
+Mutating residue = ALAA439 into VAL
+Mutating residue = ALAA439 into TYR
+Mutating residue = ALAA439 into MET
+Your file run OK
+End time of FoldX: Sat May  9 16:20:04 2026
+Total time spend: 173.19 seconds.
+validated file "LGK_1.pdb" => successfully finished
+validated file "LGK_2.pdb" => successfully finished
+validated file "LGK_3.pdb" => successfully finished
+validated file "LGK_4.pdb" => successfully finished
+validated file "LGK_5.pdb" => successfully finished
+validated file "LGK_6.pdb" => successfully finished
+validated file "LGK_7.pdb" => successfully finished
+validated file "LGK_8.pdb" => successfully finished
+validated file "LGK_9.pdb" => successfully finished
+validated file "LGK_10.pdb" => successfully finished
+validated file "LGK_11.pdb" => successfully finished
+validated file "LGK_12.pdb" => successfully finished
+validated file "LGK_13.pdb" => successfully finished
+validated file "LGK_14.pdb" => successfully finished
+validated file "LGK_15.pdb" => successfully finished
+validated file "LGK_16.pdb" => successfully finished
+validated file "LGK_17.pdb" => successfully finished
+validated file "LGK_18.pdb" => successfully finished
+validated file "LGK_19.pdb" => successfully finished
+validated file "LGK_20.pdb" => successfully finished
+validated file "LGK_21.pdb" => successfully finished
+validated file "LGK_22.pdb" => successfully finished
+validated file "LGK_23.pdb" => successfully finished
+validated file "LGK_24.pdb" => successfully finished
+validated file "LGK_25.pdb" => successfully finished
+validated file "LGK_26.pdb" => successfully finished
+validated file "LGK_27.pdb" => successfully finished
+validated file "LGK_28.pdb" => successfully finished
+validated file "LGK_29.pdb" => successfully finished
+validated file "LGK_30.pdb" => successfully finished
+validated file "LGK_31.pdb" => successfully finished
+validated file "LGK_32.pdb" => successfully finished
+validated file "LGK_33.pdb" => successfully finished
+validated file "LGK_34.pdb" => successfully finished
+validated file "LGK_35.pdb" => successfully finished
+validated file "LGK_36.pdb" => successfully finished
+validated file "LGK_37.pdb" => successfully finished
+validated file "LGK_38.pdb" => successfully finished
+validated file "LGK_39.pdb" => successfully finished
+validated file "LGK_40.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 158 结果提取成功，已映射突变信息。

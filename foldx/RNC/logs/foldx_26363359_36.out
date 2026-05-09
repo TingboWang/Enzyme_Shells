@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading KA152W;
+Reading KA152Y;
+Reading KA154A;
+Reading KA154C;
+Reading KA154D;
+Reading KA154E;
+Reading KA154F;
+Reading KA154G;
+Reading KA154H;
+Reading KA154I;
+Reading KA154L;
+Reading KA154M;
+Reading KA154N;
+Reading KA154P;
+Reading KA154Q;
+Reading KA154R;
+Reading KA154S;
+Reading KA154T;
+Reading KA154V;
+Reading KA154W;
+Reading KA154Y;
+Reading KA157A;
+Reading KA157C;
+Reading KA157D;
+Reading KA157E;
+Reading KA157F;
+Reading KA157G;
+Reading KA157H;
+Reading KA157I;
+Reading KA157L;
+Reading KA157M;
+Reading KA157N;
+Reading KA157P;
+Reading KA157Q;
+Reading KA157R;
+Reading KA157S;
+Reading KA157T;
+Reading KA157V;
+Reading KA157W;
+Reading KA157Y;
+Reading KA210A;
+Reading KA210C;
+Reading KA210D;
+Reading KA210E;
+Reading KA210F;
+Reading KA210G;
+Reading KA210H;
+Reading KA210I;
+Reading KA210L;
+Reading KA210M;
+Residue to Mutate LYSA152 has residue index 151
+Residue to Mutate LYSA152 has residue index 151
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA154 has residue index 153
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA157 has residue index 156
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Mutating residue = LYSA152 into TRP
+Mutating residue = LYSA152 into TYR
+Mutating residue = LYSA154 into ALA
+Mutating residue = LYSA154 into CYS
+Mutating residue = LYSA154 into ASP
+Mutating residue = LYSA154 into GLU
+Mutating residue = LYSA154 into PHE
+Mutating residue = LYSA154 into GLY
+Mutating residue = LYSA154 into HIS
+Mutating residue = LYSA154 into ILE
+Mutating residue = LYSA154 into LEU
+Mutating residue = LYSA154 into MET
+Mutating residue = LYSA154 into ASN
+Mutating residue = LYSA154 into PRO
+Mutating residue = LYSA154 into GLN
+Mutating residue = LYSA154 into ARG
+Mutating residue = LYSA154 into SER
+Mutating residue = LYSA154 into THR
+Mutating residue = LYSA154 into VAL
+Mutating residue = LYSA154 into TRP
+Mutating residue = LYSA154 into TYR
+Mutating residue = LYSA157 into ALA
+Mutating residue = LYSA157 into CYS
+Mutating residue = LYSA157 into ASP
+Mutating residue = LYSA157 into GLU
+Mutating residue = LYSA157 into PHE
+Mutating residue = LYSA157 into GLY
+Mutating residue = LYSA157 into HIS
+Mutating residue = LYSA157 into ILE
+Mutating residue = LYSA157 into LEU
+Mutating residue = LYSA157 into MET
+Mutating residue = LYSA157 into ASN
+Mutating residue = LYSA157 into PRO
+Mutating residue = LYSA157 into GLN
+Mutating residue = LYSA157 into ARG
+Mutating residue = LYSA157 into SER
+Mutating residue = LYSA157 into THR
+Mutating residue = LYSA157 into VAL
+Mutating residue = LYSA157 into TRP
+Mutating residue = LYSA157 into TYR
+Mutating residue = LYSA210 into ALA
+Mutating residue = LYSA210 into CYS
+Mutating residue = LYSA210 into ASP
+Mutating residue = LYSA210 into GLU
+Mutating residue = LYSA210 into PHE
+Mutating residue = LYSA210 into GLY
+Mutating residue = LYSA210 into HIS
+Mutating residue = LYSA210 into ILE
+Mutating residue = LYSA210 into LEU
+Mutating residue = LYSA210 into MET
+Your file run OK
+End time of FoldX: Sat May  9 16:44:19 2026
+Total time spend: 1616.51 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 36 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading HA29M;
+Reading HA29N;
+Reading HA29P;
+Reading HA29Q;
+Reading HA29R;
+Reading HA29S;
+Reading HA29T;
+Reading HA29V;
+Reading HA29W;
+Reading HA29Y;
+Reading HA36A;
+Reading HA36C;
+Reading HA36D;
+Reading HA36E;
+Reading HA36F;
+Reading HA36G;
+Reading HA36I;
+Reading HA36K;
+Reading HA36L;
+Reading HA36M;
+Reading HA36N;
+Reading HA36P;
+Reading HA36Q;
+Reading HA36R;
+Reading HA36S;
+Reading HA36T;
+Reading HA36V;
+Reading HA36W;
+Reading HA36Y;
+Reading HA58A;
+Reading HA58C;
+Reading HA58D;
+Reading HA58E;
+Reading HA58F;
+Reading HA58G;
+Reading HA58I;
+Reading HA58K;
+Reading HA58L;
+Reading HA58M;
+Reading HA58N;
+Reading HA58P;
+Reading HA58Q;
+Reading HA58R;
+Reading HA58S;
+Reading HA58T;
+Reading HA58V;
+Reading HA58W;
+Reading HA58Y;
+Reading IA111A;
+Reading IA111C;
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA29 has residue index 28
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA36 has residue index 35
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate HISA58 has residue index 57
+Residue to Mutate ILEA111 has residue index 110
+Residue to Mutate ILEA111 has residue index 110
+Mutating residue = H2SA29 into MET
+Mutating residue = H2SA29 into ASN
+Mutating residue = H2SA29 into PRO
+Mutating residue = H2SA29 into GLN
+Mutating residue = H2SA29 into ARG
+Mutating residue = H2SA29 into SER
+Mutating residue = H2SA29 into THR
+Mutating residue = H2SA29 into VAL
+Mutating residue = H2SA29 into TRP
+Mutating residue = H2SA29 into TYR
+Mutating residue = H2SA36 into ALA
+Mutating residue = H2SA36 into CYS
+Mutating residue = H2SA36 into ASP
+Mutating residue = H2SA36 into GLU
+Mutating residue = H2SA36 into PHE
+Mutating residue = H2SA36 into GLY
+Mutating residue = H2SA36 into ILE
+Mutating residue = H2SA36 into LYS
+Mutating residue = H2SA36 into LEU
+Mutating residue = H2SA36 into MET
+Mutating residue = H2SA36 into ASN
+Mutating residue = H2SA36 into PRO
+Mutating residue = H2SA36 into GLN
+Mutating residue = H2SA36 into ARG
+Mutating residue = H2SA36 into SER
+Mutating residue = H2SA36 into THR
+Mutating residue = H2SA36 into VAL
+Mutating residue = H2SA36 into TRP
+Mutating residue = H2SA36 into TYR
+Mutating residue = H1SA58 into ALA
+Mutating residue = H1SA58 into CYS
+Mutating residue = H1SA58 into ASP
+Mutating residue = H1SA58 into GLU
+Mutating residue = H1SA58 into PHE
+Mutating residue = H1SA58 into GLY
+Mutating residue = H1SA58 into ILE
+Mutating residue = H1SA58 into LYS
+Mutating residue = H1SA58 into LEU
+Mutating residue = H1SA58 into MET
+Mutating residue = H1SA58 into ASN
+Mutating residue = H1SA58 into PRO
+Mutating residue = H1SA58 into GLN
+Mutating residue = H1SA58 into ARG
+Mutating residue = H1SA58 into SER
+Mutating residue = H1SA58 into THR
+Mutating residue = H1SA58 into VAL
+Mutating residue = H1SA58 into TRP
+Mutating residue = H1SA58 into TYR
+Mutating residue = ILEA111 into ALA
+Mutating residue = ILEA111 into CYS
+Your file run OK
+End time of FoldX: Sat May  9 16:24:21 2026
+Total time spend: 417.66 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 30 结果提取成功，已映射突变信息。

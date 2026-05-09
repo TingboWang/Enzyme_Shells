@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: LGK.pdb
+1 models read: LGK.pdb
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+Starting BuildModel
+Reading NA20V;
+Reading SA21T;
+Reading SA21V;
+Reading SA21Y;
+Reading SA21N;
+Reading SA21L;
+Reading SA21I;
+Reading SA21H;
+Reading SA21G;
+Reading SA21D;
+Reading SA21C;
+Reading SA21A;
+Reading SA21P;
+Reading SA21Q;
+Reading SA21R;
+Reading GA22S;
+Reading GA22C;
+Reading GA22D;
+Reading GA22E;
+Reading GA22F;
+Reading GA22H;
+Reading GA22I;
+Reading GA22K;
+Reading GA22L;
+Reading GA22N;
+Reading GA22P;
+Reading GA22Q;
+Reading GA22R;
+Reading GA22A;
+Reading GA22V;
+Reading GA22W;
+Reading GA22Y;
+Reading GA22T;
+Reading TA23A;
+Reading TA23Y;
+Reading TA23V;
+Reading TA23S;
+Reading TA23R;
+Reading TA23Q;
+Reading TA23P;
+Reading TA23M;
+Reading TA23L;
+Reading TA23K;
+Reading TA23H;
+Reading TA23G;
+Reading SA24W;
+Reading SA24C;
+Reading SA24Q;
+Reading SA24R;
+Reading SA24T;
+Residue to Mutate ASNA20 has residue index 19
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate SERA21 has residue index 20
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate GLYA22 has residue index 21
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate THRA23 has residue index 22
+Residue to Mutate SERA24 has residue index 23
+Residue to Mutate SERA24 has residue index 23
+Residue to Mutate SERA24 has residue index 23
+Residue to Mutate SERA24 has residue index 23
+Residue to Mutate SERA24 has residue index 23
+Mutating residue = ASNA20 into VAL
+Mutating residue = SERA21 into THR
+Mutating residue = SERA21 into VAL
+Mutating residue = SERA21 into TYR
+Mutating residue = SERA21 into ASN
+Mutating residue = SERA21 into LEU
+Mutating residue = SERA21 into ILE
+Mutating residue = SERA21 into HIS
+Mutating residue = SERA21 into GLY
+Mutating residue = SERA21 into ASP
+Mutating residue = SERA21 into CYS
+Mutating residue = SERA21 into ALA
+Mutating residue = SERA21 into PRO
+Mutating residue = SERA21 into GLN
+Mutating residue = SERA21 into ARG
+Mutating residue = GLYA22 into SER
+Mutating residue = GLYA22 into CYS
+Mutating residue = GLYA22 into ASP
+Mutating residue = GLYA22 into GLU
+Mutating residue = GLYA22 into PHE
+Mutating residue = GLYA22 into HIS
+Mutating residue = GLYA22 into ILE
+Mutating residue = GLYA22 into LYS
+Mutating residue = GLYA22 into LEU
+Mutating residue = GLYA22 into ASN
+Mutating residue = GLYA22 into PRO
+Mutating residue = GLYA22 into GLN
+Mutating residue = GLYA22 into ARG
+Mutating residue = GLYA22 into ALA
+Mutating residue = GLYA22 into VAL
+Mutating residue = GLYA22 into TRP
+Mutating residue = GLYA22 into TYR
+Mutating residue = GLYA22 into THR
+Mutating residue = THRA23 into ALA
+Mutating residue = THRA23 into TYR
+Mutating residue = THRA23 into VAL
+Mutating residue = THRA23 into SER
+Mutating residue = THRA23 into ARG
+Mutating residue = THRA23 into GLN
+Mutating residue = THRA23 into PRO
+Mutating residue = THRA23 into MET
+Mutating residue = THRA23 into LEU
+Mutating residue = THRA23 into LYS
+Mutating residue = THRA23 into HIS
+Mutating residue = THRA23 into GLY
+Mutating residue = SERA24 into TRP
+Mutating residue = SERA24 into CYS
+Mutating residue = SERA24 into GLN
+Mutating residue = SERA24 into ARG
+Mutating residue = SERA24 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:24:28 2026
+Total time spend: 438.56 seconds.
+validated file "LGK_1.pdb" => successfully finished
+validated file "LGK_2.pdb" => successfully finished
+validated file "LGK_3.pdb" => successfully finished
+validated file "LGK_4.pdb" => successfully finished
+validated file "LGK_5.pdb" => successfully finished
+validated file "LGK_6.pdb" => successfully finished
+validated file "LGK_7.pdb" => successfully finished
+validated file "LGK_8.pdb" => successfully finished
+validated file "LGK_9.pdb" => successfully finished
+validated file "LGK_10.pdb" => successfully finished
+validated file "LGK_11.pdb" => successfully finished
+validated file "LGK_12.pdb" => successfully finished
+validated file "LGK_13.pdb" => successfully finished
+validated file "LGK_14.pdb" => successfully finished
+validated file "LGK_15.pdb" => successfully finished
+validated file "LGK_16.pdb" => successfully finished
+validated file "LGK_17.pdb" => successfully finished
+validated file "LGK_18.pdb" => successfully finished
+validated file "LGK_19.pdb" => successfully finished
+validated file "LGK_20.pdb" => successfully finished
+validated file "LGK_21.pdb" => successfully finished
+validated file "LGK_22.pdb" => successfully finished
+validated file "LGK_23.pdb" => successfully finished
+validated file "LGK_24.pdb" => successfully finished
+validated file "LGK_25.pdb" => successfully finished
+validated file "LGK_26.pdb" => successfully finished
+validated file "LGK_27.pdb" => successfully finished
+validated file "LGK_28.pdb" => successfully finished
+validated file "LGK_29.pdb" => successfully finished
+validated file "LGK_30.pdb" => successfully finished
+validated file "LGK_31.pdb" => successfully finished
+validated file "LGK_32.pdb" => successfully finished
+validated file "LGK_33.pdb" => successfully finished
+validated file "LGK_34.pdb" => successfully finished
+validated file "LGK_35.pdb" => successfully finished
+validated file "LGK_36.pdb" => successfully finished
+validated file "LGK_37.pdb" => successfully finished
+validated file "LGK_38.pdb" => successfully finished
+validated file "LGK_39.pdb" => successfully finished
+validated file "LGK_40.pdb" => successfully finished
+validated file "LGK_41.pdb" => successfully finished
+validated file "LGK_42.pdb" => successfully finished
+validated file "LGK_43.pdb" => successfully finished
+validated file "LGK_44.pdb" => successfully finished
+validated file "LGK_45.pdb" => successfully finished
+validated file "LGK_46.pdb" => successfully finished
+validated file "LGK_47.pdb" => successfully finished
+validated file "LGK_48.pdb" => successfully finished
+validated file "LGK_49.pdb" => successfully finished
+validated file "LGK_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 8 结果提取成功，已映射突变信息。

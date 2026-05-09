@@ -1,0 +1,108 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AICDA.pdb
+1 models read: AICDA.pdb
+
+BackHbond       =               -141.11
+SideHbond       =               -37.58
+Energy_VdW      =               -212.73
+Electro         =               -0.69
+Energy_SolvP    =               287.38
+Energy_SolvH    =               -276.48
+Energy_vdwclash =               17.40
+energy_torsion  =               2.98
+backbone_vdwclash=              115.24
+Entropy_sidec   =               102.00
+Entropy_mainc   =               293.89
+water bonds     =               0.00
+helix dipole    =               -1.15
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.27
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  34.19
+
+
+BackHbond       =               -141.11
+SideHbond       =               -37.58
+Energy_VdW      =               -212.73
+Electro         =               -0.69
+Energy_SolvP    =               287.38
+Energy_SolvH    =               -276.48
+Energy_vdwclash =               17.40
+energy_torsion  =               2.98
+backbone_vdwclash=              115.24
+Entropy_sidec   =               102.00
+Entropy_mainc   =               293.89
+water bonds     =               0.00
+helix dipole    =               -1.15
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.27
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  34.19
+
+Starting BuildModel
+Reading YA114M;
+Reading YA114N;
+Reading YA114P;
+Reading YA114Q;
+Reading YA114R;
+Reading YA114S;
+Reading YA114T;
+Reading YA114V;
+Reading YA114W;
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Residue to Mutate TYRA114 has residue index 113
+Mutating residue = TYRA114 into MET
+Mutating residue = TYRA114 into ASN
+Mutating residue = TYRA114 into PRO
+Mutating residue = TYRA114 into GLN
+Mutating residue = TYRA114 into ARG
+Mutating residue = TYRA114 into SER
+Mutating residue = TYRA114 into THR
+Mutating residue = TYRA114 into VAL
+Mutating residue = TYRA114 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:18:36 2026
+Total time spend: 98.17 seconds.
+validated file "AICDA_1.pdb" => successfully finished
+validated file "AICDA_2.pdb" => successfully finished
+validated file "AICDA_3.pdb" => successfully finished
+validated file "AICDA_4.pdb" => successfully finished
+validated file "AICDA_5.pdb" => successfully finished
+validated file "AICDA_6.pdb" => successfully finished
+validated file "AICDA_7.pdb" => successfully finished
+validated file "AICDA_8.pdb" => successfully finished
+validated file "AICDA_9.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 5 结果提取成功，已映射突变信息。

@@ -1,0 +1,140 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading YA973D;
+Reading YA973F;
+Reading YA973H;
+Reading YA973N;
+Reading YA973S;
+Reading YA981C;
+Reading YA981D;
+Reading YA981F;
+Reading YA981H;
+Reading YA981N;
+Reading YA981S;
+Reading YA988C;
+Reading YA988D;
+Reading YA988F;
+Reading YA988H;
+Reading YA988N;
+Reading YA988S;
+Residue to Mutate TYRA973 has residue index 972
+Residue to Mutate TYRA973 has residue index 972
+Residue to Mutate TYRA973 has residue index 972
+Residue to Mutate TYRA973 has residue index 972
+Residue to Mutate TYRA973 has residue index 972
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA981 has residue index 980
+Residue to Mutate TYRA988 has residue index 987
+Residue to Mutate TYRA988 has residue index 987
+Residue to Mutate TYRA988 has residue index 987
+Residue to Mutate TYRA988 has residue index 987
+Residue to Mutate TYRA988 has residue index 987
+Residue to Mutate TYRA988 has residue index 987
+Mutating residue = TYRA973 into ASP
+Mutating residue = TYRA973 into PHE
+Mutating residue = TYRA973 into HIS
+Mutating residue = TYRA973 into ASN
+Mutating residue = TYRA973 into SER
+Mutating residue = TYRA981 into CYS
+Mutating residue = TYRA981 into ASP
+Mutating residue = TYRA981 into PHE
+Mutating residue = TYRA981 into HIS
+Mutating residue = TYRA981 into ASN
+Mutating residue = TYRA981 into SER
+Mutating residue = TYRA988 into CYS
+Mutating residue = TYRA988 into ASP
+Mutating residue = TYRA988 into PHE
+Mutating residue = TYRA988 into HIS
+Mutating residue = TYRA988 into ASN
+Mutating residue = TYRA988 into SER
+Your file run OK
+End time of FoldX: Sat May  9 16:19:27 2026
+Total time spend: 138.46 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 163 结果提取成功，已映射突变信息。

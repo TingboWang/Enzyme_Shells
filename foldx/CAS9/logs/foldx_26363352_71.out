@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading KA1124I;
+Reading KA1124N;
+Reading KA1124Q;
+Reading KA1124R;
+Reading KA1124T;
+Reading KA1129E;
+Reading KA1129M;
+Reading KA1129N;
+Reading KA1129Q;
+Reading KA1129R;
+Reading KA1129T;
+Reading KA112E;
+Reading KA112I;
+Reading KA112N;
+Reading KA112Q;
+Reading KA112R;
+Reading KA112T;
+Reading KA1130E;
+Reading KA1130I;
+Reading KA1130N;
+Reading KA1130Q;
+Reading KA1130R;
+Reading KA1130T;
+Reading KA1148E;
+Reading KA1148M;
+Reading KA1148N;
+Reading KA1148Q;
+Reading KA1148R;
+Reading KA1148T;
+Reading KA1151E;
+Reading KA1151M;
+Reading KA1151N;
+Reading KA1151Q;
+Reading KA1151R;
+Reading KA1151T;
+Reading KA1153E;
+Reading KA1153I;
+Reading KA1153N;
+Reading KA1153Q;
+Reading KA1153R;
+Reading KA1153T;
+Reading KA1155E;
+Reading KA1155M;
+Reading KA1155N;
+Reading KA1155Q;
+Reading KA1155R;
+Reading KA1155T;
+Reading KA1156E;
+Reading KA1156I;
+Reading KA1156N;
+Residue to Mutate LYSA1124 has residue index 1123
+Residue to Mutate LYSA1124 has residue index 1123
+Residue to Mutate LYSA1124 has residue index 1123
+Residue to Mutate LYSA1124 has residue index 1123
+Residue to Mutate LYSA1124 has residue index 1123
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA1129 has residue index 1128
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA112 has residue index 111
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1130 has residue index 1129
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1148 has residue index 1147
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1151 has residue index 1150
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1153 has residue index 1152
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1155 has residue index 1154
+Residue to Mutate LYSA1156 has residue index 1155
+Residue to Mutate LYSA1156 has residue index 1155
+Residue to Mutate LYSA1156 has residue index 1155
+Mutating residue = LYSA1124 into ILE
+Mutating residue = LYSA1124 into ASN
+Mutating residue = LYSA1124 into GLN
+Mutating residue = LYSA1124 into ARG
+Mutating residue = LYSA1124 into THR
+Mutating residue = LYSA1129 into GLU
+Mutating residue = LYSA1129 into MET
+Mutating residue = LYSA1129 into ASN
+Mutating residue = LYSA1129 into GLN
+Mutating residue = LYSA1129 into ARG
+Mutating residue = LYSA1129 into THR
+Mutating residue = LYSA112 into GLU
+Mutating residue = LYSA112 into ILE
+Mutating residue = LYSA112 into ASN
+Mutating residue = LYSA112 into GLN
+Mutating residue = LYSA112 into ARG
+Mutating residue = LYSA112 into THR
+Mutating residue = LYSA1130 into GLU
+Mutating residue = LYSA1130 into ILE
+Mutating residue = LYSA1130 into ASN
+Mutating residue = LYSA1130 into GLN
+Mutating residue = LYSA1130 into ARG
+Mutating residue = LYSA1130 into THR
+Mutating residue = LYSA1148 into GLU
+Mutating residue = LYSA1148 into MET
+Mutating residue = LYSA1148 into ASN
+Mutating residue = LYSA1148 into GLN
+Mutating residue = LYSA1148 into ARG
+Mutating residue = LYSA1148 into THR
+Mutating residue = LYSA1151 into GLU
+Mutating residue = LYSA1151 into MET
+Mutating residue = LYSA1151 into ASN
+Mutating residue = LYSA1151 into GLN
+Mutating residue = LYSA1151 into ARG
+Mutating residue = LYSA1151 into THR
+Mutating residue = LYSA1153 into GLU
+Mutating residue = LYSA1153 into ILE
+Mutating residue = LYSA1153 into ASN
+Mutating residue = LYSA1153 into GLN
+Mutating residue = LYSA1153 into ARG
+Mutating residue = LYSA1153 into THR
+Mutating residue = LYSA1155 into GLU
+Mutating residue = LYSA1155 into MET
+Mutating residue = LYSA1155 into ASN
+Mutating residue = LYSA1155 into GLN
+Mutating residue = LYSA1155 into ARG
+Mutating residue = LYSA1155 into THR
+Mutating residue = LYSA1156 into GLU
+Mutating residue = LYSA1156 into ILE
+Mutating residue = LYSA1156 into ASN
+Your file run OK
+End time of FoldX: Sat May  9 16:34:03 2026
+Total time spend: 1018.90 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 71 结果提取成功，已映射突变信息。

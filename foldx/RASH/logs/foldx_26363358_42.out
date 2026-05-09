@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RASH.pdb
+1 models read: RASH.pdb
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+Starting BuildModel
+Reading VA109E;
+Reading PA110A;
+Reading PA110C;
+Reading PA110D;
+Reading PA110E;
+Reading PA110F;
+Reading PA110G;
+Reading PA110H;
+Reading PA110I;
+Reading PA110K;
+Reading PA110L;
+Reading PA110M;
+Reading PA110N;
+Reading PA110Q;
+Reading PA110R;
+Reading PA110T;
+Reading PA110S;
+Reading PA110V;
+Reading PA110W;
+Reading PA110Y;
+Reading MA111R;
+Reading MA111W;
+Reading MA111Y;
+Reading MA111A;
+Reading MA111C;
+Reading MA111D;
+Reading MA111E;
+Reading MA111F;
+Reading MA111G;
+Reading MA111H;
+Reading MA111I;
+Reading MA111K;
+Reading MA111L;
+Reading MA111N;
+Reading MA111V;
+Reading MA111P;
+Reading MA111S;
+Reading MA111Q;
+Reading MA111T;
+Reading VA112I;
+Reading VA112A;
+Reading VA112Y;
+Reading VA112W;
+Reading VA112T;
+Reading VA112S;
+Reading VA112Q;
+Reading VA112P;
+Reading VA112N;
+Reading VA112M;
+Reading VA112R;
+Residue to Mutate VALA109 has residue index 108
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate PROA110 has residue index 109
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate META111 has residue index 110
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Residue to Mutate VALA112 has residue index 111
+Mutating residue = VALA109 into GLU
+Mutating residue = PROA110 into ALA
+Mutating residue = PROA110 into CYS
+Mutating residue = PROA110 into ASP
+Mutating residue = PROA110 into GLU
+Mutating residue = PROA110 into PHE
+Mutating residue = PROA110 into GLY
+Mutating residue = PROA110 into HIS
+Mutating residue = PROA110 into ILE
+Mutating residue = PROA110 into LYS
+Mutating residue = PROA110 into LEU
+Mutating residue = PROA110 into MET
+Mutating residue = PROA110 into ASN
+Mutating residue = PROA110 into GLN
+Mutating residue = PROA110 into ARG
+Mutating residue = PROA110 into THR
+Mutating residue = PROA110 into SER
+Mutating residue = PROA110 into VAL
+Mutating residue = PROA110 into TRP
+Mutating residue = PROA110 into TYR
+Mutating residue = META111 into ARG
+Mutating residue = META111 into TRP
+Mutating residue = META111 into TYR
+Mutating residue = META111 into ALA
+Mutating residue = META111 into CYS
+Mutating residue = META111 into ASP
+Mutating residue = META111 into GLU
+Mutating residue = META111 into PHE
+Mutating residue = META111 into GLY
+Mutating residue = META111 into HIS
+Mutating residue = META111 into ILE
+Mutating residue = META111 into LYS
+Mutating residue = META111 into LEU
+Mutating residue = META111 into ASN
+Mutating residue = META111 into VAL
+Mutating residue = META111 into PRO
+Mutating residue = META111 into SER
+Mutating residue = META111 into GLN
+Mutating residue = META111 into THR
+Mutating residue = VALA112 into ILE
+Mutating residue = VALA112 into ALA
+Mutating residue = VALA112 into TYR
+Mutating residue = VALA112 into TRP
+Mutating residue = VALA112 into THR
+Mutating residue = VALA112 into SER
+Mutating residue = VALA112 into GLN
+Mutating residue = VALA112 into PRO
+Mutating residue = VALA112 into ASN
+Mutating residue = VALA112 into MET
+Mutating residue = VALA112 into ARG
+Your file run OK
+End time of FoldX: Sat May  9 16:27:28 2026
+Total time spend: 609.90 seconds.
+validated file "RASH_1.pdb" => successfully finished
+validated file "RASH_2.pdb" => successfully finished
+validated file "RASH_3.pdb" => successfully finished
+validated file "RASH_4.pdb" => successfully finished
+validated file "RASH_5.pdb" => successfully finished
+validated file "RASH_6.pdb" => successfully finished
+validated file "RASH_7.pdb" => successfully finished
+validated file "RASH_8.pdb" => successfully finished
+validated file "RASH_9.pdb" => successfully finished
+validated file "RASH_10.pdb" => successfully finished
+validated file "RASH_11.pdb" => successfully finished
+validated file "RASH_12.pdb" => successfully finished
+validated file "RASH_13.pdb" => successfully finished
+validated file "RASH_14.pdb" => successfully finished
+validated file "RASH_15.pdb" => successfully finished
+validated file "RASH_16.pdb" => successfully finished
+validated file "RASH_17.pdb" => successfully finished
+validated file "RASH_18.pdb" => successfully finished
+validated file "RASH_19.pdb" => successfully finished
+validated file "RASH_20.pdb" => successfully finished
+validated file "RASH_21.pdb" => successfully finished
+validated file "RASH_22.pdb" => successfully finished
+validated file "RASH_23.pdb" => successfully finished
+validated file "RASH_24.pdb" => successfully finished
+validated file "RASH_25.pdb" => successfully finished
+validated file "RASH_26.pdb" => successfully finished
+validated file "RASH_27.pdb" => successfully finished
+validated file "RASH_28.pdb" => successfully finished
+validated file "RASH_29.pdb" => successfully finished
+validated file "RASH_30.pdb" => successfully finished
+validated file "RASH_31.pdb" => successfully finished
+validated file "RASH_32.pdb" => successfully finished
+validated file "RASH_33.pdb" => successfully finished
+validated file "RASH_34.pdb" => successfully finished
+validated file "RASH_35.pdb" => successfully finished
+validated file "RASH_36.pdb" => successfully finished
+validated file "RASH_37.pdb" => successfully finished
+validated file "RASH_38.pdb" => successfully finished
+validated file "RASH_39.pdb" => successfully finished
+validated file "RASH_40.pdb" => successfully finished
+validated file "RASH_41.pdb" => successfully finished
+validated file "RASH_42.pdb" => successfully finished
+validated file "RASH_43.pdb" => successfully finished
+validated file "RASH_44.pdb" => successfully finished
+validated file "RASH_45.pdb" => successfully finished
+validated file "RASH_46.pdb" => successfully finished
+validated file "RASH_47.pdb" => successfully finished
+validated file "RASH_48.pdb" => successfully finished
+validated file "RASH_49.pdb" => successfully finished
+validated file "RASH_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 42 结果提取成功，已映射突变信息。

@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading MA123V;
+Reading MA123W;
+Reading MA123Y;
+Reading MA215A;
+Reading MA215C;
+Reading MA215D;
+Reading MA215E;
+Reading MA215F;
+Reading MA215G;
+Reading MA215H;
+Reading MA215I;
+Reading MA215K;
+Reading MA215L;
+Reading MA215N;
+Reading MA215P;
+Reading MA215Q;
+Reading MA215R;
+Reading MA215S;
+Reading MA215T;
+Reading MA215V;
+Reading MA215W;
+Reading MA215Y;
+Reading MA30A;
+Reading MA30C;
+Reading MA30D;
+Reading MA30E;
+Reading MA30F;
+Reading MA30G;
+Reading MA30H;
+Reading MA30I;
+Reading MA30K;
+Reading MA30L;
+Reading MA30N;
+Reading MA30P;
+Reading MA30Q;
+Reading MA30R;
+Reading MA30S;
+Reading MA30T;
+Reading MA30V;
+Reading MA30W;
+Reading MA30Y;
+Reading MA311A;
+Reading MA311C;
+Reading MA311D;
+Reading MA311E;
+Reading MA311F;
+Reading MA311G;
+Reading MA311H;
+Reading MA311I;
+Reading MA311K;
+Residue to Mutate META123 has residue index 121
+Residue to Mutate META123 has residue index 121
+Residue to Mutate META123 has residue index 121
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META215 has residue index 213
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META30 has residue index 28
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Residue to Mutate META311 has residue index 309
+Mutating residue = META123 into VAL
+Mutating residue = META123 into TRP
+Mutating residue = META123 into TYR
+Mutating residue = META215 into ALA
+Mutating residue = META215 into CYS
+Mutating residue = META215 into ASP
+Mutating residue = META215 into GLU
+Mutating residue = META215 into PHE
+Mutating residue = META215 into GLY
+Mutating residue = META215 into HIS
+Mutating residue = META215 into ILE
+Mutating residue = META215 into LYS
+Mutating residue = META215 into LEU
+Mutating residue = META215 into ASN
+Mutating residue = META215 into PRO
+Mutating residue = META215 into GLN
+Mutating residue = META215 into ARG
+Mutating residue = META215 into SER
+Mutating residue = META215 into THR
+Mutating residue = META215 into VAL
+Mutating residue = META215 into TRP
+Mutating residue = META215 into TYR
+Mutating residue = META30 into ALA
+Mutating residue = META30 into CYS
+Mutating residue = META30 into ASP
+Mutating residue = META30 into GLU
+Mutating residue = META30 into PHE
+Mutating residue = META30 into GLY
+Mutating residue = META30 into HIS
+Mutating residue = META30 into ILE
+Mutating residue = META30 into LYS
+Mutating residue = META30 into LEU
+Mutating residue = META30 into ASN
+Mutating residue = META30 into PRO
+Mutating residue = META30 into GLN
+Mutating residue = META30 into ARG
+Mutating residue = META30 into SER
+Mutating residue = META30 into THR
+Mutating residue = META30 into VAL
+Mutating residue = META30 into TRP
+Mutating residue = META30 into TYR
+Mutating residue = META311 into ALA
+Mutating residue = META311 into CYS
+Mutating residue = META311 into ASP
+Mutating residue = META311 into GLU
+Mutating residue = META311 into PHE
+Mutating residue = META311 into GLY
+Mutating residue = META311 into HIS
+Mutating residue = META311 into ILE
+Mutating residue = META311 into LYS
+Your file run OK
+End time of FoldX: Sat May  9 16:22:58 2026
+Total time spend: 335.96 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 108 结果提取成功，已映射突变信息。

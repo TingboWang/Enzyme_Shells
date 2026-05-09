@@ -1,0 +1,180 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading YA50N;
+Reading YA50P;
+Reading YA50Q;
+Reading YA50R;
+Reading YA50S;
+Reading YA50T;
+Reading YA50V;
+Reading YA50W;
+Reading YA57A;
+Reading YA57C;
+Reading YA57D;
+Reading YA57E;
+Reading YA57F;
+Reading YA57G;
+Reading YA57H;
+Reading YA57I;
+Reading YA57K;
+Reading YA57L;
+Reading YA57M;
+Reading YA57N;
+Reading YA57P;
+Reading YA57Q;
+Reading YA57R;
+Reading YA57S;
+Reading YA57T;
+Reading YA57V;
+Reading YA57W;
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA50 has residue index 49
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Residue to Mutate TYRA57 has residue index 56
+Mutating residue = TYRA50 into ASN
+Mutating residue = TYRA50 into PRO
+Mutating residue = TYRA50 into GLN
+Mutating residue = TYRA50 into ARG
+Mutating residue = TYRA50 into SER
+Mutating residue = TYRA50 into THR
+Mutating residue = TYRA50 into VAL
+Mutating residue = TYRA50 into TRP
+Mutating residue = TYRA57 into ALA
+Mutating residue = TYRA57 into CYS
+Mutating residue = TYRA57 into ASP
+Mutating residue = TYRA57 into GLU
+Mutating residue = TYRA57 into PHE
+Mutating residue = TYRA57 into GLY
+Mutating residue = TYRA57 into HIS
+Mutating residue = TYRA57 into ILE
+Mutating residue = TYRA57 into LYS
+Mutating residue = TYRA57 into LEU
+Mutating residue = TYRA57 into MET
+Mutating residue = TYRA57 into ASN
+Mutating residue = TYRA57 into PRO
+Mutating residue = TYRA57 into GLN
+Mutating residue = TYRA57 into ARG
+Mutating residue = TYRA57 into SER
+Mutating residue = TYRA57 into THR
+Mutating residue = TYRA57 into VAL
+Mutating residue = TYRA57 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:18:55 2026
+Total time spend: 96.58 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 86 结果提取成功，已映射突变信息。

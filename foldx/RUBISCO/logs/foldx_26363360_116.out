@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading NA387W;
+Reading NA387Y;
+Reading NA54A;
+Reading NA54C;
+Reading NA54D;
+Reading NA54E;
+Reading NA54F;
+Reading NA54G;
+Reading NA54H;
+Reading NA54I;
+Reading NA54K;
+Reading NA54L;
+Reading NA54M;
+Reading NA54P;
+Reading NA54Q;
+Reading NA54R;
+Reading NA54S;
+Reading NA54T;
+Reading NA54V;
+Reading NA54W;
+Reading NA54Y;
+Reading NA93A;
+Reading NA93C;
+Reading NA93D;
+Reading NA93E;
+Reading NA93F;
+Reading NA93G;
+Reading NA93H;
+Reading NA93I;
+Reading NA93K;
+Reading NA93L;
+Reading NA93M;
+Reading NA93P;
+Reading NA93Q;
+Reading NA93R;
+Reading NA93S;
+Reading NA93T;
+Reading NA93V;
+Reading NA93W;
+Reading NA93Y;
+Reading NA9A;
+Reading NA9C;
+Reading NA9D;
+Reading NA9E;
+Reading NA9F;
+Reading NA9G;
+Reading NA9H;
+Reading NA9I;
+Reading NA9K;
+Reading NA9L;
+Residue to Mutate ASNA387 has residue index 385
+Residue to Mutate ASNA387 has residue index 385
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA54 has residue index 52
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA93 has residue index 91
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Residue to Mutate ASNA9 has residue index 7
+Mutating residue = ASNA387 into TRP
+Mutating residue = ASNA387 into TYR
+Mutating residue = ASNA54 into ALA
+Mutating residue = ASNA54 into CYS
+Mutating residue = ASNA54 into ASP
+Mutating residue = ASNA54 into GLU
+Mutating residue = ASNA54 into PHE
+Mutating residue = ASNA54 into GLY
+Mutating residue = ASNA54 into HIS
+Mutating residue = ASNA54 into ILE
+Mutating residue = ASNA54 into LYS
+Mutating residue = ASNA54 into LEU
+Mutating residue = ASNA54 into MET
+Mutating residue = ASNA54 into PRO
+Mutating residue = ASNA54 into GLN
+Mutating residue = ASNA54 into ARG
+Mutating residue = ASNA54 into SER
+Mutating residue = ASNA54 into THR
+Mutating residue = ASNA54 into VAL
+Mutating residue = ASNA54 into TRP
+Mutating residue = ASNA54 into TYR
+Mutating residue = ASNA93 into ALA
+Mutating residue = ASNA93 into CYS
+Mutating residue = ASNA93 into ASP
+Mutating residue = ASNA93 into GLU
+Mutating residue = ASNA93 into PHE
+Mutating residue = ASNA93 into GLY
+Mutating residue = ASNA93 into HIS
+Mutating residue = ASNA93 into ILE
+Mutating residue = ASNA93 into LYS
+Mutating residue = ASNA93 into LEU
+Mutating residue = ASNA93 into MET
+Mutating residue = ASNA93 into PRO
+Mutating residue = ASNA93 into GLN
+Mutating residue = ASNA93 into ARG
+Mutating residue = ASNA93 into SER
+Mutating residue = ASNA93 into THR
+Mutating residue = ASNA93 into VAL
+Mutating residue = ASNA93 into TRP
+Mutating residue = ASNA93 into TYR
+Mutating residue = ASNA9 into ALA
+Mutating residue = ASNA9 into CYS
+Mutating residue = ASNA9 into ASP
+Mutating residue = ASNA9 into GLU
+Mutating residue = ASNA9 into PHE
+Mutating residue = ASNA9 into GLY
+Mutating residue = ASNA9 into HIS
+Mutating residue = ASNA9 into ILE
+Mutating residue = ASNA9 into LYS
+Mutating residue = ASNA9 into LEU
+Your file run OK
+End time of FoldX: Sat May  9 16:27:27 2026
+Total time spend: 604.38 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 116 结果提取成功，已映射突变信息。

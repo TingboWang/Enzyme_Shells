@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading PA248N;
+Reading PA248Q;
+Reading PA248C;
+Reading PA248G;
+Reading PA248P;
+Reading PA248R;
+Reading PA248H;
+Reading PA248K;
+Reading PA248D;
+Reading PA248E;
+Reading VA249A;
+Reading VA249V;
+Reading VA249I;
+Reading VA249L;
+Reading VA249M;
+Reading VA249F;
+Reading VA249Y;
+Reading VA249W;
+Reading VA249S;
+Reading VA249T;
+Reading VA249N;
+Reading VA249Q;
+Reading VA249C;
+Reading VA249G;
+Reading VA249P;
+Reading VA249R;
+Reading VA249H;
+Reading VA249K;
+Reading VA249D;
+Reading VA249E;
+Reading CA250A;
+Reading CA250V;
+Reading CA250I;
+Reading CA250L;
+Reading CA250M;
+Reading CA250F;
+Reading CA250Y;
+Reading CA250W;
+Reading CA250S;
+Reading CA250T;
+Reading CA250N;
+Reading CA250Q;
+Reading CA250C;
+Reading CA250G;
+Reading CA250P;
+Reading CA250R;
+Reading CA250H;
+Reading CA250K;
+Reading CA250D;
+Reading CA250E;
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate PROA248 has residue index 247
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate VALA249 has residue index 248
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Residue to Mutate CYSA250 has residue index 249
+Mutating residue = PROA248 into ASN
+Mutating residue = PROA248 into GLN
+Mutating residue = PROA248 into CYS
+Mutating residue = PROA248 into GLY
+Mutating residue = PROA248 into PRO
+Mutating residue = PROA248 into ARG
+Mutating residue = PROA248 into HIS
+Mutating residue = PROA248 into LYS
+Mutating residue = PROA248 into ASP
+Mutating residue = PROA248 into GLU
+Mutating residue = VALA249 into ALA
+Mutating residue = VALA249 into VAL
+Mutating residue = VALA249 into ILE
+Mutating residue = VALA249 into LEU
+Mutating residue = VALA249 into MET
+Mutating residue = VALA249 into PHE
+Mutating residue = VALA249 into TYR
+Mutating residue = VALA249 into TRP
+Mutating residue = VALA249 into SER
+Mutating residue = VALA249 into THR
+Mutating residue = VALA249 into ASN
+Mutating residue = VALA249 into GLN
+Mutating residue = VALA249 into CYS
+Mutating residue = VALA249 into GLY
+Mutating residue = VALA249 into PRO
+Mutating residue = VALA249 into ARG
+Mutating residue = VALA249 into HIS
+Mutating residue = VALA249 into LYS
+Mutating residue = VALA249 into ASP
+Mutating residue = VALA249 into GLU
+Mutating residue = CYSA250 into ALA
+Mutating residue = CYSA250 into VAL
+Mutating residue = CYSA250 into ILE
+Mutating residue = CYSA250 into LEU
+Mutating residue = CYSA250 into MET
+Mutating residue = CYSA250 into PHE
+Mutating residue = CYSA250 into TYR
+Mutating residue = CYSA250 into TRP
+Mutating residue = CYSA250 into SER
+Mutating residue = CYSA250 into THR
+Mutating residue = CYSA250 into ASN
+Mutating residue = CYSA250 into GLN
+Mutating residue = CYSA250 into CYS
+Mutating residue = CYSA250 into GLY
+Mutating residue = CYSA250 into PRO
+Mutating residue = CYSA250 into ARG
+Mutating residue = CYSA250 into HIS
+Mutating residue = CYSA250 into LYS
+Mutating residue = CYSA250 into ASP
+Mutating residue = CYSA250 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:20:54 2026
+Total time spend: 219.28 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 100 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading EA51G;
+Reading EA51K;
+Reading EA51Q;
+Reading EA51V;
+Reading EA52A;
+Reading EA52D;
+Reading EA52G;
+Reading EA52K;
+Reading EA52V;
+Reading EA72A;
+Reading EA72D;
+Reading EA72G;
+Reading EA72K;
+Reading EA72Q;
+Reading EA72V;
+Reading EA87A;
+Reading EA87D;
+Reading EA87K;
+Reading EA87Q;
+Reading EA87V;
+Reading EA98A;
+Reading EA98G;
+Reading EA98K;
+Reading EA98Q;
+Reading EA98V;
+Reading FA101C;
+Reading FA101I;
+Reading FA101L;
+Reading FA101S;
+Reading FA101V;
+Reading FA101Y;
+Reading FA110C;
+Reading FA110I;
+Reading FA110L;
+Reading FA110V;
+Reading FA211L;
+Reading FA211S;
+Reading FA211V;
+Reading FA211Y;
+Reading FA281C;
+Reading FA281I;
+Reading FA281L;
+Reading FA281S;
+Reading FA281V;
+Reading FA281Y;
+Reading FA300C;
+Reading FA300I;
+Reading FA300L;
+Reading FA300S;
+Reading FA300V;
+Residue to Mutate GLUA51 has residue index 50
+Residue to Mutate GLUA51 has residue index 50
+Residue to Mutate GLUA51 has residue index 50
+Residue to Mutate GLUA51 has residue index 50
+Residue to Mutate GLUA52 has residue index 51
+Residue to Mutate GLUA52 has residue index 51
+Residue to Mutate GLUA52 has residue index 51
+Residue to Mutate GLUA52 has residue index 51
+Residue to Mutate GLUA52 has residue index 51
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA72 has residue index 71
+Residue to Mutate GLUA87 has residue index 86
+Residue to Mutate GLUA87 has residue index 86
+Residue to Mutate GLUA87 has residue index 86
+Residue to Mutate GLUA87 has residue index 86
+Residue to Mutate GLUA87 has residue index 86
+Residue to Mutate GLUA98 has residue index 97
+Residue to Mutate GLUA98 has residue index 97
+Residue to Mutate GLUA98 has residue index 97
+Residue to Mutate GLUA98 has residue index 97
+Residue to Mutate GLUA98 has residue index 97
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA101 has residue index 100
+Residue to Mutate PHEA110 has residue index 109
+Residue to Mutate PHEA110 has residue index 109
+Residue to Mutate PHEA110 has residue index 109
+Residue to Mutate PHEA110 has residue index 109
+Residue to Mutate PHEA211 has residue index 210
+Residue to Mutate PHEA211 has residue index 210
+Residue to Mutate PHEA211 has residue index 210
+Residue to Mutate PHEA211 has residue index 210
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA281 has residue index 280
+Residue to Mutate PHEA300 has residue index 299
+Residue to Mutate PHEA300 has residue index 299
+Residue to Mutate PHEA300 has residue index 299
+Residue to Mutate PHEA300 has residue index 299
+Residue to Mutate PHEA300 has residue index 299
+Mutating residue = GLUA51 into GLY
+Mutating residue = GLUA51 into LYS
+Mutating residue = GLUA51 into GLN
+Mutating residue = GLUA51 into VAL
+Mutating residue = GLUA52 into ALA
+Mutating residue = GLUA52 into ASP
+Mutating residue = GLUA52 into GLY
+Mutating residue = GLUA52 into LYS
+Mutating residue = GLUA52 into VAL
+Mutating residue = GLUA72 into ALA
+Mutating residue = GLUA72 into ASP
+Mutating residue = GLUA72 into GLY
+Mutating residue = GLUA72 into LYS
+Mutating residue = GLUA72 into GLN
+Mutating residue = GLUA72 into VAL
+Mutating residue = GLUA87 into ALA
+Mutating residue = GLUA87 into ASP
+Mutating residue = GLUA87 into LYS
+Mutating residue = GLUA87 into GLN
+Mutating residue = GLUA87 into VAL
+Mutating residue = GLUA98 into ALA
+Mutating residue = GLUA98 into GLY
+Mutating residue = GLUA98 into LYS
+Mutating residue = GLUA98 into GLN
+Mutating residue = GLUA98 into VAL
+Mutating residue = PHEA101 into CYS
+Mutating residue = PHEA101 into ILE
+Mutating residue = PHEA101 into LEU
+Mutating residue = PHEA101 into SER
+Mutating residue = PHEA101 into VAL
+Mutating residue = PHEA101 into TYR
+Mutating residue = PHEA110 into CYS
+Mutating residue = PHEA110 into ILE
+Mutating residue = PHEA110 into LEU
+Mutating residue = PHEA110 into VAL
+Mutating residue = PHEA211 into LEU
+Mutating residue = PHEA211 into SER
+Mutating residue = PHEA211 into VAL
+Mutating residue = PHEA211 into TYR
+Mutating residue = PHEA281 into CYS
+Mutating residue = PHEA281 into ILE
+Mutating residue = PHEA281 into LEU
+Mutating residue = PHEA281 into SER
+Mutating residue = PHEA281 into VAL
+Mutating residue = PHEA281 into TYR
+Mutating residue = PHEA300 into CYS
+Mutating residue = PHEA300 into ILE
+Mutating residue = PHEA300 into LEU
+Mutating residue = PHEA300 into SER
+Mutating residue = PHEA300 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:24:50 2026
+Total time spend: 458.33 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 7 结果提取成功，已映射突变信息。

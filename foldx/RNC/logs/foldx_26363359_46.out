@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading LA40F;
+Reading LA40G;
+Reading LA40H;
+Reading LA40I;
+Reading LA40K;
+Reading LA40M;
+Reading LA40N;
+Reading LA40P;
+Reading LA40Q;
+Reading LA40R;
+Reading LA40S;
+Reading LA40T;
+Reading LA40V;
+Reading LA40W;
+Reading LA40Y;
+Reading LA43A;
+Reading LA43C;
+Reading LA43E;
+Reading LA43F;
+Reading LA43G;
+Reading LA43H;
+Reading LA43I;
+Reading LA43K;
+Reading LA43M;
+Reading LA43N;
+Reading LA43P;
+Reading LA43Q;
+Reading LA43R;
+Reading LA43S;
+Reading LA43T;
+Reading LA43V;
+Reading LA43W;
+Reading LA43Y;
+Reading LA48A;
+Reading LA48C;
+Reading LA48D;
+Reading LA48E;
+Reading LA48F;
+Reading LA48G;
+Reading LA48H;
+Reading LA48I;
+Reading LA48K;
+Reading LA48M;
+Reading LA48N;
+Reading LA48P;
+Reading LA48Q;
+Reading LA48R;
+Reading LA48S;
+Reading LA48T;
+Reading LA48V;
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA40 has residue index 39
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA43 has residue index 42
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate LEUA48 has residue index 47
+Mutating residue = LEUA40 into PHE
+Mutating residue = LEUA40 into GLY
+Mutating residue = LEUA40 into HIS
+Mutating residue = LEUA40 into ILE
+Mutating residue = LEUA40 into LYS
+Mutating residue = LEUA40 into MET
+Mutating residue = LEUA40 into ASN
+Mutating residue = LEUA40 into PRO
+Mutating residue = LEUA40 into GLN
+Mutating residue = LEUA40 into ARG
+Mutating residue = LEUA40 into SER
+Mutating residue = LEUA40 into THR
+Mutating residue = LEUA40 into VAL
+Mutating residue = LEUA40 into TRP
+Mutating residue = LEUA40 into TYR
+Mutating residue = LEUA43 into ALA
+Mutating residue = LEUA43 into CYS
+Mutating residue = LEUA43 into GLU
+Mutating residue = LEUA43 into PHE
+Mutating residue = LEUA43 into GLY
+Mutating residue = LEUA43 into HIS
+Mutating residue = LEUA43 into ILE
+Mutating residue = LEUA43 into LYS
+Mutating residue = LEUA43 into MET
+Mutating residue = LEUA43 into ASN
+Mutating residue = LEUA43 into PRO
+Mutating residue = LEUA43 into GLN
+Mutating residue = LEUA43 into ARG
+Mutating residue = LEUA43 into SER
+Mutating residue = LEUA43 into THR
+Mutating residue = LEUA43 into VAL
+Mutating residue = LEUA43 into TRP
+Mutating residue = LEUA43 into TYR
+Mutating residue = LEUA48 into ALA
+Mutating residue = LEUA48 into CYS
+Mutating residue = LEUA48 into ASP
+Mutating residue = LEUA48 into GLU
+Mutating residue = LEUA48 into PHE
+Mutating residue = LEUA48 into GLY
+Mutating residue = LEUA48 into HIS
+Mutating residue = LEUA48 into ILE
+Mutating residue = LEUA48 into LYS
+Mutating residue = LEUA48 into MET
+Mutating residue = LEUA48 into ASN
+Mutating residue = LEUA48 into PRO
+Mutating residue = LEUA48 into GLN
+Mutating residue = LEUA48 into ARG
+Mutating residue = LEUA48 into SER
+Mutating residue = LEUA48 into THR
+Mutating residue = LEUA48 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:21:26 2026
+Total time spend: 245.00 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 46 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading DA22A;
+Reading DA22C;
+Reading LA23C;
+Reading LA23A;
+Reading LA23F;
+Reading LA23G;
+Reading LA23H;
+Reading LA23I;
+Reading LA23M;
+Reading LA23E;
+Reading LA23N;
+Reading LA23Q;
+Reading LA23R;
+Reading LA23S;
+Reading LA23T;
+Reading LA23V;
+Reading LA23W;
+Reading LA23Y;
+Reading LA23P;
+Reading LA23D;
+Reading DA24K;
+Reading DA24Y;
+Reading DA24V;
+Reading DA24T;
+Reading DA24S;
+Reading DA24R;
+Reading DA24Q;
+Reading DA24P;
+Reading DA24N;
+Reading DA24M;
+Reading DA24A;
+Reading DA24E;
+Reading DA24F;
+Reading DA24G;
+Reading DA24I;
+Reading DA24L;
+Reading DA24W;
+Reading DA24H;
+Reading LA25G;
+Reading LA25M;
+Reading LA25N;
+Reading LA25D;
+Reading LA25W;
+Reading LA25P;
+Reading LA25Q;
+Reading LA25R;
+Reading LA25S;
+Reading LA25T;
+Reading LA25H;
+Reading LA25I;
+Residue to Mutate ASPA22 has residue index 21
+Residue to Mutate ASPA22 has residue index 21
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate LEUA23 has residue index 22
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate ASPA24 has residue index 23
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Residue to Mutate LEUA25 has residue index 24
+Mutating residue = ASPA22 into ALA
+Mutating residue = ASPA22 into CYS
+Mutating residue = LEUA23 into CYS
+Mutating residue = LEUA23 into ALA
+Mutating residue = LEUA23 into PHE
+Mutating residue = LEUA23 into GLY
+Mutating residue = LEUA23 into HIS
+Mutating residue = LEUA23 into ILE
+Mutating residue = LEUA23 into MET
+Mutating residue = LEUA23 into GLU
+Mutating residue = LEUA23 into ASN
+Mutating residue = LEUA23 into GLN
+Mutating residue = LEUA23 into ARG
+Mutating residue = LEUA23 into SER
+Mutating residue = LEUA23 into THR
+Mutating residue = LEUA23 into VAL
+Mutating residue = LEUA23 into TRP
+Mutating residue = LEUA23 into TYR
+Mutating residue = LEUA23 into PRO
+Mutating residue = LEUA23 into ASP
+Mutating residue = ASPA24 into LYS
+Mutating residue = ASPA24 into TYR
+Mutating residue = ASPA24 into VAL
+Mutating residue = ASPA24 into THR
+Mutating residue = ASPA24 into SER
+Mutating residue = ASPA24 into ARG
+Mutating residue = ASPA24 into GLN
+Mutating residue = ASPA24 into PRO
+Mutating residue = ASPA24 into ASN
+Mutating residue = ASPA24 into MET
+Mutating residue = ASPA24 into ALA
+Mutating residue = ASPA24 into GLU
+Mutating residue = ASPA24 into PHE
+Mutating residue = ASPA24 into GLY
+Mutating residue = ASPA24 into ILE
+Mutating residue = ASPA24 into LEU
+Mutating residue = ASPA24 into TRP
+Mutating residue = ASPA24 into HIS
+Mutating residue = LEUA25 into GLY
+Mutating residue = LEUA25 into MET
+Mutating residue = LEUA25 into ASN
+Mutating residue = LEUA25 into ASP
+Mutating residue = LEUA25 into TRP
+Mutating residue = LEUA25 into PRO
+Mutating residue = LEUA25 into GLN
+Mutating residue = LEUA25 into ARG
+Mutating residue = LEUA25 into SER
+Mutating residue = LEUA25 into THR
+Mutating residue = LEUA25 into HIS
+Mutating residue = LEUA25 into ILE
+Your file run OK
+End time of FoldX: Sat May  9 16:28:01 2026
+Total time spend: 643.60 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 8 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading SA179E;
+Reading SA179D;
+Reading YA180A;
+Reading YA180D;
+Reading YA180E;
+Reading YA180F;
+Reading YA180G;
+Reading YA180H;
+Reading YA180I;
+Reading YA180K;
+Reading YA180L;
+Reading YA180C;
+Reading YA180N;
+Reading YA180P;
+Reading YA180Q;
+Reading YA180R;
+Reading YA180S;
+Reading YA180T;
+Reading YA180V;
+Reading YA180W;
+Reading YA180M;
+Reading LA181I;
+Reading LA181K;
+Reading LA181M;
+Reading LA181Q;
+Reading LA181N;
+Reading LA181P;
+Reading LA181H;
+Reading LA181A;
+Reading LA181G;
+Reading LA181T;
+Reading LA181R;
+Reading LA181S;
+Reading LA181V;
+Reading LA181W;
+Reading LA181Y;
+Reading LA181E;
+Reading LA181D;
+Reading LA181C;
+Reading LA181F;
+Reading LA182Y;
+Reading LA182G;
+Reading LA182V;
+Reading LA182W;
+Reading LA182F;
+Reading LA182E;
+Reading LA182C;
+Reading LA182A;
+Reading LA182I;
+Reading LA182K;
+Residue to Mutate SERA179 has residue index 178
+Residue to Mutate SERA179 has residue index 178
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate TYRA180 has residue index 179
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA181 has residue index 180
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Residue to Mutate LEUA182 has residue index 181
+Mutating residue = SERA179 into GLU
+Mutating residue = SERA179 into ASP
+Mutating residue = TYRA180 into ALA
+Mutating residue = TYRA180 into ASP
+Mutating residue = TYRA180 into GLU
+Mutating residue = TYRA180 into PHE
+Mutating residue = TYRA180 into GLY
+Mutating residue = TYRA180 into HIS
+Mutating residue = TYRA180 into ILE
+Mutating residue = TYRA180 into LYS
+Mutating residue = TYRA180 into LEU
+Mutating residue = TYRA180 into CYS
+Mutating residue = TYRA180 into ASN
+Mutating residue = TYRA180 into PRO
+Mutating residue = TYRA180 into GLN
+Mutating residue = TYRA180 into ARG
+Mutating residue = TYRA180 into SER
+Mutating residue = TYRA180 into THR
+Mutating residue = TYRA180 into VAL
+Mutating residue = TYRA180 into TRP
+Mutating residue = TYRA180 into MET
+Mutating residue = LEUA181 into ILE
+Mutating residue = LEUA181 into LYS
+Mutating residue = LEUA181 into MET
+Mutating residue = LEUA181 into GLN
+Mutating residue = LEUA181 into ASN
+Mutating residue = LEUA181 into PRO
+Mutating residue = LEUA181 into HIS
+Mutating residue = LEUA181 into ALA
+Mutating residue = LEUA181 into GLY
+Mutating residue = LEUA181 into THR
+Mutating residue = LEUA181 into ARG
+Mutating residue = LEUA181 into SER
+Mutating residue = LEUA181 into VAL
+Mutating residue = LEUA181 into TRP
+Mutating residue = LEUA181 into TYR
+Mutating residue = LEUA181 into GLU
+Mutating residue = LEUA181 into ASP
+Mutating residue = LEUA181 into CYS
+Mutating residue = LEUA181 into PHE
+Mutating residue = LEUA182 into TYR
+Mutating residue = LEUA182 into GLY
+Mutating residue = LEUA182 into VAL
+Mutating residue = LEUA182 into TRP
+Mutating residue = LEUA182 into PHE
+Mutating residue = LEUA182 into GLU
+Mutating residue = LEUA182 into CYS
+Mutating residue = LEUA182 into ALA
+Mutating residue = LEUA182 into ILE
+Mutating residue = LEUA182 into LYS
+Your file run OK
+End time of FoldX: Sat May  9 16:25:12 2026
+Total time spend: 476.75 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 67 结果提取成功，已映射突变信息。

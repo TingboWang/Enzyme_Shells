@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading IA232G;
+Reading IA232H;
+Reading IA232K;
+Reading IA232L;
+Reading IA232M;
+Reading IA232N;
+Reading IA232P;
+Reading IA232Q;
+Reading IA232R;
+Reading IA232S;
+Reading IA232T;
+Reading IA232V;
+Reading IA232W;
+Reading IA232Y;
+Reading IA240A;
+Reading IA240C;
+Reading IA240D;
+Reading IA240E;
+Reading IA240F;
+Reading IA240G;
+Reading IA240H;
+Reading IA240K;
+Reading IA240L;
+Reading IA240M;
+Reading IA240N;
+Reading IA240P;
+Reading IA240Q;
+Reading IA240R;
+Reading IA240S;
+Reading IA240T;
+Reading IA240V;
+Reading IA240W;
+Reading IA240Y;
+Reading IA241A;
+Reading IA241C;
+Reading IA241D;
+Reading IA241E;
+Reading IA241F;
+Reading IA241G;
+Reading IA241H;
+Reading IA241K;
+Reading IA241L;
+Reading IA241M;
+Reading IA241N;
+Reading IA241P;
+Reading IA241Q;
+Reading IA241R;
+Reading IA241S;
+Reading IA241T;
+Reading IA241V;
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA232 has residue index 230
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA240 has residue index 238
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Residue to Mutate ILEA241 has residue index 239
+Mutating residue = ILEA232 into GLY
+Mutating residue = ILEA232 into HIS
+Mutating residue = ILEA232 into LYS
+Mutating residue = ILEA232 into LEU
+Mutating residue = ILEA232 into MET
+Mutating residue = ILEA232 into ASN
+Mutating residue = ILEA232 into PRO
+Mutating residue = ILEA232 into GLN
+Mutating residue = ILEA232 into ARG
+Mutating residue = ILEA232 into SER
+Mutating residue = ILEA232 into THR
+Mutating residue = ILEA232 into VAL
+Mutating residue = ILEA232 into TRP
+Mutating residue = ILEA232 into TYR
+Mutating residue = ILEA240 into ALA
+Mutating residue = ILEA240 into CYS
+Mutating residue = ILEA240 into ASP
+Mutating residue = ILEA240 into GLU
+Mutating residue = ILEA240 into PHE
+Mutating residue = ILEA240 into GLY
+Mutating residue = ILEA240 into HIS
+Mutating residue = ILEA240 into LYS
+Mutating residue = ILEA240 into LEU
+Mutating residue = ILEA240 into MET
+Mutating residue = ILEA240 into ASN
+Mutating residue = ILEA240 into PRO
+Mutating residue = ILEA240 into GLN
+Mutating residue = ILEA240 into ARG
+Mutating residue = ILEA240 into SER
+Mutating residue = ILEA240 into THR
+Mutating residue = ILEA240 into VAL
+Mutating residue = ILEA240 into TRP
+Mutating residue = ILEA240 into TYR
+Mutating residue = ILEA241 into ALA
+Mutating residue = ILEA241 into CYS
+Mutating residue = ILEA241 into ASP
+Mutating residue = ILEA241 into GLU
+Mutating residue = ILEA241 into PHE
+Mutating residue = ILEA241 into GLY
+Mutating residue = ILEA241 into HIS
+Mutating residue = ILEA241 into LYS
+Mutating residue = ILEA241 into LEU
+Mutating residue = ILEA241 into MET
+Mutating residue = ILEA241 into ASN
+Mutating residue = ILEA241 into PRO
+Mutating residue = ILEA241 into GLN
+Mutating residue = ILEA241 into ARG
+Mutating residue = ILEA241 into SER
+Mutating residue = ILEA241 into THR
+Mutating residue = ILEA241 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:22:06 2026
+Total time spend: 283.49 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 82 结果提取成功，已映射突变信息。

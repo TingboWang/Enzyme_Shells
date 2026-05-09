@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading LA201M;
+Reading LA201P;
+Reading LA201Q;
+Reading LA201V;
+Reading LA215H;
+Reading LA215I;
+Reading LA215V;
+Reading LA232F;
+Reading LA232M;
+Reading LA232S;
+Reading LA232V;
+Reading LA232W;
+Reading LA244M;
+Reading LA244P;
+Reading LA244Q;
+Reading LA244R;
+Reading LA245F;
+Reading LA245M;
+Reading LA245S;
+Reading LA245W;
+Reading LA246M;
+Reading LA246P;
+Reading LA246Q;
+Reading LA246R;
+Reading LA251F;
+Reading LA251M;
+Reading LA251S;
+Reading LA251V;
+Reading LA251W;
+Reading LA260F;
+Reading LA260I;
+Reading LA260S;
+Reading LA260V;
+Reading LA278F;
+Reading LA278H;
+Reading LA278I;
+Reading LA278P;
+Reading LA278R;
+Reading LA278V;
+Reading LA301F;
+Reading LA301I;
+Reading LA301S;
+Reading LA301V;
+Reading LA304M;
+Reading LA304S;
+Reading LA304V;
+Reading LA322I;
+Reading LA322P;
+Reading LA322Q;
+Reading LA322V;
+Residue to Mutate LEUA201 has residue index 200
+Residue to Mutate LEUA201 has residue index 200
+Residue to Mutate LEUA201 has residue index 200
+Residue to Mutate LEUA201 has residue index 200
+Residue to Mutate LEUA215 has residue index 214
+Residue to Mutate LEUA215 has residue index 214
+Residue to Mutate LEUA215 has residue index 214
+Residue to Mutate LEUA232 has residue index 231
+Residue to Mutate LEUA232 has residue index 231
+Residue to Mutate LEUA232 has residue index 231
+Residue to Mutate LEUA232 has residue index 231
+Residue to Mutate LEUA232 has residue index 231
+Residue to Mutate LEUA244 has residue index 243
+Residue to Mutate LEUA244 has residue index 243
+Residue to Mutate LEUA244 has residue index 243
+Residue to Mutate LEUA244 has residue index 243
+Residue to Mutate LEUA245 has residue index 244
+Residue to Mutate LEUA245 has residue index 244
+Residue to Mutate LEUA245 has residue index 244
+Residue to Mutate LEUA245 has residue index 244
+Residue to Mutate LEUA246 has residue index 245
+Residue to Mutate LEUA246 has residue index 245
+Residue to Mutate LEUA246 has residue index 245
+Residue to Mutate LEUA246 has residue index 245
+Residue to Mutate LEUA251 has residue index 250
+Residue to Mutate LEUA251 has residue index 250
+Residue to Mutate LEUA251 has residue index 250
+Residue to Mutate LEUA251 has residue index 250
+Residue to Mutate LEUA251 has residue index 250
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA278 has residue index 277
+Residue to Mutate LEUA301 has residue index 300
+Residue to Mutate LEUA301 has residue index 300
+Residue to Mutate LEUA301 has residue index 300
+Residue to Mutate LEUA301 has residue index 300
+Residue to Mutate LEUA304 has residue index 303
+Residue to Mutate LEUA304 has residue index 303
+Residue to Mutate LEUA304 has residue index 303
+Residue to Mutate LEUA322 has residue index 321
+Residue to Mutate LEUA322 has residue index 321
+Residue to Mutate LEUA322 has residue index 321
+Residue to Mutate LEUA322 has residue index 321
+Mutating residue = LEUA201 into MET
+Mutating residue = LEUA201 into PRO
+Mutating residue = LEUA201 into GLN
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA215 into HIS
+Mutating residue = LEUA215 into ILE
+Mutating residue = LEUA215 into VAL
+Mutating residue = LEUA232 into PHE
+Mutating residue = LEUA232 into MET
+Mutating residue = LEUA232 into SER
+Mutating residue = LEUA232 into VAL
+Mutating residue = LEUA232 into TRP
+Mutating residue = LEUA244 into MET
+Mutating residue = LEUA244 into PRO
+Mutating residue = LEUA244 into GLN
+Mutating residue = LEUA244 into ARG
+Mutating residue = LEUA245 into PHE
+Mutating residue = LEUA245 into MET
+Mutating residue = LEUA245 into SER
+Mutating residue = LEUA245 into TRP
+Mutating residue = LEUA246 into MET
+Mutating residue = LEUA246 into PRO
+Mutating residue = LEUA246 into GLN
+Mutating residue = LEUA246 into ARG
+Mutating residue = LEUA251 into PHE
+Mutating residue = LEUA251 into MET
+Mutating residue = LEUA251 into SER
+Mutating residue = LEUA251 into VAL
+Mutating residue = LEUA251 into TRP
+Mutating residue = LEUA260 into PHE
+Mutating residue = LEUA260 into ILE
+Mutating residue = LEUA260 into SER
+Mutating residue = LEUA260 into VAL
+Mutating residue = LEUA278 into PHE
+Mutating residue = LEUA278 into HIS
+Mutating residue = LEUA278 into ILE
+Mutating residue = LEUA278 into PRO
+Mutating residue = LEUA278 into ARG
+Mutating residue = LEUA278 into VAL
+Mutating residue = LEUA301 into PHE
+Mutating residue = LEUA301 into ILE
+Mutating residue = LEUA301 into SER
+Mutating residue = LEUA301 into VAL
+Mutating residue = LEUA304 into MET
+Mutating residue = LEUA304 into SER
+Mutating residue = LEUA304 into VAL
+Mutating residue = LEUA322 into ILE
+Mutating residue = LEUA322 into PRO
+Mutating residue = LEUA322 into GLN
+Mutating residue = LEUA322 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:21:53 2026
+Total time spend: 281.40 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 17 结果提取成功，已映射突变信息。

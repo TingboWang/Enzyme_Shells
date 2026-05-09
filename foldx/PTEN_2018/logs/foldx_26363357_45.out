@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading AA121E;
+Reading AA121D;
+Reading AA121C;
+Reading AA121L;
+Reading IA122Y;
+Reading IA122W;
+Reading IA122V;
+Reading IA122K;
+Reading IA122E;
+Reading IA122G;
+Reading IA122F;
+Reading IA122L;
+Reading IA122D;
+Reading IA122H;
+Reading IA122M;
+Reading IA122A;
+Reading IA122P;
+Reading IA122T;
+Reading IA122S;
+Reading IA122R;
+Reading IA122Q;
+Reading IA122C;
+Reading IA122N;
+Reading HA123I;
+Reading HA123F;
+Reading HA123E;
+Reading HA123D;
+Reading HA123G;
+Reading HA123T;
+Reading HA123A;
+Reading HA123S;
+Reading HA123C;
+Reading HA123V;
+Reading HA123W;
+Reading HA123R;
+Reading HA123Y;
+Reading HA123P;
+Reading HA123N;
+Reading HA123M;
+Reading HA123L;
+Reading HA123K;
+Reading HA123Q;
+Reading CA124T;
+Reading CA124Y;
+Reading CA124W;
+Reading CA124V;
+Reading CA124S;
+Reading CA124K;
+Reading CA124Q;
+Reading CA124L;
+Residue to Mutate ALAA121 has residue index 120
+Residue to Mutate ALAA121 has residue index 120
+Residue to Mutate ALAA121 has residue index 120
+Residue to Mutate ALAA121 has residue index 120
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate ILEA122 has residue index 121
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate HISA123 has residue index 122
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Residue to Mutate CYSA124 has residue index 123
+Mutating residue = ALAA121 into GLU
+Mutating residue = ALAA121 into ASP
+Mutating residue = ALAA121 into CYS
+Mutating residue = ALAA121 into LEU
+Mutating residue = ILEA122 into TYR
+Mutating residue = ILEA122 into TRP
+Mutating residue = ILEA122 into VAL
+Mutating residue = ILEA122 into LYS
+Mutating residue = ILEA122 into GLU
+Mutating residue = ILEA122 into GLY
+Mutating residue = ILEA122 into PHE
+Mutating residue = ILEA122 into LEU
+Mutating residue = ILEA122 into ASP
+Mutating residue = ILEA122 into HIS
+Mutating residue = ILEA122 into MET
+Mutating residue = ILEA122 into ALA
+Mutating residue = ILEA122 into PRO
+Mutating residue = ILEA122 into THR
+Mutating residue = ILEA122 into SER
+Mutating residue = ILEA122 into ARG
+Mutating residue = ILEA122 into GLN
+Mutating residue = ILEA122 into CYS
+Mutating residue = ILEA122 into ASN
+Mutating residue = HISA123 into ILE
+Mutating residue = HISA123 into PHE
+Mutating residue = HISA123 into GLU
+Mutating residue = HISA123 into ASP
+Mutating residue = HISA123 into GLY
+Mutating residue = HISA123 into THR
+Mutating residue = HISA123 into ALA
+Mutating residue = HISA123 into SER
+Mutating residue = HISA123 into CYS
+Mutating residue = HISA123 into VAL
+Mutating residue = HISA123 into TRP
+Mutating residue = HISA123 into ARG
+Mutating residue = HISA123 into TYR
+Mutating residue = HISA123 into PRO
+Mutating residue = HISA123 into ASN
+Mutating residue = HISA123 into MET
+Mutating residue = HISA123 into LEU
+Mutating residue = HISA123 into LYS
+Mutating residue = HISA123 into GLN
+Mutating residue = CYSA124 into THR
+Mutating residue = CYSA124 into TYR
+Mutating residue = CYSA124 into TRP
+Mutating residue = CYSA124 into VAL
+Mutating residue = CYSA124 into SER
+Mutating residue = CYSA124 into LYS
+Mutating residue = CYSA124 into GLN
+Mutating residue = CYSA124 into LEU
+Your file run OK
+End time of FoldX: Sat May  9 16:24:56 2026
+Total time spend: 460.99 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 45 结果提取成功，已映射突变信息。

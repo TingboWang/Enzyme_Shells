@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RASH.pdb
+1 models read: RASH.pdb
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+Starting BuildModel
+Reading SA17Y;
+Reading SA17A;
+Reading SA17G;
+Reading AA18Q;
+Reading AA18W;
+Reading AA18V;
+Reading AA18T;
+Reading AA18S;
+Reading AA18P;
+Reading AA18R;
+Reading AA18M;
+Reading AA18N;
+Reading AA18Y;
+Reading AA18D;
+Reading AA18F;
+Reading AA18G;
+Reading AA18E;
+Reading AA18H;
+Reading AA18I;
+Reading AA18K;
+Reading AA18L;
+Reading AA18C;
+Reading LA19K;
+Reading LA19E;
+Reading LA19F;
+Reading LA19D;
+Reading LA19G;
+Reading LA19H;
+Reading LA19I;
+Reading LA19M;
+Reading LA19V;
+Reading LA19Q;
+Reading LA19R;
+Reading LA19S;
+Reading LA19T;
+Reading LA19Y;
+Reading LA19W;
+Reading LA19C;
+Reading LA19P;
+Reading LA19A;
+Reading LA19N;
+Reading TA20A;
+Reading TA20Y;
+Reading TA20W;
+Reading TA20V;
+Reading TA20S;
+Reading TA20Q;
+Reading TA20P;
+Reading TA20N;
+Reading TA20M;
+Residue to Mutate SERA17 has residue index 16
+Residue to Mutate SERA17 has residue index 16
+Residue to Mutate SERA17 has residue index 16
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate ALAA18 has residue index 17
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate LEUA19 has residue index 18
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Residue to Mutate THRA20 has residue index 19
+Mutating residue = SERA17 into TYR
+Mutating residue = SERA17 into ALA
+Mutating residue = SERA17 into GLY
+Mutating residue = ALAA18 into GLN
+Mutating residue = ALAA18 into TRP
+Mutating residue = ALAA18 into VAL
+Mutating residue = ALAA18 into THR
+Mutating residue = ALAA18 into SER
+Mutating residue = ALAA18 into PRO
+Mutating residue = ALAA18 into ARG
+Mutating residue = ALAA18 into MET
+Mutating residue = ALAA18 into ASN
+Mutating residue = ALAA18 into TYR
+Mutating residue = ALAA18 into ASP
+Mutating residue = ALAA18 into PHE
+Mutating residue = ALAA18 into GLY
+Mutating residue = ALAA18 into GLU
+Mutating residue = ALAA18 into HIS
+Mutating residue = ALAA18 into ILE
+Mutating residue = ALAA18 into LYS
+Mutating residue = ALAA18 into LEU
+Mutating residue = ALAA18 into CYS
+Mutating residue = LEUA19 into LYS
+Mutating residue = LEUA19 into GLU
+Mutating residue = LEUA19 into PHE
+Mutating residue = LEUA19 into ASP
+Mutating residue = LEUA19 into GLY
+Mutating residue = LEUA19 into HIS
+Mutating residue = LEUA19 into ILE
+Mutating residue = LEUA19 into MET
+Mutating residue = LEUA19 into VAL
+Mutating residue = LEUA19 into GLN
+Mutating residue = LEUA19 into ARG
+Mutating residue = LEUA19 into SER
+Mutating residue = LEUA19 into THR
+Mutating residue = LEUA19 into TYR
+Mutating residue = LEUA19 into TRP
+Mutating residue = LEUA19 into CYS
+Mutating residue = LEUA19 into PRO
+Mutating residue = LEUA19 into ALA
+Mutating residue = LEUA19 into ASN
+Mutating residue = THRA20 into ALA
+Mutating residue = THRA20 into TYR
+Mutating residue = THRA20 into TRP
+Mutating residue = THRA20 into VAL
+Mutating residue = THRA20 into SER
+Mutating residue = THRA20 into GLN
+Mutating residue = THRA20 into PRO
+Mutating residue = THRA20 into ASN
+Mutating residue = THRA20 into MET
+Your file run OK
+End time of FoldX: Sat May  9 16:21:13 2026
+Total time spend: 235.49 seconds.
+validated file "RASH_1.pdb" => successfully finished
+validated file "RASH_2.pdb" => successfully finished
+validated file "RASH_3.pdb" => successfully finished
+validated file "RASH_4.pdb" => successfully finished
+validated file "RASH_5.pdb" => successfully finished
+validated file "RASH_6.pdb" => successfully finished
+validated file "RASH_7.pdb" => successfully finished
+validated file "RASH_8.pdb" => successfully finished
+validated file "RASH_9.pdb" => successfully finished
+validated file "RASH_10.pdb" => successfully finished
+validated file "RASH_11.pdb" => successfully finished
+validated file "RASH_12.pdb" => successfully finished
+validated file "RASH_13.pdb" => successfully finished
+validated file "RASH_14.pdb" => successfully finished
+validated file "RASH_15.pdb" => successfully finished
+validated file "RASH_16.pdb" => successfully finished
+validated file "RASH_17.pdb" => successfully finished
+validated file "RASH_18.pdb" => successfully finished
+validated file "RASH_19.pdb" => successfully finished
+validated file "RASH_20.pdb" => successfully finished
+validated file "RASH_21.pdb" => successfully finished
+validated file "RASH_22.pdb" => successfully finished
+validated file "RASH_23.pdb" => successfully finished
+validated file "RASH_24.pdb" => successfully finished
+validated file "RASH_25.pdb" => successfully finished
+validated file "RASH_26.pdb" => successfully finished
+validated file "RASH_27.pdb" => successfully finished
+validated file "RASH_28.pdb" => successfully finished
+validated file "RASH_29.pdb" => successfully finished
+validated file "RASH_30.pdb" => successfully finished
+validated file "RASH_31.pdb" => successfully finished
+validated file "RASH_32.pdb" => successfully finished
+validated file "RASH_33.pdb" => successfully finished
+validated file "RASH_34.pdb" => successfully finished
+validated file "RASH_35.pdb" => successfully finished
+validated file "RASH_36.pdb" => successfully finished
+validated file "RASH_37.pdb" => successfully finished
+validated file "RASH_38.pdb" => successfully finished
+validated file "RASH_39.pdb" => successfully finished
+validated file "RASH_40.pdb" => successfully finished
+validated file "RASH_41.pdb" => successfully finished
+validated file "RASH_42.pdb" => successfully finished
+validated file "RASH_43.pdb" => successfully finished
+validated file "RASH_44.pdb" => successfully finished
+validated file "RASH_45.pdb" => successfully finished
+validated file "RASH_46.pdb" => successfully finished
+validated file "RASH_47.pdb" => successfully finished
+validated file "RASH_48.pdb" => successfully finished
+validated file "RASH_49.pdb" => successfully finished
+validated file "RASH_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 7 结果提取成功，已映射突变信息。

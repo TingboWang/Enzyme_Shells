@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading CA192V;
+Reading CA192W;
+Reading CA192Y;
+Reading CA93A;
+Reading CA93D;
+Reading CA93E;
+Reading CA93F;
+Reading CA93G;
+Reading CA93H;
+Reading CA93I;
+Reading CA93K;
+Reading CA93L;
+Reading CA93M;
+Reading CA93N;
+Reading CA93P;
+Reading CA93Q;
+Reading CA93R;
+Reading CA93S;
+Reading CA93T;
+Reading CA93V;
+Reading CA93W;
+Reading CA93Y;
+Reading DA114A;
+Reading DA114C;
+Reading DA114E;
+Reading DA114F;
+Reading DA114G;
+Reading DA114H;
+Reading DA114I;
+Reading DA114K;
+Reading DA114L;
+Reading DA114M;
+Reading DA114N;
+Reading DA114P;
+Reading DA114Q;
+Reading DA114R;
+Reading DA114S;
+Reading DA114T;
+Reading DA114V;
+Reading DA114W;
+Reading DA114Y;
+Reading DA126A;
+Reading DA126C;
+Reading DA126E;
+Reading DA126F;
+Reading DA126G;
+Reading DA126H;
+Reading DA126I;
+Reading DA126K;
+Reading DA126L;
+Residue to Mutate CYSA192 has residue index 191
+Residue to Mutate CYSA192 has residue index 191
+Residue to Mutate CYSA192 has residue index 191
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate CYSA93 has residue index 92
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA114 has residue index 113
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Residue to Mutate ASPA126 has residue index 125
+Mutating residue = CYSA192 into VAL
+Mutating residue = CYSA192 into TRP
+Mutating residue = CYSA192 into TYR
+Mutating residue = CYSA93 into ALA
+Mutating residue = CYSA93 into ASP
+Mutating residue = CYSA93 into GLU
+Mutating residue = CYSA93 into PHE
+Mutating residue = CYSA93 into GLY
+Mutating residue = CYSA93 into HIS
+Mutating residue = CYSA93 into ILE
+Mutating residue = CYSA93 into LYS
+Mutating residue = CYSA93 into LEU
+Mutating residue = CYSA93 into MET
+Mutating residue = CYSA93 into ASN
+Mutating residue = CYSA93 into PRO
+Mutating residue = CYSA93 into GLN
+Mutating residue = CYSA93 into ARG
+Mutating residue = CYSA93 into SER
+Mutating residue = CYSA93 into THR
+Mutating residue = CYSA93 into VAL
+Mutating residue = CYSA93 into TRP
+Mutating residue = CYSA93 into TYR
+Mutating residue = ASPA114 into ALA
+Mutating residue = ASPA114 into CYS
+Mutating residue = ASPA114 into GLU
+Mutating residue = ASPA114 into PHE
+Mutating residue = ASPA114 into GLY
+Mutating residue = ASPA114 into HIS
+Mutating residue = ASPA114 into ILE
+Mutating residue = ASPA114 into LYS
+Mutating residue = ASPA114 into LEU
+Mutating residue = ASPA114 into MET
+Mutating residue = ASPA114 into ASN
+Mutating residue = ASPA114 into PRO
+Mutating residue = ASPA114 into GLN
+Mutating residue = ASPA114 into ARG
+Mutating residue = ASPA114 into SER
+Mutating residue = ASPA114 into THR
+Mutating residue = ASPA114 into VAL
+Mutating residue = ASPA114 into TRP
+Mutating residue = ASPA114 into TYR
+Mutating residue = ASPA126 into ALA
+Mutating residue = ASPA126 into CYS
+Mutating residue = ASPA126 into GLU
+Mutating residue = ASPA126 into PHE
+Mutating residue = ASPA126 into GLY
+Mutating residue = ASPA126 into HIS
+Mutating residue = ASPA126 into ILE
+Mutating residue = ASPA126 into LYS
+Mutating residue = ASPA126 into LEU
+Your file run OK
+End time of FoldX: Sat May  9 16:22:59 2026
+Total time spend: 338.36 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 7 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading EA1071K;
+Reading EA1071Q;
+Reading EA1071V;
+Reading EA108A;
+Reading EA108D;
+Reading EA108G;
+Reading EA108K;
+Reading EA108Q;
+Reading EA108V;
+Reading EA1099A;
+Reading EA1099D;
+Reading EA1099G;
+Reading EA1099K;
+Reading EA1099Q;
+Reading EA1099V;
+Reading EA109A;
+Reading EA109D;
+Reading EA109G;
+Reading EA109K;
+Reading EA109Q;
+Reading EA109V;
+Reading EA1108A;
+Reading EA1108D;
+Reading EA1108G;
+Reading EA1108K;
+Reading EA1108Q;
+Reading EA1108V;
+Reading EA114A;
+Reading EA114D;
+Reading EA114G;
+Reading EA114K;
+Reading EA114Q;
+Reading EA114V;
+Reading EA1150A;
+Reading EA1150D;
+Reading EA1150G;
+Reading EA1150K;
+Reading EA1150Q;
+Reading EA1150V;
+Reading EA1162A;
+Reading EA1162D;
+Reading EA1162G;
+Reading EA1162K;
+Reading EA1162Q;
+Reading EA1162V;
+Reading EA1170A;
+Reading EA1170D;
+Reading EA1170G;
+Reading EA1170K;
+Reading EA1170Q;
+Residue to Mutate GLUA1071 has residue index 1070
+Residue to Mutate GLUA1071 has residue index 1070
+Residue to Mutate GLUA1071 has residue index 1070
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA1099 has residue index 1098
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA1108 has residue index 1107
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA114 has residue index 113
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1150 has residue index 1149
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1162 has residue index 1161
+Residue to Mutate GLUA1170 has residue index 1169
+Residue to Mutate GLUA1170 has residue index 1169
+Residue to Mutate GLUA1170 has residue index 1169
+Residue to Mutate GLUA1170 has residue index 1169
+Residue to Mutate GLUA1170 has residue index 1169
+Mutating residue = GLUA1071 into LYS
+Mutating residue = GLUA1071 into GLN
+Mutating residue = GLUA1071 into VAL
+Mutating residue = GLUA108 into ALA
+Mutating residue = GLUA108 into ASP
+Mutating residue = GLUA108 into GLY
+Mutating residue = GLUA108 into LYS
+Mutating residue = GLUA108 into GLN
+Mutating residue = GLUA108 into VAL
+Mutating residue = GLUA1099 into ALA
+Mutating residue = GLUA1099 into ASP
+Mutating residue = GLUA1099 into GLY
+Mutating residue = GLUA1099 into LYS
+Mutating residue = GLUA1099 into GLN
+Mutating residue = GLUA1099 into VAL
+Mutating residue = GLUA109 into ALA
+Mutating residue = GLUA109 into ASP
+Mutating residue = GLUA109 into GLY
+Mutating residue = GLUA109 into LYS
+Mutating residue = GLUA109 into GLN
+Mutating residue = GLUA109 into VAL
+Mutating residue = GLUA1108 into ALA
+Mutating residue = GLUA1108 into ASP
+Mutating residue = GLUA1108 into GLY
+Mutating residue = GLUA1108 into LYS
+Mutating residue = GLUA1108 into GLN
+Mutating residue = GLUA1108 into VAL
+Mutating residue = GLUA114 into ALA
+Mutating residue = GLUA114 into ASP
+Mutating residue = GLUA114 into GLY
+Mutating residue = GLUA114 into LYS
+Mutating residue = GLUA114 into GLN
+Mutating residue = GLUA114 into VAL
+Mutating residue = GLUA1150 into ALA
+Mutating residue = GLUA1150 into ASP
+Mutating residue = GLUA1150 into GLY
+Mutating residue = GLUA1150 into LYS
+Mutating residue = GLUA1150 into GLN
+Mutating residue = GLUA1150 into VAL
+Mutating residue = GLUA1162 into ALA
+Mutating residue = GLUA1162 into ASP
+Mutating residue = GLUA1162 into GLY
+Mutating residue = GLUA1162 into LYS
+Mutating residue = GLUA1162 into GLN
+Mutating residue = GLUA1162 into VAL
+Mutating residue = GLUA1170 into ALA
+Mutating residue = GLUA1170 into ASP
+Mutating residue = GLUA1170 into GLY
+Mutating residue = GLUA1170 into LYS
+Mutating residue = GLUA1170 into GLN
+Your file run OK
+End time of FoldX: Sat May  9 16:31:04 2026
+Total time spend: 840.55 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 25 结果提取成功，已映射突变信息。

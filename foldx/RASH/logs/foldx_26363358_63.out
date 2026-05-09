@@ -1,0 +1,208 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RASH.pdb
+1 models read: RASH.pdb
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+
+BackHbond       =               -119.56
+SideHbond       =               -30.66
+Energy_VdW      =               -189.28
+Electro         =               -11.61
+Energy_SolvP    =               271.10
+Energy_SolvH    =               -245.82
+Energy_vdwclash =               13.82
+energy_torsion  =               3.00
+backbone_vdwclash=              105.77
+Entropy_sidec   =               98.60
+Entropy_mainc   =               271.56
+water bonds     =               0.00
+helix dipole    =               -0.83
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.20
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  61.65
+
+Starting BuildModel
+Reading QA165T;
+Reading QA165S;
+Reading QA165R;
+Reading QA165P;
+Reading QA165N;
+Reading QA165M;
+Reading QA165L;
+Reading QA165K;
+Reading QA165H;
+Reading QA165G;
+Reading QA165F;
+Reading QA165E;
+Reading QA165D;
+Reading QA165A;
+Reading QA165I;
+Reading HA166W;
+Reading HA166A;
+Reading HA166V;
+Reading HA166T;
+Reading HA166S;
+Reading HA166R;
+Reading HA166Q;
+Reading HA166P;
+Reading HA166M;
+Reading HA166L;
+Reading HA166K;
+Reading HA166I;
+Reading HA166G;
+Reading HA166F;
+Reading HA166E;
+Reading HA166D;
+Reading HA166C;
+Reading HA166Y;
+Reading HA166N;
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate GLNA165 has residue index 164
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Residue to Mutate HISA166 has residue index 165
+Mutating residue = GLNA165 into THR
+Mutating residue = GLNA165 into SER
+Mutating residue = GLNA165 into ARG
+Mutating residue = GLNA165 into PRO
+Mutating residue = GLNA165 into ASN
+Mutating residue = GLNA165 into MET
+Mutating residue = GLNA165 into LEU
+Mutating residue = GLNA165 into LYS
+Mutating residue = GLNA165 into HIS
+Mutating residue = GLNA165 into GLY
+Mutating residue = GLNA165 into PHE
+Mutating residue = GLNA165 into GLU
+Mutating residue = GLNA165 into ASP
+Mutating residue = GLNA165 into ALA
+Mutating residue = GLNA165 into ILE
+Mutating residue = H1SA166 into TRP
+Mutating residue = H1SA166 into ALA
+Mutating residue = H1SA166 into VAL
+Mutating residue = H1SA166 into THR
+Mutating residue = H1SA166 into SER
+Mutating residue = H1SA166 into ARG
+Mutating residue = H1SA166 into GLN
+Mutating residue = H1SA166 into PRO
+Mutating residue = H1SA166 into MET
+Mutating residue = H1SA166 into LEU
+Mutating residue = H1SA166 into LYS
+Mutating residue = H1SA166 into ILE
+Mutating residue = H1SA166 into GLY
+Mutating residue = H1SA166 into PHE
+Mutating residue = H1SA166 into GLU
+Mutating residue = H1SA166 into ASP
+Mutating residue = H1SA166 into CYS
+Mutating residue = H1SA166 into TYR
+Mutating residue = H1SA166 into ASN
+Your file run OK
+End time of FoldX: Sat May  9 16:27:42 2026
+Total time spend: 622.08 seconds.
+validated file "RASH_1.pdb" => successfully finished
+validated file "RASH_2.pdb" => successfully finished
+validated file "RASH_3.pdb" => successfully finished
+validated file "RASH_4.pdb" => successfully finished
+validated file "RASH_5.pdb" => successfully finished
+validated file "RASH_6.pdb" => successfully finished
+validated file "RASH_7.pdb" => successfully finished
+validated file "RASH_8.pdb" => successfully finished
+validated file "RASH_9.pdb" => successfully finished
+validated file "RASH_10.pdb" => successfully finished
+validated file "RASH_11.pdb" => successfully finished
+validated file "RASH_12.pdb" => successfully finished
+validated file "RASH_13.pdb" => successfully finished
+validated file "RASH_14.pdb" => successfully finished
+validated file "RASH_15.pdb" => successfully finished
+validated file "RASH_16.pdb" => successfully finished
+validated file "RASH_17.pdb" => successfully finished
+validated file "RASH_18.pdb" => successfully finished
+validated file "RASH_19.pdb" => successfully finished
+validated file "RASH_20.pdb" => successfully finished
+validated file "RASH_21.pdb" => successfully finished
+validated file "RASH_22.pdb" => successfully finished
+validated file "RASH_23.pdb" => successfully finished
+validated file "RASH_24.pdb" => successfully finished
+validated file "RASH_25.pdb" => successfully finished
+validated file "RASH_26.pdb" => successfully finished
+validated file "RASH_27.pdb" => successfully finished
+validated file "RASH_28.pdb" => successfully finished
+validated file "RASH_29.pdb" => successfully finished
+validated file "RASH_30.pdb" => successfully finished
+validated file "RASH_31.pdb" => successfully finished
+validated file "RASH_32.pdb" => successfully finished
+validated file "RASH_33.pdb" => successfully finished
+validated file "RASH_34.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 63 结果提取成功，已映射突变信息。

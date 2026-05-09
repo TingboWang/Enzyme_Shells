@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AMIE.pdb
+1 models read: AMIE.pdb
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+Starting BuildModel
+Reading RA106S;
+Reading RA106Q;
+Reading RA106E;
+Reading RA106N;
+Reading RA106P;
+Reading RA106L;
+Reading RA106K;
+Reading RA106I;
+Reading RA106G;
+Reading RA106M;
+Reading HA107D;
+Reading HA107A;
+Reading HA107C;
+Reading HA107E;
+Reading HA107K;
+Reading HA107G;
+Reading HA107F;
+Reading HA107V;
+Reading HA107T;
+Reading HA107S;
+Reading HA107R;
+Reading HA107Y;
+Reading HA107P;
+Reading HA107N;
+Reading HA107L;
+Reading HA107I;
+Reading HA107Q;
+Reading EA108M;
+Reading EA108C;
+Reading EA108G;
+Reading EA108H;
+Reading EA108I;
+Reading EA108F;
+Reading EA108D;
+Reading EA108K;
+Reading EA108L;
+Reading EA108N;
+Reading EA108V;
+Reading EA108Q;
+Reading EA108R;
+Reading EA108S;
+Reading EA108T;
+Reading EA108W;
+Reading EA108Y;
+Reading EA108P;
+Reading EA108A;
+Reading EA109A;
+Reading EA109C;
+Reading EA109D;
+Reading EA109F;
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate ARGA106 has residue index 105
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate HISA107 has residue index 106
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA108 has residue index 107
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Residue to Mutate GLUA109 has residue index 108
+Mutating residue = ARGA106 into SER
+Mutating residue = ARGA106 into GLN
+Mutating residue = ARGA106 into GLU
+Mutating residue = ARGA106 into ASN
+Mutating residue = ARGA106 into PRO
+Mutating residue = ARGA106 into LEU
+Mutating residue = ARGA106 into LYS
+Mutating residue = ARGA106 into ILE
+Mutating residue = ARGA106 into GLY
+Mutating residue = ARGA106 into MET
+Mutating residue = H2SA107 into ASP
+Mutating residue = H2SA107 into ALA
+Mutating residue = H2SA107 into CYS
+Mutating residue = H2SA107 into GLU
+Mutating residue = H2SA107 into LYS
+Mutating residue = H2SA107 into GLY
+Mutating residue = H2SA107 into PHE
+Mutating residue = H2SA107 into VAL
+Mutating residue = H2SA107 into THR
+Mutating residue = H2SA107 into SER
+Mutating residue = H2SA107 into ARG
+Mutating residue = H2SA107 into TYR
+Mutating residue = H2SA107 into PRO
+Mutating residue = H2SA107 into ASN
+Mutating residue = H2SA107 into LEU
+Mutating residue = H2SA107 into ILE
+Mutating residue = H2SA107 into GLN
+Mutating residue = GLUA108 into MET
+Mutating residue = GLUA108 into CYS
+Mutating residue = GLUA108 into GLY
+Mutating residue = GLUA108 into HIS
+Mutating residue = GLUA108 into ILE
+Mutating residue = GLUA108 into PHE
+Mutating residue = GLUA108 into ASP
+Mutating residue = GLUA108 into LYS
+Mutating residue = GLUA108 into LEU
+Mutating residue = GLUA108 into ASN
+Mutating residue = GLUA108 into VAL
+Mutating residue = GLUA108 into GLN
+Mutating residue = GLUA108 into ARG
+Mutating residue = GLUA108 into SER
+Mutating residue = GLUA108 into THR
+Mutating residue = GLUA108 into TRP
+Mutating residue = GLUA108 into TYR
+Mutating residue = GLUA108 into PRO
+Mutating residue = GLUA108 into ALA
+Mutating residue = GLUA109 into ALA
+Mutating residue = GLUA109 into CYS
+Mutating residue = GLUA109 into ASP
+Mutating residue = GLUA109 into PHE
+Your file run OK
+End time of FoldX: Sat May  9 16:24:49 2026
+Total time spend: 469.32 seconds.
+validated file "AMIE_1.pdb" => successfully finished
+validated file "AMIE_2.pdb" => successfully finished
+validated file "AMIE_3.pdb" => successfully finished
+validated file "AMIE_4.pdb" => successfully finished
+validated file "AMIE_5.pdb" => successfully finished
+validated file "AMIE_6.pdb" => successfully finished
+validated file "AMIE_7.pdb" => successfully finished
+validated file "AMIE_8.pdb" => successfully finished
+validated file "AMIE_9.pdb" => successfully finished
+validated file "AMIE_10.pdb" => successfully finished
+validated file "AMIE_11.pdb" => successfully finished
+validated file "AMIE_12.pdb" => successfully finished
+validated file "AMIE_13.pdb" => successfully finished
+validated file "AMIE_14.pdb" => successfully finished
+validated file "AMIE_15.pdb" => successfully finished
+validated file "AMIE_16.pdb" => successfully finished
+validated file "AMIE_17.pdb" => successfully finished
+validated file "AMIE_18.pdb" => successfully finished
+validated file "AMIE_19.pdb" => successfully finished
+validated file "AMIE_20.pdb" => successfully finished
+validated file "AMIE_21.pdb" => successfully finished
+validated file "AMIE_22.pdb" => successfully finished
+validated file "AMIE_23.pdb" => successfully finished
+validated file "AMIE_24.pdb" => successfully finished
+validated file "AMIE_25.pdb" => successfully finished
+validated file "AMIE_26.pdb" => successfully finished
+validated file "AMIE_27.pdb" => successfully finished
+validated file "AMIE_28.pdb" => successfully finished
+validated file "AMIE_29.pdb" => successfully finished
+validated file "AMIE_30.pdb" => successfully finished
+validated file "AMIE_31.pdb" => successfully finished
+validated file "AMIE_32.pdb" => successfully finished
+validated file "AMIE_33.pdb" => successfully finished
+validated file "AMIE_34.pdb" => successfully finished
+validated file "AMIE_35.pdb" => successfully finished
+validated file "AMIE_36.pdb" => successfully finished
+validated file "AMIE_37.pdb" => successfully finished
+validated file "AMIE_38.pdb" => successfully finished
+validated file "AMIE_39.pdb" => successfully finished
+validated file "AMIE_40.pdb" => successfully finished
+validated file "AMIE_41.pdb" => successfully finished
+validated file "AMIE_42.pdb" => successfully finished
+validated file "AMIE_43.pdb" => successfully finished
+validated file "AMIE_44.pdb" => successfully finished
+validated file "AMIE_45.pdb" => successfully finished
+validated file "AMIE_46.pdb" => successfully finished
+validated file "AMIE_47.pdb" => successfully finished
+validated file "AMIE_48.pdb" => successfully finished
+validated file "AMIE_49.pdb" => successfully finished
+validated file "AMIE_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 39 结果提取成功，已映射突变信息。

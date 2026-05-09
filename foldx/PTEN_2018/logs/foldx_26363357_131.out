@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading SA361P;
+Reading SA361R;
+Reading SA361T;
+Reading SA361V;
+Reading SA361W;
+Reading SA361Y;
+Reading SA361Q;
+Reading SA361C;
+Reading SA361A;
+Reading SA361K;
+Reading SA361I;
+Reading SA361H;
+Reading SA361L;
+Reading SA361F;
+Reading SA361E;
+Reading SA361D;
+Reading SA361G;
+Reading SA362N;
+Reading SA362Y;
+Reading SA362W;
+Reading SA362V;
+Reading SA362T;
+Reading SA362R;
+Reading SA362P;
+Reading SA362M;
+Reading SA362Q;
+Reading SA362K;
+Reading SA362L;
+Reading SA362C;
+Reading SA362D;
+Reading SA362E;
+Reading SA362A;
+Reading SA362G;
+Reading SA362H;
+Reading SA362I;
+Reading SA362F;
+Reading TA363G;
+Reading TA363A;
+Reading TA363C;
+Reading TA363D;
+Reading TA363E;
+Reading TA363F;
+Reading TA363H;
+Reading TA363Q;
+Reading TA363K;
+Reading TA363N;
+Reading TA363P;
+Reading TA363R;
+Reading TA363S;
+Reading TA363Y;
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA361 has residue index 360
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate SERA362 has residue index 361
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Residue to Mutate THRA363 has residue index 362
+Mutating residue = SERA361 into PRO
+Mutating residue = SERA361 into ARG
+Mutating residue = SERA361 into THR
+Mutating residue = SERA361 into VAL
+Mutating residue = SERA361 into TRP
+Mutating residue = SERA361 into TYR
+Mutating residue = SERA361 into GLN
+Mutating residue = SERA361 into CYS
+Mutating residue = SERA361 into ALA
+Mutating residue = SERA361 into LYS
+Mutating residue = SERA361 into ILE
+Mutating residue = SERA361 into HIS
+Mutating residue = SERA361 into LEU
+Mutating residue = SERA361 into PHE
+Mutating residue = SERA361 into GLU
+Mutating residue = SERA361 into ASP
+Mutating residue = SERA361 into GLY
+Mutating residue = SERA362 into ASN
+Mutating residue = SERA362 into TYR
+Mutating residue = SERA362 into TRP
+Mutating residue = SERA362 into VAL
+Mutating residue = SERA362 into THR
+Mutating residue = SERA362 into ARG
+Mutating residue = SERA362 into PRO
+Mutating residue = SERA362 into MET
+Mutating residue = SERA362 into GLN
+Mutating residue = SERA362 into LYS
+Mutating residue = SERA362 into LEU
+Mutating residue = SERA362 into CYS
+Mutating residue = SERA362 into ASP
+Mutating residue = SERA362 into GLU
+Mutating residue = SERA362 into ALA
+Mutating residue = SERA362 into GLY
+Mutating residue = SERA362 into HIS
+Mutating residue = SERA362 into ILE
+Mutating residue = SERA362 into PHE
+Mutating residue = THRA363 into GLY
+Mutating residue = THRA363 into ALA
+Mutating residue = THRA363 into CYS
+Mutating residue = THRA363 into ASP
+Mutating residue = THRA363 into GLU
+Mutating residue = THRA363 into PHE
+Mutating residue = THRA363 into HIS
+Mutating residue = THRA363 into GLN
+Mutating residue = THRA363 into LYS
+Mutating residue = THRA363 into ASN
+Mutating residue = THRA363 into PRO
+Mutating residue = THRA363 into ARG
+Mutating residue = THRA363 into SER
+Mutating residue = THRA363 into TYR
+Your file run OK
+End time of FoldX: Sat May  9 16:17:48 2026
+Total time spend: 32.61 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 131 结果提取成功，已映射突变信息。

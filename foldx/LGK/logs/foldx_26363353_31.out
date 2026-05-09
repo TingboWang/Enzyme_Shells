@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: LGK.pdb
+1 models read: LGK.pdb
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+Starting BuildModel
+Reading HA88A;
+Reading HA88C;
+Reading HA88F;
+Reading HA88G;
+Reading HA88D;
+Reading HA88L;
+Reading HA88M;
+Reading HA88N;
+Reading HA88P;
+Reading HA88Q;
+Reading HA88R;
+Reading HA88S;
+Reading HA88I;
+Reading FA89H;
+Reading FA89A;
+Reading FA89C;
+Reading FA89D;
+Reading FA89E;
+Reading FA89G;
+Reading FA89I;
+Reading FA89V;
+Reading FA89L;
+Reading FA89N;
+Reading FA89P;
+Reading FA89Q;
+Reading FA89R;
+Reading FA89S;
+Reading FA89T;
+Reading FA89K;
+Reading FA89W;
+Reading FA89Y;
+Reading AA90L;
+Reading AA90S;
+Reading AA90R;
+Reading AA90Q;
+Reading AA90P;
+Reading AA90N;
+Reading AA90M;
+Reading AA90W;
+Reading AA90T;
+Reading AA90Y;
+Reading AA90I;
+Reading AA90H;
+Reading AA90G;
+Reading AA90F;
+Reading AA90E;
+Reading AA90D;
+Reading AA90C;
+Reading AA90K;
+Reading AA90V;
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate HISA88 has residue index 87
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Residue to Mutate ALAA90 has residue index 89
+Mutating residue = HISA88 into ALA
+Mutating residue = HISA88 into CYS
+Mutating residue = HISA88 into PHE
+Mutating residue = HISA88 into GLY
+Mutating residue = HISA88 into ASP
+Mutating residue = HISA88 into LEU
+Mutating residue = HISA88 into MET
+Mutating residue = HISA88 into ASN
+Mutating residue = HISA88 into PRO
+Mutating residue = HISA88 into GLN
+Mutating residue = HISA88 into ARG
+Mutating residue = HISA88 into SER
+Mutating residue = HISA88 into ILE
+Mutating residue = PHEA89 into HIS
+Mutating residue = PHEA89 into ALA
+Mutating residue = PHEA89 into CYS
+Mutating residue = PHEA89 into ASP
+Mutating residue = PHEA89 into GLU
+Mutating residue = PHEA89 into GLY
+Mutating residue = PHEA89 into ILE
+Mutating residue = PHEA89 into VAL
+Mutating residue = PHEA89 into LEU
+Mutating residue = PHEA89 into ASN
+Mutating residue = PHEA89 into PRO
+Mutating residue = PHEA89 into GLN
+Mutating residue = PHEA89 into ARG
+Mutating residue = PHEA89 into SER
+Mutating residue = PHEA89 into THR
+Mutating residue = PHEA89 into LYS
+Mutating residue = PHEA89 into TRP
+Mutating residue = PHEA89 into TYR
+Mutating residue = ALAA90 into LEU
+Mutating residue = ALAA90 into SER
+Mutating residue = ALAA90 into ARG
+Mutating residue = ALAA90 into GLN
+Mutating residue = ALAA90 into PRO
+Mutating residue = ALAA90 into ASN
+Mutating residue = ALAA90 into MET
+Mutating residue = ALAA90 into TRP
+Mutating residue = ALAA90 into THR
+Mutating residue = ALAA90 into TYR
+Mutating residue = ALAA90 into ILE
+Mutating residue = ALAA90 into HIS
+Mutating residue = ALAA90 into GLY
+Mutating residue = ALAA90 into PHE
+Mutating residue = ALAA90 into GLU
+Mutating residue = ALAA90 into ASP
+Mutating residue = ALAA90 into CYS
+Mutating residue = ALAA90 into LYS
+Mutating residue = ALAA90 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:22:28 2026
+Total time spend: 316.51 seconds.
+validated file "LGK_1.pdb" => successfully finished
+validated file "LGK_2.pdb" => successfully finished
+validated file "LGK_3.pdb" => successfully finished
+validated file "LGK_4.pdb" => successfully finished
+validated file "LGK_5.pdb" => successfully finished
+validated file "LGK_6.pdb" => successfully finished
+validated file "LGK_7.pdb" => successfully finished
+validated file "LGK_8.pdb" => successfully finished
+validated file "LGK_9.pdb" => successfully finished
+validated file "LGK_10.pdb" => successfully finished
+validated file "LGK_11.pdb" => successfully finished
+validated file "LGK_12.pdb" => successfully finished
+validated file "LGK_13.pdb" => successfully finished
+validated file "LGK_14.pdb" => successfully finished
+validated file "LGK_15.pdb" => successfully finished
+validated file "LGK_16.pdb" => successfully finished
+validated file "LGK_17.pdb" => successfully finished
+validated file "LGK_18.pdb" => successfully finished
+validated file "LGK_19.pdb" => successfully finished
+validated file "LGK_20.pdb" => successfully finished
+validated file "LGK_21.pdb" => successfully finished
+validated file "LGK_22.pdb" => successfully finished
+validated file "LGK_23.pdb" => successfully finished
+validated file "LGK_24.pdb" => successfully finished
+validated file "LGK_25.pdb" => successfully finished
+validated file "LGK_26.pdb" => successfully finished
+validated file "LGK_27.pdb" => successfully finished
+validated file "LGK_28.pdb" => successfully finished
+validated file "LGK_29.pdb" => successfully finished
+validated file "LGK_30.pdb" => successfully finished
+validated file "LGK_31.pdb" => successfully finished
+validated file "LGK_32.pdb" => successfully finished
+validated file "LGK_33.pdb" => successfully finished
+validated file "LGK_34.pdb" => successfully finished
+validated file "LGK_35.pdb" => successfully finished
+validated file "LGK_36.pdb" => successfully finished
+validated file "LGK_37.pdb" => successfully finished
+validated file "LGK_38.pdb" => successfully finished
+validated file "LGK_39.pdb" => successfully finished
+validated file "LGK_40.pdb" => successfully finished
+validated file "LGK_41.pdb" => successfully finished
+validated file "LGK_42.pdb" => successfully finished
+validated file "LGK_43.pdb" => successfully finished
+validated file "LGK_44.pdb" => successfully finished
+validated file "LGK_45.pdb" => successfully finished
+validated file "LGK_46.pdb" => successfully finished
+validated file "LGK_47.pdb" => successfully finished
+validated file "LGK_48.pdb" => successfully finished
+validated file "LGK_49.pdb" => successfully finished
+validated file "LGK_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 31 结果提取成功，已映射突变信息。

@@ -1,0 +1,180 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AMIE.pdb
+1 models read: AMIE.pdb
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+Starting BuildModel
+Reading EA340R;
+Reading EA340S;
+Reading EA340T;
+Reading EA340V;
+Reading EA340L;
+Reading EA340A;
+Reading EA340W;
+Reading EA340Y;
+Reading GA341Y;
+Reading GA341I;
+Reading GA341H;
+Reading GA341F;
+Reading GA341E;
+Reading GA341D;
+Reading GA341C;
+Reading GA341A;
+Reading GA341K;
+Reading GA341L;
+Reading GA341M;
+Reading GA341N;
+Reading GA341P;
+Reading GA341Q;
+Reading GA341R;
+Reading GA341S;
+Reading GA341V;
+Reading GA341W;
+Reading GA341T;
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLUA340 has residue index 339
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA341 has residue index 340
+Mutating residue = GLUA340 into ARG
+Mutating residue = GLUA340 into SER
+Mutating residue = GLUA340 into THR
+Mutating residue = GLUA340 into VAL
+Mutating residue = GLUA340 into LEU
+Mutating residue = GLUA340 into ALA
+Mutating residue = GLUA340 into TRP
+Mutating residue = GLUA340 into TYR
+Mutating residue = GLYA341 into TYR
+Mutating residue = GLYA341 into ILE
+Mutating residue = GLYA341 into HIS
+Mutating residue = GLYA341 into PHE
+Mutating residue = GLYA341 into GLU
+Mutating residue = GLYA341 into ASP
+Mutating residue = GLYA341 into CYS
+Mutating residue = GLYA341 into ALA
+Mutating residue = GLYA341 into LYS
+Mutating residue = GLYA341 into LEU
+Mutating residue = GLYA341 into MET
+Mutating residue = GLYA341 into ASN
+Mutating residue = GLYA341 into PRO
+Mutating residue = GLYA341 into GLN
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA341 into SER
+Mutating residue = GLYA341 into VAL
+Mutating residue = GLYA341 into TRP
+Mutating residue = GLYA341 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:19:15 2026
+Total time spend: 134.38 seconds.
+validated file "AMIE_1.pdb" => successfully finished
+validated file "AMIE_2.pdb" => successfully finished
+validated file "AMIE_3.pdb" => successfully finished
+validated file "AMIE_4.pdb" => successfully finished
+validated file "AMIE_5.pdb" => successfully finished
+validated file "AMIE_6.pdb" => successfully finished
+validated file "AMIE_7.pdb" => successfully finished
+validated file "AMIE_8.pdb" => successfully finished
+validated file "AMIE_9.pdb" => successfully finished
+validated file "AMIE_10.pdb" => successfully finished
+validated file "AMIE_11.pdb" => successfully finished
+validated file "AMIE_12.pdb" => successfully finished
+validated file "AMIE_13.pdb" => successfully finished
+validated file "AMIE_14.pdb" => successfully finished
+validated file "AMIE_15.pdb" => successfully finished
+validated file "AMIE_16.pdb" => successfully finished
+validated file "AMIE_17.pdb" => successfully finished
+validated file "AMIE_18.pdb" => successfully finished
+validated file "AMIE_19.pdb" => successfully finished
+validated file "AMIE_20.pdb" => successfully finished
+validated file "AMIE_21.pdb" => successfully finished
+validated file "AMIE_22.pdb" => successfully finished
+validated file "AMIE_23.pdb" => successfully finished
+validated file "AMIE_24.pdb" => successfully finished
+validated file "AMIE_25.pdb" => successfully finished
+validated file "AMIE_26.pdb" => successfully finished
+validated file "AMIE_27.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 125 结果提取成功，已映射突变信息。

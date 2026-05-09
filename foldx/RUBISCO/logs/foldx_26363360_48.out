@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading FA136R;
+Reading FA136S;
+Reading FA136T;
+Reading FA136V;
+Reading FA136W;
+Reading FA136Y;
+Reading FA176A;
+Reading FA176C;
+Reading FA176D;
+Reading FA176E;
+Reading FA176G;
+Reading FA176H;
+Reading FA176I;
+Reading FA176K;
+Reading FA176L;
+Reading FA176M;
+Reading FA176N;
+Reading FA176P;
+Reading FA176Q;
+Reading FA176R;
+Reading FA176S;
+Reading FA176T;
+Reading FA176V;
+Reading FA176W;
+Reading FA176Y;
+Reading FA183A;
+Reading FA183C;
+Reading FA183D;
+Reading FA183E;
+Reading FA183G;
+Reading FA183H;
+Reading FA183I;
+Reading FA183K;
+Reading FA183L;
+Reading FA183M;
+Reading FA183N;
+Reading FA183P;
+Reading FA183Q;
+Reading FA183R;
+Reading FA183S;
+Reading FA183T;
+Reading FA183V;
+Reading FA183W;
+Reading FA183Y;
+Reading FA189A;
+Reading FA189C;
+Reading FA189D;
+Reading FA189E;
+Reading FA189G;
+Reading FA189H;
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA136 has residue index 134
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA176 has residue index 174
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA183 has residue index 181
+Residue to Mutate PHEA189 has residue index 187
+Residue to Mutate PHEA189 has residue index 187
+Residue to Mutate PHEA189 has residue index 187
+Residue to Mutate PHEA189 has residue index 187
+Residue to Mutate PHEA189 has residue index 187
+Residue to Mutate PHEA189 has residue index 187
+Mutating residue = PHEA136 into ARG
+Mutating residue = PHEA136 into SER
+Mutating residue = PHEA136 into THR
+Mutating residue = PHEA136 into VAL
+Mutating residue = PHEA136 into TRP
+Mutating residue = PHEA136 into TYR
+Mutating residue = PHEA176 into ALA
+Mutating residue = PHEA176 into CYS
+Mutating residue = PHEA176 into ASP
+Mutating residue = PHEA176 into GLU
+Mutating residue = PHEA176 into GLY
+Mutating residue = PHEA176 into HIS
+Mutating residue = PHEA176 into ILE
+Mutating residue = PHEA176 into LYS
+Mutating residue = PHEA176 into LEU
+Mutating residue = PHEA176 into MET
+Mutating residue = PHEA176 into ASN
+Mutating residue = PHEA176 into PRO
+Mutating residue = PHEA176 into GLN
+Mutating residue = PHEA176 into ARG
+Mutating residue = PHEA176 into SER
+Mutating residue = PHEA176 into THR
+Mutating residue = PHEA176 into VAL
+Mutating residue = PHEA176 into TRP
+Mutating residue = PHEA176 into TYR
+Mutating residue = PHEA183 into ALA
+Mutating residue = PHEA183 into CYS
+Mutating residue = PHEA183 into ASP
+Mutating residue = PHEA183 into GLU
+Mutating residue = PHEA183 into GLY
+Mutating residue = PHEA183 into HIS
+Mutating residue = PHEA183 into ILE
+Mutating residue = PHEA183 into LYS
+Mutating residue = PHEA183 into LEU
+Mutating residue = PHEA183 into MET
+Mutating residue = PHEA183 into ASN
+Mutating residue = PHEA183 into PRO
+Mutating residue = PHEA183 into GLN
+Mutating residue = PHEA183 into ARG
+Mutating residue = PHEA183 into SER
+Mutating residue = PHEA183 into THR
+Mutating residue = PHEA183 into VAL
+Mutating residue = PHEA183 into TRP
+Mutating residue = PHEA183 into TYR
+Mutating residue = PHEA189 into ALA
+Mutating residue = PHEA189 into CYS
+Mutating residue = PHEA189 into ASP
+Mutating residue = PHEA189 into GLU
+Mutating residue = PHEA189 into GLY
+Mutating residue = PHEA189 into HIS
+Your file run OK
+End time of FoldX: Sat May  9 16:21:46 2026
+Total time spend: 265.06 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 48 结果提取成功，已映射突变信息。

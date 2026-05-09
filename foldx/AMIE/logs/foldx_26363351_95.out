@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AMIE.pdb
+1 models read: AMIE.pdb
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+Starting BuildModel
+Reading LA260Y;
+Reading LA260W;
+Reading LA260V;
+Reading LA260T;
+Reading LA260S;
+Reading LA260R;
+Reading LA260P;
+Reading LA260N;
+Reading LA260M;
+Reading LA260K;
+Reading LA260I;
+Reading LA260H;
+Reading LA260G;
+Reading LA260D;
+Reading LA260C;
+Reading LA260A;
+Reading LA260E;
+Reading SA261G;
+Reading SA261I;
+Reading SA261Y;
+Reading SA261W;
+Reading SA261H;
+Reading SA261V;
+Reading SA261T;
+Reading SA261R;
+Reading SA261Q;
+Reading SA261P;
+Reading SA261N;
+Reading SA261F;
+Reading SA261M;
+Reading SA261D;
+Reading SA261K;
+Reading SA261C;
+Reading SA261A;
+Reading SA261E;
+Reading SA261L;
+Reading QA262Y;
+Reading QA262V;
+Reading QA262T;
+Reading QA262S;
+Reading QA262R;
+Reading QA262P;
+Reading QA262N;
+Reading QA262L;
+Reading QA262E;
+Reading QA262K;
+Reading QA262I;
+Reading QA262H;
+Reading QA262A;
+Reading QA262C;
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate LEUA260 has residue index 259
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate SERA261 has residue index 260
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Residue to Mutate GLNA262 has residue index 261
+Mutating residue = LEUA260 into TYR
+Mutating residue = LEUA260 into TRP
+Mutating residue = LEUA260 into VAL
+Mutating residue = LEUA260 into THR
+Mutating residue = LEUA260 into SER
+Mutating residue = LEUA260 into ARG
+Mutating residue = LEUA260 into PRO
+Mutating residue = LEUA260 into ASN
+Mutating residue = LEUA260 into MET
+Mutating residue = LEUA260 into LYS
+Mutating residue = LEUA260 into ILE
+Mutating residue = LEUA260 into HIS
+Mutating residue = LEUA260 into GLY
+Mutating residue = LEUA260 into ASP
+Mutating residue = LEUA260 into CYS
+Mutating residue = LEUA260 into ALA
+Mutating residue = LEUA260 into GLU
+Mutating residue = SERA261 into GLY
+Mutating residue = SERA261 into ILE
+Mutating residue = SERA261 into TYR
+Mutating residue = SERA261 into TRP
+Mutating residue = SERA261 into HIS
+Mutating residue = SERA261 into VAL
+Mutating residue = SERA261 into THR
+Mutating residue = SERA261 into ARG
+Mutating residue = SERA261 into GLN
+Mutating residue = SERA261 into PRO
+Mutating residue = SERA261 into ASN
+Mutating residue = SERA261 into PHE
+Mutating residue = SERA261 into MET
+Mutating residue = SERA261 into ASP
+Mutating residue = SERA261 into LYS
+Mutating residue = SERA261 into CYS
+Mutating residue = SERA261 into ALA
+Mutating residue = SERA261 into GLU
+Mutating residue = SERA261 into LEU
+Mutating residue = GLNA262 into TYR
+Mutating residue = GLNA262 into VAL
+Mutating residue = GLNA262 into THR
+Mutating residue = GLNA262 into SER
+Mutating residue = GLNA262 into ARG
+Mutating residue = GLNA262 into PRO
+Mutating residue = GLNA262 into ASN
+Mutating residue = GLNA262 into LEU
+Mutating residue = GLNA262 into GLU
+Mutating residue = GLNA262 into LYS
+Mutating residue = GLNA262 into ILE
+Mutating residue = GLNA262 into HIS
+Mutating residue = GLNA262 into ALA
+Mutating residue = GLNA262 into CYS
+Your file run OK
+End time of FoldX: Sat May  9 16:24:20 2026
+Total time spend: 439.98 seconds.
+validated file "AMIE_1.pdb" => successfully finished
+validated file "AMIE_2.pdb" => successfully finished
+validated file "AMIE_3.pdb" => successfully finished
+validated file "AMIE_4.pdb" => successfully finished
+validated file "AMIE_5.pdb" => successfully finished
+validated file "AMIE_6.pdb" => successfully finished
+validated file "AMIE_7.pdb" => successfully finished
+validated file "AMIE_8.pdb" => successfully finished
+validated file "AMIE_9.pdb" => successfully finished
+validated file "AMIE_10.pdb" => successfully finished
+validated file "AMIE_11.pdb" => successfully finished
+validated file "AMIE_12.pdb" => successfully finished
+validated file "AMIE_13.pdb" => successfully finished
+validated file "AMIE_14.pdb" => successfully finished
+validated file "AMIE_15.pdb" => successfully finished
+validated file "AMIE_16.pdb" => successfully finished
+validated file "AMIE_17.pdb" => successfully finished
+validated file "AMIE_18.pdb" => successfully finished
+validated file "AMIE_19.pdb" => successfully finished
+validated file "AMIE_20.pdb" => successfully finished
+validated file "AMIE_21.pdb" => successfully finished
+validated file "AMIE_22.pdb" => successfully finished
+validated file "AMIE_23.pdb" => successfully finished
+validated file "AMIE_24.pdb" => successfully finished
+validated file "AMIE_25.pdb" => successfully finished
+validated file "AMIE_26.pdb" => successfully finished
+validated file "AMIE_27.pdb" => successfully finished
+validated file "AMIE_28.pdb" => successfully finished
+validated file "AMIE_29.pdb" => successfully finished
+validated file "AMIE_30.pdb" => successfully finished
+validated file "AMIE_31.pdb" => successfully finished
+validated file "AMIE_32.pdb" => successfully finished
+validated file "AMIE_33.pdb" => successfully finished
+validated file "AMIE_34.pdb" => successfully finished
+validated file "AMIE_35.pdb" => successfully finished
+validated file "AMIE_36.pdb" => successfully finished
+validated file "AMIE_37.pdb" => successfully finished
+validated file "AMIE_38.pdb" => successfully finished
+validated file "AMIE_39.pdb" => successfully finished
+validated file "AMIE_40.pdb" => successfully finished
+validated file "AMIE_41.pdb" => successfully finished
+validated file "AMIE_42.pdb" => successfully finished
+validated file "AMIE_43.pdb" => successfully finished
+validated file "AMIE_44.pdb" => successfully finished
+validated file "AMIE_45.pdb" => successfully finished
+validated file "AMIE_46.pdb" => successfully finished
+validated file "AMIE_47.pdb" => successfully finished
+validated file "AMIE_48.pdb" => successfully finished
+validated file "AMIE_49.pdb" => successfully finished
+validated file "AMIE_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 95 结果提取成功，已映射突变信息。

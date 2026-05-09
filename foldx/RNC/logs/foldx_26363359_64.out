@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading RA159P;
+Reading RA159Q;
+Reading RA159S;
+Reading RA159T;
+Reading RA159V;
+Reading RA159W;
+Reading RA159Y;
+Reading RA167A;
+Reading RA167C;
+Reading RA167D;
+Reading RA167E;
+Reading RA167F;
+Reading RA167G;
+Reading RA167H;
+Reading RA167I;
+Reading RA167K;
+Reading RA167L;
+Reading RA167M;
+Reading RA167N;
+Reading RA167P;
+Reading RA167Q;
+Reading RA167S;
+Reading RA167T;
+Reading RA167V;
+Reading RA167W;
+Reading RA167Y;
+Reading RA180A;
+Reading RA180C;
+Reading RA180D;
+Reading RA180E;
+Reading RA180F;
+Reading RA180G;
+Reading RA180H;
+Reading RA180I;
+Reading RA180K;
+Reading RA180L;
+Reading RA180M;
+Reading RA180N;
+Reading RA180P;
+Reading RA180Q;
+Reading RA180S;
+Reading RA180T;
+Reading RA180V;
+Reading RA180W;
+Reading RA180Y;
+Reading RA208A;
+Reading RA208C;
+Reading RA208D;
+Reading RA208E;
+Reading RA208F;
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA159 has residue index 158
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA167 has residue index 166
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA180 has residue index 179
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Mutating residue = ARGA159 into PRO
+Mutating residue = ARGA159 into GLN
+Mutating residue = ARGA159 into SER
+Mutating residue = ARGA159 into THR
+Mutating residue = ARGA159 into VAL
+Mutating residue = ARGA159 into TRP
+Mutating residue = ARGA159 into TYR
+Mutating residue = ARGA167 into ALA
+Mutating residue = ARGA167 into CYS
+Mutating residue = ARGA167 into ASP
+Mutating residue = ARGA167 into GLU
+Mutating residue = ARGA167 into PHE
+Mutating residue = ARGA167 into GLY
+Mutating residue = ARGA167 into HIS
+Mutating residue = ARGA167 into ILE
+Mutating residue = ARGA167 into LYS
+Mutating residue = ARGA167 into LEU
+Mutating residue = ARGA167 into MET
+Mutating residue = ARGA167 into ASN
+Mutating residue = ARGA167 into PRO
+Mutating residue = ARGA167 into GLN
+Mutating residue = ARGA167 into SER
+Mutating residue = ARGA167 into THR
+Mutating residue = ARGA167 into VAL
+Mutating residue = ARGA167 into TRP
+Mutating residue = ARGA167 into TYR
+Mutating residue = ARGA180 into ALA
+Mutating residue = ARGA180 into CYS
+Mutating residue = ARGA180 into ASP
+Mutating residue = ARGA180 into GLU
+Mutating residue = ARGA180 into PHE
+Mutating residue = ARGA180 into GLY
+Mutating residue = ARGA180 into HIS
+Mutating residue = ARGA180 into ILE
+Mutating residue = ARGA180 into LYS
+Mutating residue = ARGA180 into LEU
+Mutating residue = ARGA180 into MET
+Mutating residue = ARGA180 into ASN
+Mutating residue = ARGA180 into PRO
+Mutating residue = ARGA180 into GLN
+Mutating residue = ARGA180 into SER
+Mutating residue = ARGA180 into THR
+Mutating residue = ARGA180 into VAL
+Mutating residue = ARGA180 into TRP
+Mutating residue = ARGA180 into TYR
+Mutating residue = ARGA208 into ALA
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into ASP
+Mutating residue = ARGA208 into GLU
+Mutating residue = ARGA208 into PHE
+Your file run OK
+End time of FoldX: Sat May  9 16:23:09 2026
+Total time spend: 347.38 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 64 结果提取成功，已映射突变信息。

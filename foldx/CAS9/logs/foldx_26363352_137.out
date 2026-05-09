@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading SA303R;
+Reading SA303T;
+Reading SA318C;
+Reading SA318G;
+Reading SA318I;
+Reading SA318N;
+Reading SA318R;
+Reading SA318T;
+Reading SA320C;
+Reading SA320G;
+Reading SA320I;
+Reading SA320N;
+Reading SA320R;
+Reading SA320T;
+Reading SA355C;
+Reading SA355G;
+Reading SA355I;
+Reading SA355N;
+Reading SA355R;
+Reading SA355T;
+Reading SA368A;
+Reading SA368C;
+Reading SA368F;
+Reading SA368P;
+Reading SA368T;
+Reading SA368Y;
+Reading SA409C;
+Reading SA409G;
+Reading SA409I;
+Reading SA409N;
+Reading SA409R;
+Reading SA409T;
+Reading SA42C;
+Reading SA42G;
+Reading SA42I;
+Reading SA42N;
+Reading SA42R;
+Reading SA42T;
+Reading SA460C;
+Reading SA460G;
+Reading SA460I;
+Reading SA460N;
+Reading SA460R;
+Reading SA460T;
+Reading SA469A;
+Reading SA469L;
+Reading SA469P;
+Reading SA469T;
+Reading SA487A;
+Reading SA487C;
+Residue to Mutate SERA303 has residue index 302
+Residue to Mutate SERA303 has residue index 302
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA318 has residue index 317
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA320 has residue index 319
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA355 has residue index 354
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA368 has residue index 367
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA409 has residue index 408
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA42 has residue index 41
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA460 has residue index 459
+Residue to Mutate SERA469 has residue index 468
+Residue to Mutate SERA469 has residue index 468
+Residue to Mutate SERA469 has residue index 468
+Residue to Mutate SERA469 has residue index 468
+Residue to Mutate SERA487 has residue index 486
+Residue to Mutate SERA487 has residue index 486
+Mutating residue = SERA303 into ARG
+Mutating residue = SERA303 into THR
+Mutating residue = SERA318 into CYS
+Mutating residue = SERA318 into GLY
+Mutating residue = SERA318 into ILE
+Mutating residue = SERA318 into ASN
+Mutating residue = SERA318 into ARG
+Mutating residue = SERA318 into THR
+Mutating residue = SERA320 into CYS
+Mutating residue = SERA320 into GLY
+Mutating residue = SERA320 into ILE
+Mutating residue = SERA320 into ASN
+Mutating residue = SERA320 into ARG
+Mutating residue = SERA320 into THR
+Mutating residue = SERA355 into CYS
+Mutating residue = SERA355 into GLY
+Mutating residue = SERA355 into ILE
+Mutating residue = SERA355 into ASN
+Mutating residue = SERA355 into ARG
+Mutating residue = SERA355 into THR
+Mutating residue = SERA368 into ALA
+Mutating residue = SERA368 into CYS
+Mutating residue = SERA368 into PHE
+Mutating residue = SERA368 into PRO
+Mutating residue = SERA368 into THR
+Mutating residue = SERA368 into TYR
+Mutating residue = SERA409 into CYS
+Mutating residue = SERA409 into GLY
+Mutating residue = SERA409 into ILE
+Mutating residue = SERA409 into ASN
+Mutating residue = SERA409 into ARG
+Mutating residue = SERA409 into THR
+Mutating residue = SERA42 into CYS
+Mutating residue = SERA42 into GLY
+Mutating residue = SERA42 into ILE
+Mutating residue = SERA42 into ASN
+Mutating residue = SERA42 into ARG
+Mutating residue = SERA42 into THR
+Mutating residue = SERA460 into CYS
+Mutating residue = SERA460 into GLY
+Mutating residue = SERA460 into ILE
+Mutating residue = SERA460 into ASN
+Mutating residue = SERA460 into ARG
+Mutating residue = SERA460 into THR
+Mutating residue = SERA469 into ALA
+Mutating residue = SERA469 into LEU
+Mutating residue = SERA469 into PRO
+Mutating residue = SERA469 into THR
+Mutating residue = SERA487 into ALA
+Mutating residue = SERA487 into CYS
+Your file run OK
+End time of FoldX: Sat May  9 16:24:46 2026
+Total time spend: 456.71 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 137 结果提取成功，已映射突变信息。

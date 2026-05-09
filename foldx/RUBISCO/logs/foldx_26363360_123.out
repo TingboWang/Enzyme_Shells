@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading PA377H;
+Reading PA377I;
+Reading PA377K;
+Reading PA377L;
+Reading PA377M;
+Reading PA377N;
+Reading PA377Q;
+Reading PA377R;
+Reading PA377S;
+Reading PA377T;
+Reading PA377V;
+Reading PA377W;
+Reading PA377Y;
+Reading PA403A;
+Reading PA403C;
+Reading PA403D;
+Reading PA403E;
+Reading PA403F;
+Reading PA403G;
+Reading PA403H;
+Reading PA403I;
+Reading PA403K;
+Reading PA403L;
+Reading PA403M;
+Reading PA403N;
+Reading PA403Q;
+Reading PA403R;
+Reading PA403S;
+Reading PA403T;
+Reading PA403V;
+Reading PA403W;
+Reading PA403Y;
+Reading PA422A;
+Reading PA422C;
+Reading PA422D;
+Reading PA422E;
+Reading PA422F;
+Reading PA422G;
+Reading PA422H;
+Reading PA422I;
+Reading PA422K;
+Reading PA422L;
+Reading PA422M;
+Reading PA422N;
+Reading PA422Q;
+Reading PA422R;
+Reading PA422S;
+Reading PA422T;
+Reading PA422V;
+Reading PA422W;
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA377 has residue index 375
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA403 has residue index 401
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Residue to Mutate PROA422 has residue index 420
+Mutating residue = PROA377 into HIS
+Mutating residue = PROA377 into ILE
+Mutating residue = PROA377 into LYS
+Mutating residue = PROA377 into LEU
+Mutating residue = PROA377 into MET
+Mutating residue = PROA377 into ASN
+Mutating residue = PROA377 into GLN
+Mutating residue = PROA377 into ARG
+Mutating residue = PROA377 into SER
+Mutating residue = PROA377 into THR
+Mutating residue = PROA377 into VAL
+Mutating residue = PROA377 into TRP
+Mutating residue = PROA377 into TYR
+Mutating residue = PROA403 into ALA
+Mutating residue = PROA403 into CYS
+Mutating residue = PROA403 into ASP
+Mutating residue = PROA403 into GLU
+Mutating residue = PROA403 into PHE
+Mutating residue = PROA403 into GLY
+Mutating residue = PROA403 into HIS
+Mutating residue = PROA403 into ILE
+Mutating residue = PROA403 into LYS
+Mutating residue = PROA403 into LEU
+Mutating residue = PROA403 into MET
+Mutating residue = PROA403 into ASN
+Mutating residue = PROA403 into GLN
+Mutating residue = PROA403 into ARG
+Mutating residue = PROA403 into SER
+Mutating residue = PROA403 into THR
+Mutating residue = PROA403 into VAL
+Mutating residue = PROA403 into TRP
+Mutating residue = PROA403 into TYR
+Mutating residue = PROA422 into ALA
+Mutating residue = PROA422 into CYS
+Mutating residue = PROA422 into ASP
+Mutating residue = PROA422 into GLU
+Mutating residue = PROA422 into PHE
+Mutating residue = PROA422 into GLY
+Mutating residue = PROA422 into HIS
+Mutating residue = PROA422 into ILE
+Mutating residue = PROA422 into LYS
+Mutating residue = PROA422 into LEU
+Mutating residue = PROA422 into MET
+Mutating residue = PROA422 into ASN
+Mutating residue = PROA422 into GLN
+Mutating residue = PROA422 into ARG
+Mutating residue = PROA422 into SER
+Mutating residue = PROA422 into THR
+Mutating residue = PROA422 into VAL
+Mutating residue = PROA422 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:20:24 2026
+Total time spend: 183.17 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 123 结果提取成功，已映射突变信息。

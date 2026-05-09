@@ -1,0 +1,18 @@
+VA403N;	by the FoldX Consortium 
+VA403Q;	Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+VA403C;	Luis Serrano and Francois Stricher
+VA403G;	------------------------------------------------------
+VA403P;	
+VA403R;	PDB file analysed: batch
+VA403H;	Output type: BuildModel
+VA403K;	Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+VA403D;	PTEN_1.pdb	-0.218747	0	0	-0.00960532	0	-0.143549	-0.0487789	0	0	-0.00844091	0	0	0	-0.00837267	0	0	0	0	0	0	0	0
+VA403E;	PTEN_2.pdb	-0.261421	0	0	-0.0337317	0	-0.141071	-0.0837807	-2.84217e-14	4.13613e-05	0.00107866	0	0	0	-0.00395811	0	0	0	0	0	0	0	0
+	PTEN_3.pdb	-0.243693	0	0	0.0173974	0.0124991	-0.206436	-0.0134494	0	0	-0.0467881	0	0	0	-0.00691666	0	0	0	0	0	0	0	0
+	PTEN_4.pdb	-0.558281	0	0	0.080481	0	-0.52485	0.0633583	-0.0536103	0	-0.119263	0	0	0	-0.00439633	0	0	0	0	0	0	0	0
+	PTEN_5.pdb	3.28302	0	0	-0.119562	0.0131831	0.0212661	-0.188231	3.67049	0.038138	-0.14848	0	0	0	-0.00378547	0	0	0	0	0	0	0	0
+	PTEN_6.pdb	-0.622404	-0.743443	-0.743443	-0.198575	0.0473178	0.154375	-0.249088	0.00722672	0.851874	0.148631	0	0	0	0.10272	0	0	0	0	0	0	0	0
+	PTEN_7.pdb	-0.310344	0	0	-0.106932	0.00357179	-0.084323	-0.210681	0.000990465	0.0527221	-0.00985961	0	0	0	-0.00461555	0	0	0	0	0	0	0.0487825	0
+	PTEN_8.pdb	-0.337614	0	0	0.044516	0.0801935	-0.307746	-0.0326124	1.49214e-13	-0.0266139	-0.0912062	0	0	0	-0.00414485	0	0	0	0	0	0	0	0
+	PTEN_9.pdb	-0.290225	0	0	0.00421892	-0.0660064	-0.172915	-0.0306602	-1.49214e-13	2.84217e-14	-0.0186949	0	0	0	-0.00616695	0	0	0	0	0	0	0	0
+	PTEN_10.pdb	-0.533983	0	1.42109e-14	-0.109136	-0.475874	0.0668896	-0.1433	4.26326e-14	0.0591097	0.0705048	0	0	0	-0.00217675	0	0	0	0	0	0	0	0

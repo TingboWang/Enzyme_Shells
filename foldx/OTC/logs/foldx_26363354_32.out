@@ -1,0 +1,152 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading YA317H;
+Reading YA317N;
+Reading YA317S;
+Reading YA345C;
+Reading YA345D;
+Reading YA345F;
+Reading YA345H;
+Reading YA345S;
+Reading YA55C;
+Reading YA55D;
+Reading YA55F;
+Reading YA55H;
+Reading YA55N;
+Reading YA55S;
+Reading YA73C;
+Reading YA73D;
+Reading YA73F;
+Reading YA73H;
+Reading YA73N;
+Reading YA73S;
+Residue to Mutate TYRA317 has residue index 316
+Residue to Mutate TYRA317 has residue index 316
+Residue to Mutate TYRA317 has residue index 316
+Residue to Mutate TYRA345 has residue index 344
+Residue to Mutate TYRA345 has residue index 344
+Residue to Mutate TYRA345 has residue index 344
+Residue to Mutate TYRA345 has residue index 344
+Residue to Mutate TYRA345 has residue index 344
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA55 has residue index 54
+Residue to Mutate TYRA73 has residue index 72
+Residue to Mutate TYRA73 has residue index 72
+Residue to Mutate TYRA73 has residue index 72
+Residue to Mutate TYRA73 has residue index 72
+Residue to Mutate TYRA73 has residue index 72
+Residue to Mutate TYRA73 has residue index 72
+Mutating residue = TYRA317 into HIS
+Mutating residue = TYRA317 into ASN
+Mutating residue = TYRA317 into SER
+Mutating residue = TYRA345 into CYS
+Mutating residue = TYRA345 into ASP
+Mutating residue = TYRA345 into PHE
+Mutating residue = TYRA345 into HIS
+Mutating residue = TYRA345 into SER
+Mutating residue = TYRA55 into CYS
+Mutating residue = TYRA55 into ASP
+Mutating residue = TYRA55 into PHE
+Mutating residue = TYRA55 into HIS
+Mutating residue = TYRA55 into ASN
+Mutating residue = TYRA55 into SER
+Mutating residue = TYRA73 into CYS
+Mutating residue = TYRA73 into ASP
+Mutating residue = TYRA73 into PHE
+Mutating residue = TYRA73 into HIS
+Mutating residue = TYRA73 into ASN
+Mutating residue = TYRA73 into SER
+Your file run OK
+End time of FoldX: Sat May  9 16:18:55 2026
+Total time spend: 103.85 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 32 结果提取成功，已映射突变信息。

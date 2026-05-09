@@ -1,0 +1,152 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading YA85A;
+Reading YA85C;
+Reading YA85D;
+Reading YA85E;
+Reading YA85F;
+Reading YA85G;
+Reading YA85H;
+Reading YA85I;
+Reading YA85K;
+Reading YA85L;
+Reading YA85M;
+Reading YA85N;
+Reading YA85P;
+Reading YA85Q;
+Reading YA85R;
+Reading YA85S;
+Reading YA85T;
+Reading YA85V;
+Reading YA85W;
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Residue to Mutate TYRA85 has residue index 83
+Mutating residue = TYRA85 into ALA
+Mutating residue = TYRA85 into CYS
+Mutating residue = TYRA85 into ASP
+Mutating residue = TYRA85 into GLU
+Mutating residue = TYRA85 into PHE
+Mutating residue = TYRA85 into GLY
+Mutating residue = TYRA85 into HIS
+Mutating residue = TYRA85 into ILE
+Mutating residue = TYRA85 into LYS
+Mutating residue = TYRA85 into LEU
+Mutating residue = TYRA85 into MET
+Mutating residue = TYRA85 into ASN
+Mutating residue = TYRA85 into PRO
+Mutating residue = TYRA85 into GLN
+Mutating residue = TYRA85 into ARG
+Mutating residue = TYRA85 into SER
+Mutating residue = TYRA85 into THR
+Mutating residue = TYRA85 into VAL
+Mutating residue = TYRA85 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:20:32 2026
+Total time spend: 189.32 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 176 结果提取成功，已映射突变信息。

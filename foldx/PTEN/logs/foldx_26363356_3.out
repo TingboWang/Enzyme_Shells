@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading KA6A;
+Reading KA6V;
+Reading KA6I;
+Reading KA6L;
+Reading KA6M;
+Reading KA6F;
+Reading KA6Y;
+Reading KA6W;
+Reading KA6S;
+Reading KA6T;
+Reading KA6N;
+Reading KA6Q;
+Reading KA6C;
+Reading KA6G;
+Reading KA6P;
+Reading KA6R;
+Reading KA6H;
+Reading KA6K;
+Reading KA6D;
+Reading KA6E;
+Reading EA7A;
+Reading EA7V;
+Reading EA7I;
+Reading EA7L;
+Reading EA7M;
+Reading EA7F;
+Reading EA7Y;
+Reading EA7W;
+Reading EA7S;
+Reading EA7T;
+Reading EA7N;
+Reading EA7Q;
+Reading EA7C;
+Reading EA7G;
+Reading EA7P;
+Reading EA7R;
+Reading EA7H;
+Reading EA7K;
+Reading EA7D;
+Reading EA7E;
+Reading IA8A;
+Reading IA8V;
+Reading IA8I;
+Reading IA8L;
+Reading IA8M;
+Reading IA8F;
+Reading IA8Y;
+Reading IA8W;
+Reading IA8S;
+Reading IA8T;
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate LYSA6 has residue index 5
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate GLUA7 has residue index 6
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Residue to Mutate ILEA8 has residue index 7
+Mutating residue = LYSA6 into ALA
+Mutating residue = LYSA6 into VAL
+Mutating residue = LYSA6 into ILE
+Mutating residue = LYSA6 into LEU
+Mutating residue = LYSA6 into MET
+Mutating residue = LYSA6 into PHE
+Mutating residue = LYSA6 into TYR
+Mutating residue = LYSA6 into TRP
+Mutating residue = LYSA6 into SER
+Mutating residue = LYSA6 into THR
+Mutating residue = LYSA6 into ASN
+Mutating residue = LYSA6 into GLN
+Mutating residue = LYSA6 into CYS
+Mutating residue = LYSA6 into GLY
+Mutating residue = LYSA6 into PRO
+Mutating residue = LYSA6 into ARG
+Mutating residue = LYSA6 into HIS
+Mutating residue = LYSA6 into LYS
+Mutating residue = LYSA6 into ASP
+Mutating residue = LYSA6 into GLU
+Mutating residue = GLUA7 into ALA
+Mutating residue = GLUA7 into VAL
+Mutating residue = GLUA7 into ILE
+Mutating residue = GLUA7 into LEU
+Mutating residue = GLUA7 into MET
+Mutating residue = GLUA7 into PHE
+Mutating residue = GLUA7 into TYR
+Mutating residue = GLUA7 into TRP
+Mutating residue = GLUA7 into SER
+Mutating residue = GLUA7 into THR
+Mutating residue = GLUA7 into ASN
+Mutating residue = GLUA7 into GLN
+Mutating residue = GLUA7 into CYS
+Mutating residue = GLUA7 into GLY
+Mutating residue = GLUA7 into PRO
+Mutating residue = GLUA7 into ARG
+Mutating residue = GLUA7 into HIS
+Mutating residue = GLUA7 into LYS
+Mutating residue = GLUA7 into ASP
+Mutating residue = GLUA7 into GLU
+Mutating residue = ILEA8 into ALA
+Mutating residue = ILEA8 into VAL
+Mutating residue = ILEA8 into ILE
+Mutating residue = ILEA8 into LEU
+Mutating residue = ILEA8 into MET
+Mutating residue = ILEA8 into PHE
+Mutating residue = ILEA8 into TYR
+Mutating residue = ILEA8 into TRP
+Mutating residue = ILEA8 into SER
+Mutating residue = ILEA8 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:31:27 2026
+Total time spend: 853.99 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 3 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: CAS9.pdb
+1 models read: CAS9.pdb
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+
+BackHbond       =               -900.22
+SideHbond       =               -324.89
+Energy_VdW      =               -1515.04
+Electro         =               -74.00
+Energy_SolvP    =               2150.66
+Energy_SolvH    =               -1993.90
+Energy_vdwclash =               76.97
+energy_torsion  =               14.15
+backbone_vdwclash=              997.87
+Entropy_sidec   =               814.62
+Entropy_mainc   =               2092.14
+water bonds     =               0.00
+helix dipole    =               -7.70
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.43
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  336.23
+
+Starting BuildModel
+Reading RA780G;
+Reading RA780H;
+Reading RA780L;
+Reading RA780P;
+Reading RA780S;
+Reading RA783C;
+Reading RA783G;
+Reading RA783H;
+Reading RA783L;
+Reading RA783P;
+Reading RA783S;
+Reading RA78G;
+Reading RA78L;
+Reading RA78P;
+Reading RA78Q;
+Reading RA78W;
+Reading RA820G;
+Reading RA820K;
+Reading RA820M;
+Reading RA820S;
+Reading RA820T;
+Reading RA820W;
+Reading RA832C;
+Reading RA832G;
+Reading RA832H;
+Reading RA832L;
+Reading RA832P;
+Reading RA832S;
+Reading RA859C;
+Reading RA859G;
+Reading RA859H;
+Reading RA859L;
+Reading RA859P;
+Reading RA859S;
+Reading RA864G;
+Reading RA864L;
+Reading RA864P;
+Reading RA864Q;
+Reading RA884G;
+Reading RA884L;
+Reading RA884P;
+Reading RA884Q;
+Reading RA884W;
+Reading RA895G;
+Reading RA895L;
+Reading RA895P;
+Reading RA895Q;
+Reading RA905G;
+Reading RA905L;
+Reading RA905P;
+Residue to Mutate ARGA780 has residue index 779
+Residue to Mutate ARGA780 has residue index 779
+Residue to Mutate ARGA780 has residue index 779
+Residue to Mutate ARGA780 has residue index 779
+Residue to Mutate ARGA780 has residue index 779
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA783 has residue index 782
+Residue to Mutate ARGA78 has residue index 77
+Residue to Mutate ARGA78 has residue index 77
+Residue to Mutate ARGA78 has residue index 77
+Residue to Mutate ARGA78 has residue index 77
+Residue to Mutate ARGA78 has residue index 77
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA820 has residue index 819
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA832 has residue index 831
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA859 has residue index 858
+Residue to Mutate ARGA864 has residue index 863
+Residue to Mutate ARGA864 has residue index 863
+Residue to Mutate ARGA864 has residue index 863
+Residue to Mutate ARGA864 has residue index 863
+Residue to Mutate ARGA884 has residue index 883
+Residue to Mutate ARGA884 has residue index 883
+Residue to Mutate ARGA884 has residue index 883
+Residue to Mutate ARGA884 has residue index 883
+Residue to Mutate ARGA884 has residue index 883
+Residue to Mutate ARGA895 has residue index 894
+Residue to Mutate ARGA895 has residue index 894
+Residue to Mutate ARGA895 has residue index 894
+Residue to Mutate ARGA895 has residue index 894
+Residue to Mutate ARGA905 has residue index 904
+Residue to Mutate ARGA905 has residue index 904
+Residue to Mutate ARGA905 has residue index 904
+Mutating residue = ARGA780 into GLY
+Mutating residue = ARGA780 into HIS
+Mutating residue = ARGA780 into LEU
+Mutating residue = ARGA780 into PRO
+Mutating residue = ARGA780 into SER
+Mutating residue = ARGA783 into CYS
+Mutating residue = ARGA783 into GLY
+Mutating residue = ARGA783 into HIS
+Mutating residue = ARGA783 into LEU
+Mutating residue = ARGA783 into PRO
+Mutating residue = ARGA783 into SER
+Mutating residue = ARGA78 into GLY
+Mutating residue = ARGA78 into LEU
+Mutating residue = ARGA78 into PRO
+Mutating residue = ARGA78 into GLN
+Mutating residue = ARGA78 into TRP
+Mutating residue = ARGA820 into GLY
+Mutating residue = ARGA820 into LYS
+Mutating residue = ARGA820 into MET
+Mutating residue = ARGA820 into SER
+Mutating residue = ARGA820 into THR
+Mutating residue = ARGA820 into TRP
+Mutating residue = ARGA832 into CYS
+Mutating residue = ARGA832 into GLY
+Mutating residue = ARGA832 into HIS
+Mutating residue = ARGA832 into LEU
+Mutating residue = ARGA832 into PRO
+Mutating residue = ARGA832 into SER
+Mutating residue = ARGA859 into CYS
+Mutating residue = ARGA859 into GLY
+Mutating residue = ARGA859 into HIS
+Mutating residue = ARGA859 into LEU
+Mutating residue = ARGA859 into PRO
+Mutating residue = ARGA859 into SER
+Mutating residue = ARGA864 into GLY
+Mutating residue = ARGA864 into LEU
+Mutating residue = ARGA864 into PRO
+Mutating residue = ARGA864 into GLN
+Mutating residue = ARGA884 into GLY
+Mutating residue = ARGA884 into LEU
+Mutating residue = ARGA884 into PRO
+Mutating residue = ARGA884 into GLN
+Mutating residue = ARGA884 into TRP
+Mutating residue = ARGA895 into GLY
+Mutating residue = ARGA895 into LEU
+Mutating residue = ARGA895 into PRO
+Mutating residue = ARGA895 into GLN
+Mutating residue = ARGA905 into GLY
+Mutating residue = ARGA905 into LEU
+Mutating residue = ARGA905 into PRO
+Your file run OK
+End time of FoldX: Sat May  9 16:30:14 2026
+Total time spend: 784.34 seconds.
+validated file "CAS9_1.pdb" => successfully finished
+validated file "CAS9_2.pdb" => successfully finished
+validated file "CAS9_3.pdb" => successfully finished
+validated file "CAS9_4.pdb" => successfully finished
+validated file "CAS9_5.pdb" => successfully finished
+validated file "CAS9_6.pdb" => successfully finished
+validated file "CAS9_7.pdb" => successfully finished
+validated file "CAS9_8.pdb" => successfully finished
+validated file "CAS9_9.pdb" => successfully finished
+validated file "CAS9_10.pdb" => successfully finished
+validated file "CAS9_11.pdb" => successfully finished
+validated file "CAS9_12.pdb" => successfully finished
+validated file "CAS9_13.pdb" => successfully finished
+validated file "CAS9_14.pdb" => successfully finished
+validated file "CAS9_15.pdb" => successfully finished
+validated file "CAS9_16.pdb" => successfully finished
+validated file "CAS9_17.pdb" => successfully finished
+validated file "CAS9_18.pdb" => successfully finished
+validated file "CAS9_19.pdb" => successfully finished
+validated file "CAS9_20.pdb" => successfully finished
+validated file "CAS9_21.pdb" => successfully finished
+validated file "CAS9_22.pdb" => successfully finished
+validated file "CAS9_23.pdb" => successfully finished
+validated file "CAS9_24.pdb" => successfully finished
+validated file "CAS9_25.pdb" => successfully finished
+validated file "CAS9_26.pdb" => successfully finished
+validated file "CAS9_27.pdb" => successfully finished
+validated file "CAS9_28.pdb" => successfully finished
+validated file "CAS9_29.pdb" => successfully finished
+validated file "CAS9_30.pdb" => successfully finished
+validated file "CAS9_31.pdb" => successfully finished
+validated file "CAS9_32.pdb" => successfully finished
+validated file "CAS9_33.pdb" => successfully finished
+validated file "CAS9_34.pdb" => successfully finished
+validated file "CAS9_35.pdb" => successfully finished
+validated file "CAS9_36.pdb" => successfully finished
+validated file "CAS9_37.pdb" => successfully finished
+validated file "CAS9_38.pdb" => successfully finished
+validated file "CAS9_39.pdb" => successfully finished
+validated file "CAS9_40.pdb" => successfully finished
+validated file "CAS9_41.pdb" => successfully finished
+validated file "CAS9_42.pdb" => successfully finished
+validated file "CAS9_43.pdb" => successfully finished
+validated file "CAS9_44.pdb" => successfully finished
+validated file "CAS9_45.pdb" => successfully finished
+validated file "CAS9_46.pdb" => successfully finished
+validated file "CAS9_47.pdb" => successfully finished
+validated file "CAS9_48.pdb" => successfully finished
+validated file "CAS9_49.pdb" => successfully finished
+validated file "CAS9_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 131 结果提取成功，已映射突变信息。

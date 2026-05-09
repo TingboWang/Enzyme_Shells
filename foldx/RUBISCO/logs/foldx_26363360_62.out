@@ -1,0 +1,276 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RUBISCO.pdb
+1 models read: RUBISCO.pdb
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+number of incomplete residues = 1
+completing sidechain atoms of THRA460
+
+BackHbond       =               -382.57
+SideHbond       =               -129.71
+Energy_VdW      =               -1065.60
+Electro         =               -51.93
+Energy_SolvP    =               1571.50
+Energy_SolvH    =               -1376.92
+Energy_vdwclash =               406.55
+energy_torsion  =               216.35
+backbone_vdwclash=              749.49
+Entropy_sidec   =               479.20
+Entropy_mainc   =               1700.40
+water bonds     =               0.00
+helix dipole    =               -0.84
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               -0.05
+partial covalent interactions = -0.82
+Energy_Ionisation =             3.55
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  1371.34
+
+Starting BuildModel
+Reading GA252N;
+Reading GA252P;
+Reading GA252Q;
+Reading GA252R;
+Reading GA252S;
+Reading GA252T;
+Reading GA252V;
+Reading GA252W;
+Reading GA252Y;
+Reading GA264C;
+Reading GA264D;
+Reading GA264E;
+Reading GA264F;
+Reading GA264H;
+Reading GA264I;
+Reading GA264K;
+Reading GA264L;
+Reading GA264M;
+Reading GA264N;
+Reading GA264P;
+Reading GA264Q;
+Reading GA264R;
+Reading GA264S;
+Reading GA264T;
+Reading GA264V;
+Reading GA264W;
+Reading GA264Y;
+Reading GA268A;
+Reading GA268C;
+Reading GA268D;
+Reading GA268E;
+Reading GA268F;
+Reading GA268H;
+Reading GA268I;
+Reading GA268K;
+Reading GA268L;
+Reading GA268M;
+Reading GA268N;
+Reading GA268P;
+Reading GA268Q;
+Reading GA268R;
+Reading GA268S;
+Reading GA268T;
+Reading GA268V;
+Reading GA268W;
+Reading GA268Y;
+Reading GA290A;
+Reading GA290C;
+Reading GA290D;
+Reading GA290E;
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA252 has residue index 250
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA264 has residue index 262
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA268 has residue index 266
+Residue to Mutate GLYA290 has residue index 288
+Residue to Mutate GLYA290 has residue index 288
+Residue to Mutate GLYA290 has residue index 288
+Residue to Mutate GLYA290 has residue index 288
+Mutating residue = GLYA252 into ASN
+Mutating residue = GLYA252 into PRO
+Mutating residue = GLYA252 into GLN
+Mutating residue = GLYA252 into ARG
+Mutating residue = GLYA252 into SER
+Mutating residue = GLYA252 into THR
+Mutating residue = GLYA252 into VAL
+Mutating residue = GLYA252 into TRP
+Mutating residue = GLYA252 into TYR
+Mutating residue = GLYA264 into CYS
+Mutating residue = GLYA264 into ASP
+Mutating residue = GLYA264 into GLU
+Mutating residue = GLYA264 into PHE
+Mutating residue = GLYA264 into HIS
+Mutating residue = GLYA264 into ILE
+Mutating residue = GLYA264 into LYS
+Mutating residue = GLYA264 into LEU
+Mutating residue = GLYA264 into MET
+Mutating residue = GLYA264 into ASN
+Mutating residue = GLYA264 into PRO
+Mutating residue = GLYA264 into GLN
+Mutating residue = GLYA264 into ARG
+Mutating residue = GLYA264 into SER
+Mutating residue = GLYA264 into THR
+Mutating residue = GLYA264 into VAL
+Mutating residue = GLYA264 into TRP
+Mutating residue = GLYA264 into TYR
+Mutating residue = GLYA268 into ALA
+Mutating residue = GLYA268 into CYS
+Mutating residue = GLYA268 into ASP
+Mutating residue = GLYA268 into GLU
+Mutating residue = GLYA268 into PHE
+Mutating residue = GLYA268 into HIS
+Mutating residue = GLYA268 into ILE
+Mutating residue = GLYA268 into LYS
+Mutating residue = GLYA268 into LEU
+Mutating residue = GLYA268 into MET
+Mutating residue = GLYA268 into ASN
+Mutating residue = GLYA268 into PRO
+Mutating residue = GLYA268 into GLN
+Mutating residue = GLYA268 into ARG
+Mutating residue = GLYA268 into SER
+Mutating residue = GLYA268 into THR
+Mutating residue = GLYA268 into VAL
+Mutating residue = GLYA268 into TRP
+Mutating residue = GLYA268 into TYR
+Mutating residue = GLYA290 into ALA
+Mutating residue = GLYA290 into CYS
+Mutating residue = GLYA290 into ASP
+Mutating residue = GLYA290 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:26:36 2026
+Total time spend: 555.22 seconds.
+validated file "RUBISCO_1.pdb" => successfully finished
+validated file "RUBISCO_2.pdb" => successfully finished
+validated file "RUBISCO_3.pdb" => successfully finished
+validated file "RUBISCO_4.pdb" => successfully finished
+validated file "RUBISCO_5.pdb" => successfully finished
+validated file "RUBISCO_6.pdb" => successfully finished
+validated file "RUBISCO_7.pdb" => successfully finished
+validated file "RUBISCO_8.pdb" => successfully finished
+validated file "RUBISCO_9.pdb" => successfully finished
+validated file "RUBISCO_10.pdb" => successfully finished
+validated file "RUBISCO_11.pdb" => successfully finished
+validated file "RUBISCO_12.pdb" => successfully finished
+validated file "RUBISCO_13.pdb" => successfully finished
+validated file "RUBISCO_14.pdb" => successfully finished
+validated file "RUBISCO_15.pdb" => successfully finished
+validated file "RUBISCO_16.pdb" => successfully finished
+validated file "RUBISCO_17.pdb" => successfully finished
+validated file "RUBISCO_18.pdb" => successfully finished
+validated file "RUBISCO_19.pdb" => successfully finished
+validated file "RUBISCO_20.pdb" => successfully finished
+validated file "RUBISCO_21.pdb" => successfully finished
+validated file "RUBISCO_22.pdb" => successfully finished
+validated file "RUBISCO_23.pdb" => successfully finished
+validated file "RUBISCO_24.pdb" => successfully finished
+validated file "RUBISCO_25.pdb" => successfully finished
+validated file "RUBISCO_26.pdb" => successfully finished
+validated file "RUBISCO_27.pdb" => successfully finished
+validated file "RUBISCO_28.pdb" => successfully finished
+validated file "RUBISCO_29.pdb" => successfully finished
+validated file "RUBISCO_30.pdb" => successfully finished
+validated file "RUBISCO_31.pdb" => successfully finished
+validated file "RUBISCO_32.pdb" => successfully finished
+validated file "RUBISCO_33.pdb" => successfully finished
+validated file "RUBISCO_34.pdb" => successfully finished
+validated file "RUBISCO_35.pdb" => successfully finished
+validated file "RUBISCO_36.pdb" => successfully finished
+validated file "RUBISCO_37.pdb" => successfully finished
+validated file "RUBISCO_38.pdb" => successfully finished
+validated file "RUBISCO_39.pdb" => successfully finished
+validated file "RUBISCO_40.pdb" => successfully finished
+validated file "RUBISCO_41.pdb" => successfully finished
+validated file "RUBISCO_42.pdb" => successfully finished
+validated file "RUBISCO_43.pdb" => successfully finished
+validated file "RUBISCO_44.pdb" => successfully finished
+validated file "RUBISCO_45.pdb" => successfully finished
+validated file "RUBISCO_46.pdb" => successfully finished
+validated file "RUBISCO_47.pdb" => successfully finished
+validated file "RUBISCO_48.pdb" => successfully finished
+validated file "RUBISCO_49.pdb" => successfully finished
+validated file "RUBISCO_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 62 结果提取成功，已映射突变信息。

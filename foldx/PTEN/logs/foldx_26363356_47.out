@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading DA116A;
+Reading DA116V;
+Reading DA116I;
+Reading DA116L;
+Reading DA116M;
+Reading DA116F;
+Reading DA116Y;
+Reading DA116W;
+Reading DA116S;
+Reading DA116T;
+Reading DA116N;
+Reading DA116Q;
+Reading DA116C;
+Reading DA116G;
+Reading DA116P;
+Reading DA116R;
+Reading DA116H;
+Reading DA116K;
+Reading DA116D;
+Reading DA116E;
+Reading NA117A;
+Reading NA117V;
+Reading NA117I;
+Reading NA117L;
+Reading NA117M;
+Reading NA117F;
+Reading NA117Y;
+Reading NA117W;
+Reading NA117S;
+Reading NA117T;
+Reading NA117N;
+Reading NA117Q;
+Reading NA117C;
+Reading NA117G;
+Reading NA117P;
+Reading NA117R;
+Reading NA117H;
+Reading NA117K;
+Reading NA117D;
+Reading NA117E;
+Reading HA118A;
+Reading HA118V;
+Reading HA118I;
+Reading HA118L;
+Reading HA118M;
+Reading HA118F;
+Reading HA118Y;
+Reading HA118W;
+Reading HA118S;
+Reading HA118T;
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASPA116 has residue index 115
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate ASNA117 has residue index 116
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Residue to Mutate HISA118 has residue index 117
+Mutating residue = ASPA116 into ALA
+Mutating residue = ASPA116 into VAL
+Mutating residue = ASPA116 into ILE
+Mutating residue = ASPA116 into LEU
+Mutating residue = ASPA116 into MET
+Mutating residue = ASPA116 into PHE
+Mutating residue = ASPA116 into TYR
+Mutating residue = ASPA116 into TRP
+Mutating residue = ASPA116 into SER
+Mutating residue = ASPA116 into THR
+Mutating residue = ASPA116 into ASN
+Mutating residue = ASPA116 into GLN
+Mutating residue = ASPA116 into CYS
+Mutating residue = ASPA116 into GLY
+Mutating residue = ASPA116 into PRO
+Mutating residue = ASPA116 into ARG
+Mutating residue = ASPA116 into HIS
+Mutating residue = ASPA116 into LYS
+Mutating residue = ASPA116 into ASP
+Mutating residue = ASPA116 into GLU
+Mutating residue = ASNA117 into ALA
+Mutating residue = ASNA117 into VAL
+Mutating residue = ASNA117 into ILE
+Mutating residue = ASNA117 into LEU
+Mutating residue = ASNA117 into MET
+Mutating residue = ASNA117 into PHE
+Mutating residue = ASNA117 into TYR
+Mutating residue = ASNA117 into TRP
+Mutating residue = ASNA117 into SER
+Mutating residue = ASNA117 into THR
+Mutating residue = ASNA117 into ASN
+Mutating residue = ASNA117 into GLN
+Mutating residue = ASNA117 into CYS
+Mutating residue = ASNA117 into GLY
+Mutating residue = ASNA117 into PRO
+Mutating residue = ASNA117 into ARG
+Mutating residue = ASNA117 into HIS
+Mutating residue = ASNA117 into LYS
+Mutating residue = ASNA117 into ASP
+Mutating residue = ASNA117 into GLU
+Mutating residue = HISA118 into ALA
+Mutating residue = HISA118 into VAL
+Mutating residue = HISA118 into ILE
+Mutating residue = HISA118 into LEU
+Mutating residue = HISA118 into MET
+Mutating residue = HISA118 into PHE
+Mutating residue = HISA118 into TYR
+Mutating residue = HISA118 into TRP
+Mutating residue = HISA118 into SER
+Mutating residue = HISA118 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:21:15 2026
+Total time spend: 242.00 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 47 结果提取成功，已映射突变信息。

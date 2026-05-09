@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading SA110K;
+Reading SA110L;
+Reading SA110M;
+Reading SA110N;
+Reading SA110P;
+Reading SA110Q;
+Reading SA110R;
+Reading SA110T;
+Reading SA110V;
+Reading SA110W;
+Reading SA110Y;
+Reading SA127A;
+Reading SA127C;
+Reading SA127D;
+Reading SA127E;
+Reading SA127F;
+Reading SA127G;
+Reading SA127H;
+Reading SA127I;
+Reading SA127K;
+Reading SA127L;
+Reading SA127M;
+Reading SA127N;
+Reading SA127P;
+Reading SA127Q;
+Reading SA127R;
+Reading SA127T;
+Reading SA127V;
+Reading SA127W;
+Reading SA127Y;
+Reading SA148A;
+Reading SA148C;
+Reading SA148D;
+Reading SA148E;
+Reading SA148F;
+Reading SA148G;
+Reading SA148H;
+Reading SA148I;
+Reading SA148K;
+Reading SA148L;
+Reading SA148M;
+Reading SA148N;
+Reading SA148P;
+Reading SA148Q;
+Reading SA148R;
+Reading SA148T;
+Reading SA148V;
+Reading SA148W;
+Reading SA148Y;
+Reading SA195A;
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA110 has residue index 109
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA127 has residue index 126
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA148 has residue index 147
+Residue to Mutate SERA195 has residue index 194
+Mutating residue = SERA110 into LYS
+Mutating residue = SERA110 into LEU
+Mutating residue = SERA110 into MET
+Mutating residue = SERA110 into ASN
+Mutating residue = SERA110 into PRO
+Mutating residue = SERA110 into GLN
+Mutating residue = SERA110 into ARG
+Mutating residue = SERA110 into THR
+Mutating residue = SERA110 into VAL
+Mutating residue = SERA110 into TRP
+Mutating residue = SERA110 into TYR
+Mutating residue = SERA127 into ALA
+Mutating residue = SERA127 into CYS
+Mutating residue = SERA127 into ASP
+Mutating residue = SERA127 into GLU
+Mutating residue = SERA127 into PHE
+Mutating residue = SERA127 into GLY
+Mutating residue = SERA127 into HIS
+Mutating residue = SERA127 into ILE
+Mutating residue = SERA127 into LYS
+Mutating residue = SERA127 into LEU
+Mutating residue = SERA127 into MET
+Mutating residue = SERA127 into ASN
+Mutating residue = SERA127 into PRO
+Mutating residue = SERA127 into GLN
+Mutating residue = SERA127 into ARG
+Mutating residue = SERA127 into THR
+Mutating residue = SERA127 into VAL
+Mutating residue = SERA127 into TRP
+Mutating residue = SERA127 into TYR
+Mutating residue = SERA148 into ALA
+Mutating residue = SERA148 into CYS
+Mutating residue = SERA148 into ASP
+Mutating residue = SERA148 into GLU
+Mutating residue = SERA148 into PHE
+Mutating residue = SERA148 into GLY
+Mutating residue = SERA148 into HIS
+Mutating residue = SERA148 into ILE
+Mutating residue = SERA148 into LYS
+Mutating residue = SERA148 into LEU
+Mutating residue = SERA148 into MET
+Mutating residue = SERA148 into ASN
+Mutating residue = SERA148 into PRO
+Mutating residue = SERA148 into GLN
+Mutating residue = SERA148 into ARG
+Mutating residue = SERA148 into THR
+Mutating residue = SERA148 into VAL
+Mutating residue = SERA148 into TRP
+Mutating residue = SERA148 into TYR
+Mutating residue = SERA195 into ALA
+Your file run OK
+End time of FoldX: Sat May  9 16:21:40 2026
+Total time spend: 259.74 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 70 结果提取成功，已映射突变信息。

@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading TA28L;
+Reading TA28M;
+Reading TA28N;
+Reading TA28P;
+Reading TA28Q;
+Reading TA28R;
+Reading TA28S;
+Reading TA28V;
+Reading TA28W;
+Reading TA28Y;
+Reading TA74A;
+Reading TA74C;
+Reading TA74D;
+Reading TA74E;
+Reading TA74F;
+Reading TA74G;
+Reading TA74H;
+Reading TA74I;
+Reading TA74K;
+Reading TA74L;
+Reading TA74M;
+Reading TA74N;
+Reading TA74P;
+Reading TA74Q;
+Reading TA74R;
+Reading TA74S;
+Reading TA74V;
+Reading TA74W;
+Reading TA74Y;
+Reading TA80A;
+Reading TA80C;
+Reading TA80D;
+Reading TA80E;
+Reading TA80F;
+Reading TA80G;
+Reading TA80H;
+Reading TA80I;
+Reading TA80K;
+Reading TA80L;
+Reading TA80M;
+Reading TA80N;
+Reading TA80P;
+Reading TA80Q;
+Reading TA80R;
+Reading TA80S;
+Reading TA80V;
+Reading TA80W;
+Reading TA80Y;
+Reading VA116A;
+Reading VA116C;
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA28 has residue index 27
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA74 has residue index 73
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate THRA80 has residue index 79
+Residue to Mutate VALA116 has residue index 115
+Residue to Mutate VALA116 has residue index 115
+Mutating residue = THRA28 into LEU
+Mutating residue = THRA28 into MET
+Mutating residue = THRA28 into ASN
+Mutating residue = THRA28 into PRO
+Mutating residue = THRA28 into GLN
+Mutating residue = THRA28 into ARG
+Mutating residue = THRA28 into SER
+Mutating residue = THRA28 into VAL
+Mutating residue = THRA28 into TRP
+Mutating residue = THRA28 into TYR
+Mutating residue = THRA74 into ALA
+Mutating residue = THRA74 into CYS
+Mutating residue = THRA74 into ASP
+Mutating residue = THRA74 into GLU
+Mutating residue = THRA74 into PHE
+Mutating residue = THRA74 into GLY
+Mutating residue = THRA74 into HIS
+Mutating residue = THRA74 into ILE
+Mutating residue = THRA74 into LYS
+Mutating residue = THRA74 into LEU
+Mutating residue = THRA74 into MET
+Mutating residue = THRA74 into ASN
+Mutating residue = THRA74 into PRO
+Mutating residue = THRA74 into GLN
+Mutating residue = THRA74 into ARG
+Mutating residue = THRA74 into SER
+Mutating residue = THRA74 into VAL
+Mutating residue = THRA74 into TRP
+Mutating residue = THRA74 into TYR
+Mutating residue = THRA80 into ALA
+Mutating residue = THRA80 into CYS
+Mutating residue = THRA80 into ASP
+Mutating residue = THRA80 into GLU
+Mutating residue = THRA80 into PHE
+Mutating residue = THRA80 into GLY
+Mutating residue = THRA80 into HIS
+Mutating residue = THRA80 into ILE
+Mutating residue = THRA80 into LYS
+Mutating residue = THRA80 into LEU
+Mutating residue = THRA80 into MET
+Mutating residue = THRA80 into ASN
+Mutating residue = THRA80 into PRO
+Mutating residue = THRA80 into GLN
+Mutating residue = THRA80 into ARG
+Mutating residue = THRA80 into SER
+Mutating residue = THRA80 into VAL
+Mutating residue = THRA80 into TRP
+Mutating residue = THRA80 into TYR
+Mutating residue = VALA116 into ALA
+Mutating residue = VALA116 into CYS
+Your file run OK
+End time of FoldX: Sat May  9 16:23:37 2026
+Total time spend: 377.26 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 78 结果提取成功，已映射突变信息。

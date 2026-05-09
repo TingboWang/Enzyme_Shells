@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading TA219S;
+Reading TA230A;
+Reading TA230I;
+Reading TA230N;
+Reading TA230P;
+Reading TA242A;
+Reading TA242I;
+Reading TA242P;
+Reading TA242S;
+Reading TA247A;
+Reading TA247I;
+Reading TA247K;
+Reading TA247P;
+Reading TA247R;
+Reading TA247S;
+Reading TA262A;
+Reading TA262P;
+Reading TA262R;
+Reading TA262S;
+Reading TA264I;
+Reading TA264N;
+Reading TA264P;
+Reading TA264S;
+Reading TA287A;
+Reading TA287I;
+Reading TA287K;
+Reading TA287P;
+Reading TA287R;
+Reading TA287S;
+Reading TA290A;
+Reading TA290I;
+Reading TA290N;
+Reading TA290P;
+Reading TA290S;
+Reading TA299A;
+Reading TA299I;
+Reading TA299K;
+Reading TA299P;
+Reading TA299R;
+Reading TA299S;
+Reading TA333A;
+Reading TA333I;
+Reading TA333K;
+Reading TA333P;
+Reading TA333R;
+Reading TA333S;
+Reading TA343A;
+Reading TA343I;
+Reading TA343K;
+Reading TA343P;
+Residue to Mutate THRA219 has residue index 218
+Residue to Mutate THRA230 has residue index 229
+Residue to Mutate THRA230 has residue index 229
+Residue to Mutate THRA230 has residue index 229
+Residue to Mutate THRA230 has residue index 229
+Residue to Mutate THRA242 has residue index 241
+Residue to Mutate THRA242 has residue index 241
+Residue to Mutate THRA242 has residue index 241
+Residue to Mutate THRA242 has residue index 241
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA247 has residue index 246
+Residue to Mutate THRA262 has residue index 261
+Residue to Mutate THRA262 has residue index 261
+Residue to Mutate THRA262 has residue index 261
+Residue to Mutate THRA262 has residue index 261
+Residue to Mutate THRA264 has residue index 263
+Residue to Mutate THRA264 has residue index 263
+Residue to Mutate THRA264 has residue index 263
+Residue to Mutate THRA264 has residue index 263
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA287 has residue index 286
+Residue to Mutate THRA290 has residue index 289
+Residue to Mutate THRA290 has residue index 289
+Residue to Mutate THRA290 has residue index 289
+Residue to Mutate THRA290 has residue index 289
+Residue to Mutate THRA290 has residue index 289
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA299 has residue index 298
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA333 has residue index 332
+Residue to Mutate THRA343 has residue index 342
+Residue to Mutate THRA343 has residue index 342
+Residue to Mutate THRA343 has residue index 342
+Residue to Mutate THRA343 has residue index 342
+Mutating residue = THRA219 into SER
+Mutating residue = THRA230 into ALA
+Mutating residue = THRA230 into ILE
+Mutating residue = THRA230 into ASN
+Mutating residue = THRA230 into PRO
+Mutating residue = THRA242 into ALA
+Mutating residue = THRA242 into ILE
+Mutating residue = THRA242 into PRO
+Mutating residue = THRA242 into SER
+Mutating residue = THRA247 into ALA
+Mutating residue = THRA247 into ILE
+Mutating residue = THRA247 into LYS
+Mutating residue = THRA247 into PRO
+Mutating residue = THRA247 into ARG
+Mutating residue = THRA247 into SER
+Mutating residue = THRA262 into ALA
+Mutating residue = THRA262 into PRO
+Mutating residue = THRA262 into ARG
+Mutating residue = THRA262 into SER
+Mutating residue = THRA264 into ILE
+Mutating residue = THRA264 into ASN
+Mutating residue = THRA264 into PRO
+Mutating residue = THRA264 into SER
+Mutating residue = THRA287 into ALA
+Mutating residue = THRA287 into ILE
+Mutating residue = THRA287 into LYS
+Mutating residue = THRA287 into PRO
+Mutating residue = THRA287 into ARG
+Mutating residue = THRA287 into SER
+Mutating residue = THRA290 into ALA
+Mutating residue = THRA290 into ILE
+Mutating residue = THRA290 into ASN
+Mutating residue = THRA290 into PRO
+Mutating residue = THRA290 into SER
+Mutating residue = THRA299 into ALA
+Mutating residue = THRA299 into ILE
+Mutating residue = THRA299 into LYS
+Mutating residue = THRA299 into PRO
+Mutating residue = THRA299 into ARG
+Mutating residue = THRA299 into SER
+Mutating residue = THRA333 into ALA
+Mutating residue = THRA333 into ILE
+Mutating residue = THRA333 into LYS
+Mutating residue = THRA333 into PRO
+Mutating residue = THRA333 into ARG
+Mutating residue = THRA333 into SER
+Mutating residue = THRA343 into ALA
+Mutating residue = THRA343 into ILE
+Mutating residue = THRA343 into LYS
+Mutating residue = THRA343 into PRO
+Your file run OK
+End time of FoldX: Sat May  9 16:22:25 2026
+Total time spend: 313.57 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 28 结果提取成功，已映射突变信息。

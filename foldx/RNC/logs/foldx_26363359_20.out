@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading FA17D;
+Reading FA17E;
+Reading FA17G;
+Reading FA17H;
+Reading FA17I;
+Reading FA17K;
+Reading FA17L;
+Reading FA17M;
+Reading FA17N;
+Reading FA17P;
+Reading FA17Q;
+Reading FA17R;
+Reading FA17S;
+Reading FA17T;
+Reading FA17V;
+Reading FA17W;
+Reading FA17Y;
+Reading FA188A;
+Reading FA188C;
+Reading FA188D;
+Reading FA188E;
+Reading FA188G;
+Reading FA188H;
+Reading FA188I;
+Reading FA188K;
+Reading FA188L;
+Reading FA188M;
+Reading FA188N;
+Reading FA188P;
+Reading FA188Q;
+Reading FA188R;
+Reading FA188S;
+Reading FA188T;
+Reading FA188V;
+Reading FA188W;
+Reading FA188Y;
+Reading FA42A;
+Reading FA42C;
+Reading FA42D;
+Reading FA42E;
+Reading FA42G;
+Reading FA42H;
+Reading FA42I;
+Reading FA42K;
+Reading FA42L;
+Reading FA42M;
+Reading FA42N;
+Reading FA42P;
+Reading FA42Q;
+Reading FA42R;
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA17 has residue index 16
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA188 has residue index 187
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Residue to Mutate PHEA42 has residue index 41
+Mutating residue = PHEA17 into ASP
+Mutating residue = PHEA17 into GLU
+Mutating residue = PHEA17 into GLY
+Mutating residue = PHEA17 into HIS
+Mutating residue = PHEA17 into ILE
+Mutating residue = PHEA17 into LYS
+Mutating residue = PHEA17 into LEU
+Mutating residue = PHEA17 into MET
+Mutating residue = PHEA17 into ASN
+Mutating residue = PHEA17 into PRO
+Mutating residue = PHEA17 into GLN
+Mutating residue = PHEA17 into ARG
+Mutating residue = PHEA17 into SER
+Mutating residue = PHEA17 into THR
+Mutating residue = PHEA17 into VAL
+Mutating residue = PHEA17 into TRP
+Mutating residue = PHEA17 into TYR
+Mutating residue = PHEA188 into ALA
+Mutating residue = PHEA188 into CYS
+Mutating residue = PHEA188 into ASP
+Mutating residue = PHEA188 into GLU
+Mutating residue = PHEA188 into GLY
+Mutating residue = PHEA188 into HIS
+Mutating residue = PHEA188 into ILE
+Mutating residue = PHEA188 into LYS
+Mutating residue = PHEA188 into LEU
+Mutating residue = PHEA188 into MET
+Mutating residue = PHEA188 into ASN
+Mutating residue = PHEA188 into PRO
+Mutating residue = PHEA188 into GLN
+Mutating residue = PHEA188 into ARG
+Mutating residue = PHEA188 into SER
+Mutating residue = PHEA188 into THR
+Mutating residue = PHEA188 into VAL
+Mutating residue = PHEA188 into TRP
+Mutating residue = PHEA188 into TYR
+Mutating residue = PHEA42 into ALA
+Mutating residue = PHEA42 into CYS
+Mutating residue = PHEA42 into ASP
+Mutating residue = PHEA42 into GLU
+Mutating residue = PHEA42 into GLY
+Mutating residue = PHEA42 into HIS
+Mutating residue = PHEA42 into ILE
+Mutating residue = PHEA42 into LYS
+Mutating residue = PHEA42 into LEU
+Mutating residue = PHEA42 into MET
+Mutating residue = PHEA42 into ASN
+Mutating residue = PHEA42 into PRO
+Mutating residue = PHEA42 into GLN
+Mutating residue = PHEA42 into ARG
+Your file run OK
+End time of FoldX: Sat May  9 16:21:00 2026
+Total time spend: 220.30 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 20 结果提取成功，已映射突变信息。

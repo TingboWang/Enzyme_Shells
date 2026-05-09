@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PAFA.pdb
+1 models read: PAFA.pdb
+
+BackHbond       =               -357.68
+SideHbond       =               -147.65
+Energy_VdW      =               -638.22
+Electro         =               -24.37
+Energy_SolvP    =               902.09
+Energy_SolvH    =               -830.82
+Energy_vdwclash =               46.76
+energy_torsion  =               8.99
+backbone_vdwclash=              331.59
+Entropy_sidec   =               296.33
+Entropy_mainc   =               848.07
+water bonds     =               0.00
+helix dipole    =               -2.00
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.52
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  107.28
+
+
+BackHbond       =               -357.68
+SideHbond       =               -147.65
+Energy_VdW      =               -638.22
+Electro         =               -24.37
+Energy_SolvP    =               902.09
+Energy_SolvH    =               -830.82
+Energy_vdwclash =               46.76
+energy_torsion  =               8.99
+backbone_vdwclash=              331.59
+Entropy_sidec   =               296.33
+Entropy_mainc   =               848.07
+water bonds     =               0.00
+helix dipole    =               -2.00
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.52
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  107.28
+
+Starting BuildModel
+Reading YA46V;
+Reading RA47G;
+Reading RA47V;
+Reading YA48G;
+Reading YA48V;
+Reading YA49G;
+Reading YA49V;
+Reading SA50G;
+Reading SA50V;
+Reading KA51G;
+Reading KA51V;
+Reading YA52G;
+Reading YA52V;
+Reading GA53A;
+Reading GA53V;
+Reading EA54G;
+Reading EA54V;
+Reading GA55A;
+Reading GA55V;
+Reading GA56A;
+Reading GA56V;
+Reading FA57G;
+Reading FA57V;
+Reading KA58G;
+Reading KA58V;
+Reading RA59G;
+Reading RA59V;
+Reading MA60G;
+Reading MA60V;
+Reading LA61G;
+Reading LA61V;
+Reading NA62G;
+Reading NA62V;
+Reading TA63G;
+Reading TA63V;
+Reading GA64A;
+Reading YA65G;
+Reading YA65V;
+Reading SA66G;
+Reading SA66V;
+Reading LA67G;
+Reading LA67V;
+Reading NA68G;
+Reading NA68V;
+Reading NA69G;
+Reading NA69V;
+Reading VA70A;
+Reading VA70G;
+Reading HA71G;
+Reading HA71V;
+Residue to Mutate TYRA46 has residue index 45
+Residue to Mutate ARGA47 has residue index 46
+Residue to Mutate ARGA47 has residue index 46
+Residue to Mutate TYRA48 has residue index 47
+Residue to Mutate TYRA48 has residue index 47
+Residue to Mutate TYRA49 has residue index 48
+Residue to Mutate TYRA49 has residue index 48
+Residue to Mutate SERA50 has residue index 49
+Residue to Mutate SERA50 has residue index 49
+Residue to Mutate LYSA51 has residue index 50
+Residue to Mutate LYSA51 has residue index 50
+Residue to Mutate TYRA52 has residue index 51
+Residue to Mutate TYRA52 has residue index 51
+Residue to Mutate GLYA53 has residue index 52
+Residue to Mutate GLYA53 has residue index 52
+Residue to Mutate GLUA54 has residue index 53
+Residue to Mutate GLUA54 has residue index 53
+Residue to Mutate GLYA55 has residue index 54
+Residue to Mutate GLYA55 has residue index 54
+Residue to Mutate GLYA56 has residue index 55
+Residue to Mutate GLYA56 has residue index 55
+Residue to Mutate PHEA57 has residue index 56
+Residue to Mutate PHEA57 has residue index 56
+Residue to Mutate LYSA58 has residue index 57
+Residue to Mutate LYSA58 has residue index 57
+Residue to Mutate ARGA59 has residue index 58
+Residue to Mutate ARGA59 has residue index 58
+Residue to Mutate META60 has residue index 59
+Residue to Mutate META60 has residue index 59
+Residue to Mutate LEUA61 has residue index 60
+Residue to Mutate LEUA61 has residue index 60
+Residue to Mutate ASNA62 has residue index 61
+Residue to Mutate ASNA62 has residue index 61
+Residue to Mutate THRA63 has residue index 62
+Residue to Mutate THRA63 has residue index 62
+Residue to Mutate GLYA64 has residue index 63
+Residue to Mutate TYRA65 has residue index 64
+Residue to Mutate TYRA65 has residue index 64
+Residue to Mutate SERA66 has residue index 65
+Residue to Mutate SERA66 has residue index 65
+Residue to Mutate LEUA67 has residue index 66
+Residue to Mutate LEUA67 has residue index 66
+Residue to Mutate ASNA68 has residue index 67
+Residue to Mutate ASNA68 has residue index 67
+Residue to Mutate ASNA69 has residue index 68
+Residue to Mutate ASNA69 has residue index 68
+Residue to Mutate VALA70 has residue index 69
+Residue to Mutate VALA70 has residue index 69
+Residue to Mutate HISA71 has residue index 70
+Residue to Mutate HISA71 has residue index 70
+Mutating residue = TYRA46 into VAL
+Mutating residue = ARGA47 into GLY
+Mutating residue = ARGA47 into VAL
+Mutating residue = TYRA48 into GLY
+Mutating residue = TYRA48 into VAL
+Mutating residue = TYRA49 into GLY
+Mutating residue = TYRA49 into VAL
+Mutating residue = SERA50 into GLY
+Mutating residue = SERA50 into VAL
+Mutating residue = LYSA51 into GLY
+Mutating residue = LYSA51 into VAL
+Mutating residue = TYRA52 into GLY
+Mutating residue = TYRA52 into VAL
+Mutating residue = GLYA53 into ALA
+Mutating residue = GLYA53 into VAL
+Mutating residue = GLUA54 into GLY
+Mutating residue = GLUA54 into VAL
+Mutating residue = GLYA55 into ALA
+Mutating residue = GLYA55 into VAL
+Mutating residue = GLYA56 into ALA
+Mutating residue = GLYA56 into VAL
+Mutating residue = PHEA57 into GLY
+Mutating residue = PHEA57 into VAL
+Mutating residue = LYSA58 into GLY
+Mutating residue = LYSA58 into VAL
+Mutating residue = ARGA59 into GLY
+Mutating residue = ARGA59 into VAL
+Mutating residue = META60 into GLY
+Mutating residue = META60 into VAL
+Mutating residue = LEUA61 into GLY
+Mutating residue = LEUA61 into VAL
+Mutating residue = ASNA62 into GLY
+Mutating residue = ASNA62 into VAL
+Mutating residue = THRA63 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = GLYA64 into ALA
+Mutating residue = TYRA65 into GLY
+Mutating residue = TYRA65 into VAL
+Mutating residue = SERA66 into GLY
+Mutating residue = SERA66 into VAL
+Mutating residue = LEUA67 into GLY
+Mutating residue = LEUA67 into VAL
+Mutating residue = ASNA68 into GLY
+Mutating residue = ASNA68 into VAL
+Mutating residue = ASNA69 into GLY
+Mutating residue = ASNA69 into VAL
+Mutating residue = VALA70 into ALA
+Mutating residue = VALA70 into GLY
+Mutating residue = H1SA71 into GLY
+Mutating residue = H1SA71 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:26:47 2026
+Total time spend: 575.04 seconds.
+validated file "PAFA_1.pdb" => successfully finished
+validated file "PAFA_2.pdb" => successfully finished
+validated file "PAFA_3.pdb" => successfully finished
+validated file "PAFA_4.pdb" => successfully finished
+validated file "PAFA_5.pdb" => successfully finished
+validated file "PAFA_6.pdb" => successfully finished
+validated file "PAFA_7.pdb" => successfully finished
+validated file "PAFA_8.pdb" => successfully finished
+validated file "PAFA_9.pdb" => successfully finished
+validated file "PAFA_10.pdb" => successfully finished
+validated file "PAFA_11.pdb" => successfully finished
+validated file "PAFA_12.pdb" => successfully finished
+validated file "PAFA_13.pdb" => successfully finished
+validated file "PAFA_14.pdb" => successfully finished
+validated file "PAFA_15.pdb" => successfully finished
+validated file "PAFA_16.pdb" => successfully finished
+validated file "PAFA_17.pdb" => successfully finished
+validated file "PAFA_18.pdb" => successfully finished
+validated file "PAFA_19.pdb" => successfully finished
+validated file "PAFA_20.pdb" => successfully finished
+validated file "PAFA_21.pdb" => successfully finished
+validated file "PAFA_22.pdb" => successfully finished
+validated file "PAFA_23.pdb" => successfully finished
+validated file "PAFA_24.pdb" => successfully finished
+validated file "PAFA_25.pdb" => successfully finished
+validated file "PAFA_26.pdb" => successfully finished
+validated file "PAFA_27.pdb" => successfully finished
+validated file "PAFA_28.pdb" => successfully finished
+validated file "PAFA_29.pdb" => successfully finished
+validated file "PAFA_30.pdb" => successfully finished
+validated file "PAFA_31.pdb" => successfully finished
+validated file "PAFA_32.pdb" => successfully finished
+validated file "PAFA_33.pdb" => successfully finished
+validated file "PAFA_34.pdb" => successfully finished
+validated file "PAFA_35.pdb" => successfully finished
+validated file "PAFA_36.pdb" => successfully finished
+validated file "PAFA_37.pdb" => successfully finished
+validated file "PAFA_38.pdb" => successfully finished
+validated file "PAFA_39.pdb" => successfully finished
+validated file "PAFA_40.pdb" => successfully finished
+validated file "PAFA_41.pdb" => successfully finished
+validated file "PAFA_42.pdb" => successfully finished
+validated file "PAFA_43.pdb" => successfully finished
+validated file "PAFA_44.pdb" => successfully finished
+validated file "PAFA_45.pdb" => successfully finished
+validated file "PAFA_46.pdb" => successfully finished
+validated file "PAFA_47.pdb" => successfully finished
+validated file "PAFA_48.pdb" => successfully finished
+validated file "PAFA_49.pdb" => successfully finished
+validated file "PAFA_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 2 结果提取成功，已映射突变信息。

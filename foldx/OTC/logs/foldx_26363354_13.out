@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading KA210N;
+Reading KA210Q;
+Reading KA210T;
+Reading KA221E;
+Reading KA221M;
+Reading KA221N;
+Reading KA221R;
+Reading KA221T;
+Reading KA231E;
+Reading KA231M;
+Reading KA231N;
+Reading KA231Q;
+Reading KA231R;
+Reading KA231T;
+Reading KA238E;
+Reading KA238I;
+Reading KA238N;
+Reading KA238Q;
+Reading KA238R;
+Reading KA238T;
+Reading KA243E;
+Reading KA243M;
+Reading KA243N;
+Reading KA243Q;
+Reading KA243R;
+Reading KA243T;
+Reading KA274E;
+Reading KA274M;
+Reading KA274N;
+Reading KA274Q;
+Reading KA274R;
+Reading KA274T;
+Reading KA275E;
+Reading KA275I;
+Reading KA275N;
+Reading KA275Q;
+Reading KA275R;
+Reading KA275T;
+Reading KA276E;
+Reading KA276M;
+Reading KA276N;
+Reading KA276Q;
+Reading KA276R;
+Reading KA276T;
+Reading KA289E;
+Reading KA289M;
+Reading KA289N;
+Reading KA289Q;
+Reading KA289R;
+Reading KA289T;
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA210 has residue index 209
+Residue to Mutate LYSA221 has residue index 220
+Residue to Mutate LYSA221 has residue index 220
+Residue to Mutate LYSA221 has residue index 220
+Residue to Mutate LYSA221 has residue index 220
+Residue to Mutate LYSA221 has residue index 220
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA231 has residue index 230
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA238 has residue index 237
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA243 has residue index 242
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA274 has residue index 273
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA275 has residue index 274
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA289 has residue index 288
+Residue to Mutate LYSA289 has residue index 288
+Residue to Mutate LYSA289 has residue index 288
+Residue to Mutate LYSA289 has residue index 288
+Residue to Mutate LYSA289 has residue index 288
+Residue to Mutate LYSA289 has residue index 288
+Mutating residue = LYSA210 into ASN
+Mutating residue = LYSA210 into GLN
+Mutating residue = LYSA210 into THR
+Mutating residue = LYSA221 into GLU
+Mutating residue = LYSA221 into MET
+Mutating residue = LYSA221 into ASN
+Mutating residue = LYSA221 into ARG
+Mutating residue = LYSA221 into THR
+Mutating residue = LYSA231 into GLU
+Mutating residue = LYSA231 into MET
+Mutating residue = LYSA231 into ASN
+Mutating residue = LYSA231 into GLN
+Mutating residue = LYSA231 into ARG
+Mutating residue = LYSA231 into THR
+Mutating residue = LYSA238 into GLU
+Mutating residue = LYSA238 into ILE
+Mutating residue = LYSA238 into ASN
+Mutating residue = LYSA238 into GLN
+Mutating residue = LYSA238 into ARG
+Mutating residue = LYSA238 into THR
+Mutating residue = LYSA243 into GLU
+Mutating residue = LYSA243 into MET
+Mutating residue = LYSA243 into ASN
+Mutating residue = LYSA243 into GLN
+Mutating residue = LYSA243 into ARG
+Mutating residue = LYSA243 into THR
+Mutating residue = LYSA274 into GLU
+Mutating residue = LYSA274 into MET
+Mutating residue = LYSA274 into ASN
+Mutating residue = LYSA274 into GLN
+Mutating residue = LYSA274 into ARG
+Mutating residue = LYSA274 into THR
+Mutating residue = LYSA275 into GLU
+Mutating residue = LYSA275 into ILE
+Mutating residue = LYSA275 into ASN
+Mutating residue = LYSA275 into GLN
+Mutating residue = LYSA275 into ARG
+Mutating residue = LYSA275 into THR
+Mutating residue = LYSA276 into GLU
+Mutating residue = LYSA276 into MET
+Mutating residue = LYSA276 into ASN
+Mutating residue = LYSA276 into GLN
+Mutating residue = LYSA276 into ARG
+Mutating residue = LYSA276 into THR
+Mutating residue = LYSA289 into GLU
+Mutating residue = LYSA289 into MET
+Mutating residue = LYSA289 into ASN
+Mutating residue = LYSA289 into GLN
+Mutating residue = LYSA289 into ARG
+Mutating residue = LYSA289 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:30:14 2026
+Total time spend: 781.19 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 13 结果提取成功，已映射突变信息。

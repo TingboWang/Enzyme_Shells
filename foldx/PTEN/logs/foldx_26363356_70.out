@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading RA173N;
+Reading RA173Q;
+Reading RA173C;
+Reading RA173G;
+Reading RA173P;
+Reading RA173R;
+Reading RA173H;
+Reading RA173K;
+Reading RA173D;
+Reading RA173E;
+Reading YA174A;
+Reading YA174V;
+Reading YA174I;
+Reading YA174L;
+Reading YA174M;
+Reading YA174F;
+Reading YA174Y;
+Reading YA174W;
+Reading YA174S;
+Reading YA174T;
+Reading YA174N;
+Reading YA174Q;
+Reading YA174C;
+Reading YA174G;
+Reading YA174P;
+Reading YA174R;
+Reading YA174H;
+Reading YA174K;
+Reading YA174D;
+Reading YA174E;
+Reading VA175A;
+Reading VA175V;
+Reading VA175I;
+Reading VA175L;
+Reading VA175M;
+Reading VA175F;
+Reading VA175Y;
+Reading VA175W;
+Reading VA175S;
+Reading VA175T;
+Reading VA175N;
+Reading VA175Q;
+Reading VA175C;
+Reading VA175G;
+Reading VA175P;
+Reading VA175R;
+Reading VA175H;
+Reading VA175K;
+Reading VA175D;
+Reading VA175E;
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate ARGA173 has residue index 172
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate TYRA174 has residue index 173
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Residue to Mutate VALA175 has residue index 174
+Mutating residue = ARGA173 into ASN
+Mutating residue = ARGA173 into GLN
+Mutating residue = ARGA173 into CYS
+Mutating residue = ARGA173 into GLY
+Mutating residue = ARGA173 into PRO
+Mutating residue = ARGA173 into ARG
+Mutating residue = ARGA173 into HIS
+Mutating residue = ARGA173 into LYS
+Mutating residue = ARGA173 into ASP
+Mutating residue = ARGA173 into GLU
+Mutating residue = TYRA174 into ALA
+Mutating residue = TYRA174 into VAL
+Mutating residue = TYRA174 into ILE
+Mutating residue = TYRA174 into LEU
+Mutating residue = TYRA174 into MET
+Mutating residue = TYRA174 into PHE
+Mutating residue = TYRA174 into TYR
+Mutating residue = TYRA174 into TRP
+Mutating residue = TYRA174 into SER
+Mutating residue = TYRA174 into THR
+Mutating residue = TYRA174 into ASN
+Mutating residue = TYRA174 into GLN
+Mutating residue = TYRA174 into CYS
+Mutating residue = TYRA174 into GLY
+Mutating residue = TYRA174 into PRO
+Mutating residue = TYRA174 into ARG
+Mutating residue = TYRA174 into HIS
+Mutating residue = TYRA174 into LYS
+Mutating residue = TYRA174 into ASP
+Mutating residue = TYRA174 into GLU
+Mutating residue = VALA175 into ALA
+Mutating residue = VALA175 into VAL
+Mutating residue = VALA175 into ILE
+Mutating residue = VALA175 into LEU
+Mutating residue = VALA175 into MET
+Mutating residue = VALA175 into PHE
+Mutating residue = VALA175 into TYR
+Mutating residue = VALA175 into TRP
+Mutating residue = VALA175 into SER
+Mutating residue = VALA175 into THR
+Mutating residue = VALA175 into ASN
+Mutating residue = VALA175 into GLN
+Mutating residue = VALA175 into CYS
+Mutating residue = VALA175 into GLY
+Mutating residue = VALA175 into PRO
+Mutating residue = VALA175 into ARG
+Mutating residue = VALA175 into HIS
+Mutating residue = VALA175 into LYS
+Mutating residue = VALA175 into ASP
+Mutating residue = VALA175 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:24:52 2026
+Total time spend: 457.55 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 70 结果提取成功，已映射突变信息。

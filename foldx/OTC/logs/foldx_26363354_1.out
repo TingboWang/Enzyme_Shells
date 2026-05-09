@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading AA102E;
+Reading AA102G;
+Reading AA102P;
+Reading AA102S;
+Reading AA102T;
+Reading AA102V;
+Reading AA128D;
+Reading AA128G;
+Reading AA128P;
+Reading AA128S;
+Reading AA128T;
+Reading AA128V;
+Reading AA135E;
+Reading AA135G;
+Reading AA135P;
+Reading AA137E;
+Reading AA137G;
+Reading AA137P;
+Reading AA137T;
+Reading AA140D;
+Reading AA140G;
+Reading AA140S;
+Reading AA140T;
+Reading AA152D;
+Reading AA152G;
+Reading AA152P;
+Reading AA152T;
+Reading AA152V;
+Reading AA155G;
+Reading AA155S;
+Reading AA155V;
+Reading AA174D;
+Reading AA174G;
+Reading AA174P;
+Reading AA174S;
+Reading AA208P;
+Reading AA208S;
+Reading AA208T;
+Reading AA209G;
+Reading AA209P;
+Reading AA209S;
+Reading AA209V;
+Reading AA217E;
+Reading AA217G;
+Reading AA217P;
+Reading AA217S;
+Reading AA217T;
+Reading AA217V;
+Reading AA218D;
+Reading AA218G;
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA135 has residue index 134
+Residue to Mutate ALAA135 has residue index 134
+Residue to Mutate ALAA135 has residue index 134
+Residue to Mutate ALAA137 has residue index 136
+Residue to Mutate ALAA137 has residue index 136
+Residue to Mutate ALAA137 has residue index 136
+Residue to Mutate ALAA137 has residue index 136
+Residue to Mutate ALAA140 has residue index 139
+Residue to Mutate ALAA140 has residue index 139
+Residue to Mutate ALAA140 has residue index 139
+Residue to Mutate ALAA140 has residue index 139
+Residue to Mutate ALAA152 has residue index 151
+Residue to Mutate ALAA152 has residue index 151
+Residue to Mutate ALAA152 has residue index 151
+Residue to Mutate ALAA152 has residue index 151
+Residue to Mutate ALAA152 has residue index 151
+Residue to Mutate ALAA155 has residue index 154
+Residue to Mutate ALAA155 has residue index 154
+Residue to Mutate ALAA155 has residue index 154
+Residue to Mutate ALAA174 has residue index 173
+Residue to Mutate ALAA174 has residue index 173
+Residue to Mutate ALAA174 has residue index 173
+Residue to Mutate ALAA174 has residue index 173
+Residue to Mutate ALAA208 has residue index 207
+Residue to Mutate ALAA208 has residue index 207
+Residue to Mutate ALAA208 has residue index 207
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA217 has residue index 216
+Residue to Mutate ALAA218 has residue index 217
+Residue to Mutate ALAA218 has residue index 217
+Mutating residue = ALAA102 into GLU
+Mutating residue = ALAA102 into GLY
+Mutating residue = ALAA102 into PRO
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA102 into THR
+Mutating residue = ALAA102 into VAL
+Mutating residue = ALAA128 into ASP
+Mutating residue = ALAA128 into GLY
+Mutating residue = ALAA128 into PRO
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA128 into THR
+Mutating residue = ALAA128 into VAL
+Mutating residue = ALAA135 into GLU
+Mutating residue = ALAA135 into GLY
+Mutating residue = ALAA135 into PRO
+Mutating residue = ALAA137 into GLU
+Mutating residue = ALAA137 into GLY
+Mutating residue = ALAA137 into PRO
+Mutating residue = ALAA137 into THR
+Mutating residue = ALAA140 into ASP
+Mutating residue = ALAA140 into GLY
+Mutating residue = ALAA140 into SER
+Mutating residue = ALAA140 into THR
+Mutating residue = ALAA152 into ASP
+Mutating residue = ALAA152 into GLY
+Mutating residue = ALAA152 into PRO
+Mutating residue = ALAA152 into THR
+Mutating residue = ALAA152 into VAL
+Mutating residue = ALAA155 into GLY
+Mutating residue = ALAA155 into SER
+Mutating residue = ALAA155 into VAL
+Mutating residue = ALAA174 into ASP
+Mutating residue = ALAA174 into GLY
+Mutating residue = ALAA174 into PRO
+Mutating residue = ALAA174 into SER
+Mutating residue = ALAA208 into PRO
+Mutating residue = ALAA208 into SER
+Mutating residue = ALAA208 into THR
+Mutating residue = ALAA209 into GLY
+Mutating residue = ALAA209 into PRO
+Mutating residue = ALAA209 into SER
+Mutating residue = ALAA209 into VAL
+Mutating residue = ALAA217 into GLU
+Mutating residue = ALAA217 into GLY
+Mutating residue = ALAA217 into PRO
+Mutating residue = ALAA217 into SER
+Mutating residue = ALAA217 into THR
+Mutating residue = ALAA217 into VAL
+Mutating residue = ALAA218 into ASP
+Mutating residue = ALAA218 into GLY
+Your file run OK
+End time of FoldX: Sat May  9 16:18:34 2026
+Total time spend: 83.19 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 1 结果提取成功，已映射突变信息。

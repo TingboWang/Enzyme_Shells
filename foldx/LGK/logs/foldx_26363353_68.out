@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: LGK.pdb
+1 models read: LGK.pdb
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+
+BackHbond       =               -302.35
+SideHbond       =               -110.79
+Energy_VdW      =               -510.89
+Electro         =               -26.48
+Energy_SolvP    =               715.83
+Energy_SolvH    =               -665.00
+Energy_vdwclash =               20.72
+energy_torsion  =               6.69
+backbone_vdwclash=              271.11
+Entropy_sidec   =               262.00
+Entropy_mainc   =               659.34
+water bonds     =               0.00
+helix dipole    =               -1.49
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.37
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  51.22
+
+Starting BuildModel
+Reading GA188M;
+Reading GA188L;
+Reading GA188I;
+Reading GA188H;
+Reading GA188E;
+Reading GA188Y;
+Reading GA188R;
+Reading GA188C;
+Reading GA188A;
+Reading GA189T;
+Reading GA189S;
+Reading GA189R;
+Reading GA189P;
+Reading GA189N;
+Reading GA189D;
+Reading GA189C;
+Reading GA189A;
+Reading GA189V;
+Reading IA190N;
+Reading IA190S;
+Reading IA190L;
+Reading IA190H;
+Reading IA190G;
+Reading IA190F;
+Reading IA190D;
+Reading IA190C;
+Reading IA190A;
+Reading IA190T;
+Reading IA190V;
+Reading IA190Y;
+Reading IA190P;
+Reading IA190R;
+Reading AA191L;
+Reading AA191S;
+Reading AA191I;
+Reading AA191H;
+Reading AA191G;
+Reading AA191F;
+Reading AA191M;
+Reading AA191P;
+Reading AA191Q;
+Reading AA191E;
+Reading AA191D;
+Reading AA191C;
+Reading AA191Y;
+Reading AA191V;
+Reading AA191T;
+Reading AA191R;
+Reading NA192M;
+Reading NA192W;
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA188 has residue index 187
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate GLYA189 has residue index 188
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ILEA190 has residue index 189
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ALAA191 has residue index 190
+Residue to Mutate ASNA192 has residue index 191
+Residue to Mutate ASNA192 has residue index 191
+Mutating residue = GLYA188 into MET
+Mutating residue = GLYA188 into LEU
+Mutating residue = GLYA188 into ILE
+Mutating residue = GLYA188 into HIS
+Mutating residue = GLYA188 into GLU
+Mutating residue = GLYA188 into TYR
+Mutating residue = GLYA188 into ARG
+Mutating residue = GLYA188 into CYS
+Mutating residue = GLYA188 into ALA
+Mutating residue = GLYA189 into THR
+Mutating residue = GLYA189 into SER
+Mutating residue = GLYA189 into ARG
+Mutating residue = GLYA189 into PRO
+Mutating residue = GLYA189 into ASN
+Mutating residue = GLYA189 into ASP
+Mutating residue = GLYA189 into CYS
+Mutating residue = GLYA189 into ALA
+Mutating residue = GLYA189 into VAL
+Mutating residue = ILEA190 into ASN
+Mutating residue = ILEA190 into SER
+Mutating residue = ILEA190 into LEU
+Mutating residue = ILEA190 into HIS
+Mutating residue = ILEA190 into GLY
+Mutating residue = ILEA190 into PHE
+Mutating residue = ILEA190 into ASP
+Mutating residue = ILEA190 into CYS
+Mutating residue = ILEA190 into ALA
+Mutating residue = ILEA190 into THR
+Mutating residue = ILEA190 into VAL
+Mutating residue = ILEA190 into TYR
+Mutating residue = ILEA190 into PRO
+Mutating residue = ILEA190 into ARG
+Mutating residue = ALAA191 into LEU
+Mutating residue = ALAA191 into SER
+Mutating residue = ALAA191 into ILE
+Mutating residue = ALAA191 into HIS
+Mutating residue = ALAA191 into GLY
+Mutating residue = ALAA191 into PHE
+Mutating residue = ALAA191 into MET
+Mutating residue = ALAA191 into PRO
+Mutating residue = ALAA191 into GLN
+Mutating residue = ALAA191 into GLU
+Mutating residue = ALAA191 into ASP
+Mutating residue = ALAA191 into CYS
+Mutating residue = ALAA191 into TYR
+Mutating residue = ALAA191 into VAL
+Mutating residue = ALAA191 into THR
+Mutating residue = ALAA191 into ARG
+Mutating residue = ASNA192 into MET
+Mutating residue = ASNA192 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:23:02 2026
+Total time spend: 350.19 seconds.
+validated file "LGK_1.pdb" => successfully finished
+validated file "LGK_2.pdb" => successfully finished
+validated file "LGK_3.pdb" => successfully finished
+validated file "LGK_4.pdb" => successfully finished
+validated file "LGK_5.pdb" => successfully finished
+validated file "LGK_6.pdb" => successfully finished
+validated file "LGK_7.pdb" => successfully finished
+validated file "LGK_8.pdb" => successfully finished
+validated file "LGK_9.pdb" => successfully finished
+validated file "LGK_10.pdb" => successfully finished
+validated file "LGK_11.pdb" => successfully finished
+validated file "LGK_12.pdb" => successfully finished
+validated file "LGK_13.pdb" => successfully finished
+validated file "LGK_14.pdb" => successfully finished
+validated file "LGK_15.pdb" => successfully finished
+validated file "LGK_16.pdb" => successfully finished
+validated file "LGK_17.pdb" => successfully finished
+validated file "LGK_18.pdb" => successfully finished
+validated file "LGK_19.pdb" => successfully finished
+validated file "LGK_20.pdb" => successfully finished
+validated file "LGK_21.pdb" => successfully finished
+validated file "LGK_22.pdb" => successfully finished
+validated file "LGK_23.pdb" => successfully finished
+validated file "LGK_24.pdb" => successfully finished
+validated file "LGK_25.pdb" => successfully finished
+validated file "LGK_26.pdb" => successfully finished
+validated file "LGK_27.pdb" => successfully finished
+validated file "LGK_28.pdb" => successfully finished
+validated file "LGK_29.pdb" => successfully finished
+validated file "LGK_30.pdb" => successfully finished
+validated file "LGK_31.pdb" => successfully finished
+validated file "LGK_32.pdb" => successfully finished
+validated file "LGK_33.pdb" => successfully finished
+validated file "LGK_34.pdb" => successfully finished
+validated file "LGK_35.pdb" => successfully finished
+validated file "LGK_36.pdb" => successfully finished
+validated file "LGK_37.pdb" => successfully finished
+validated file "LGK_38.pdb" => successfully finished
+validated file "LGK_39.pdb" => successfully finished
+validated file "LGK_40.pdb" => successfully finished
+validated file "LGK_41.pdb" => successfully finished
+validated file "LGK_42.pdb" => successfully finished
+validated file "LGK_43.pdb" => successfully finished
+validated file "LGK_44.pdb" => successfully finished
+validated file "LGK_45.pdb" => successfully finished
+validated file "LGK_46.pdb" => successfully finished
+validated file "LGK_47.pdb" => successfully finished
+validated file "LGK_48.pdb" => successfully finished
+validated file "LGK_49.pdb" => successfully finished
+validated file "LGK_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 68 结果提取成功，已映射突变信息。

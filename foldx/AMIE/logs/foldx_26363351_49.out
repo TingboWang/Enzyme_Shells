@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AMIE.pdb
+1 models read: AMIE.pdb
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+Starting BuildModel
+Reading KA134I;
+Reading KA134L;
+Reading KA134H;
+Reading IA135A;
+Reading IA135S;
+Reading IA135C;
+Reading IA135Y;
+Reading IA135W;
+Reading IA135V;
+Reading IA135T;
+Reading IA135R;
+Reading IA135F;
+Reading IA135P;
+Reading IA135G;
+Reading IA135H;
+Reading IA135Q;
+Reading IA135L;
+Reading IA135K;
+Reading IA135D;
+Reading IA135M;
+Reading IA135N;
+Reading IA135E;
+Reading IA136A;
+Reading IA136C;
+Reading IA136D;
+Reading IA136K;
+Reading IA136F;
+Reading IA136G;
+Reading IA136H;
+Reading IA136L;
+Reading IA136W;
+Reading IA136N;
+Reading IA136Y;
+Reading IA136V;
+Reading IA136M;
+Reading IA136T;
+Reading IA136E;
+Reading IA136P;
+Reading IA136Q;
+Reading IA136S;
+Reading IA136R;
+Reading PA137H;
+Reading PA137Q;
+Reading PA137N;
+Reading PA137M;
+Reading PA137K;
+Reading PA137I;
+Reading PA137Y;
+Reading PA137G;
+Reading PA137F;
+Residue to Mutate LYSA134 has residue index 133
+Residue to Mutate LYSA134 has residue index 133
+Residue to Mutate LYSA134 has residue index 133
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA135 has residue index 134
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate ILEA136 has residue index 135
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Residue to Mutate PROA137 has residue index 136
+Mutating residue = LYSA134 into ILE
+Mutating residue = LYSA134 into LEU
+Mutating residue = LYSA134 into HIS
+Mutating residue = ILEA135 into ALA
+Mutating residue = ILEA135 into SER
+Mutating residue = ILEA135 into CYS
+Mutating residue = ILEA135 into TYR
+Mutating residue = ILEA135 into TRP
+Mutating residue = ILEA135 into VAL
+Mutating residue = ILEA135 into THR
+Mutating residue = ILEA135 into ARG
+Mutating residue = ILEA135 into PHE
+Mutating residue = ILEA135 into PRO
+Mutating residue = ILEA135 into GLY
+Mutating residue = ILEA135 into HIS
+Mutating residue = ILEA135 into GLN
+Mutating residue = ILEA135 into LEU
+Mutating residue = ILEA135 into LYS
+Mutating residue = ILEA135 into ASP
+Mutating residue = ILEA135 into MET
+Mutating residue = ILEA135 into ASN
+Mutating residue = ILEA135 into GLU
+Mutating residue = ILEA136 into ALA
+Mutating residue = ILEA136 into CYS
+Mutating residue = ILEA136 into ASP
+Mutating residue = ILEA136 into LYS
+Mutating residue = ILEA136 into PHE
+Mutating residue = ILEA136 into GLY
+Mutating residue = ILEA136 into HIS
+Mutating residue = ILEA136 into LEU
+Mutating residue = ILEA136 into TRP
+Mutating residue = ILEA136 into ASN
+Mutating residue = ILEA136 into TYR
+Mutating residue = ILEA136 into VAL
+Mutating residue = ILEA136 into MET
+Mutating residue = ILEA136 into THR
+Mutating residue = ILEA136 into GLU
+Mutating residue = ILEA136 into PRO
+Mutating residue = ILEA136 into GLN
+Mutating residue = ILEA136 into SER
+Mutating residue = ILEA136 into ARG
+Mutating residue = PROA137 into HIS
+Mutating residue = PROA137 into GLN
+Mutating residue = PROA137 into ASN
+Mutating residue = PROA137 into MET
+Mutating residue = PROA137 into LYS
+Mutating residue = PROA137 into ILE
+Mutating residue = PROA137 into TYR
+Mutating residue = PROA137 into GLY
+Mutating residue = PROA137 into PHE
+Your file run OK
+End time of FoldX: Sat May  9 16:22:26 2026
+Total time spend: 326.16 seconds.
+validated file "AMIE_1.pdb" => successfully finished
+validated file "AMIE_2.pdb" => successfully finished
+validated file "AMIE_3.pdb" => successfully finished
+validated file "AMIE_4.pdb" => successfully finished
+validated file "AMIE_5.pdb" => successfully finished
+validated file "AMIE_6.pdb" => successfully finished
+validated file "AMIE_7.pdb" => successfully finished
+validated file "AMIE_8.pdb" => successfully finished
+validated file "AMIE_9.pdb" => successfully finished
+validated file "AMIE_10.pdb" => successfully finished
+validated file "AMIE_11.pdb" => successfully finished
+validated file "AMIE_12.pdb" => successfully finished
+validated file "AMIE_13.pdb" => successfully finished
+validated file "AMIE_14.pdb" => successfully finished
+validated file "AMIE_15.pdb" => successfully finished
+validated file "AMIE_16.pdb" => successfully finished
+validated file "AMIE_17.pdb" => successfully finished
+validated file "AMIE_18.pdb" => successfully finished
+validated file "AMIE_19.pdb" => successfully finished
+validated file "AMIE_20.pdb" => successfully finished
+validated file "AMIE_21.pdb" => successfully finished
+validated file "AMIE_22.pdb" => successfully finished
+validated file "AMIE_23.pdb" => successfully finished
+validated file "AMIE_24.pdb" => successfully finished
+validated file "AMIE_25.pdb" => successfully finished
+validated file "AMIE_26.pdb" => successfully finished
+validated file "AMIE_27.pdb" => successfully finished
+validated file "AMIE_28.pdb" => successfully finished
+validated file "AMIE_29.pdb" => successfully finished
+validated file "AMIE_30.pdb" => successfully finished
+validated file "AMIE_31.pdb" => successfully finished
+validated file "AMIE_32.pdb" => successfully finished
+validated file "AMIE_33.pdb" => successfully finished
+validated file "AMIE_34.pdb" => successfully finished
+validated file "AMIE_35.pdb" => successfully finished
+validated file "AMIE_36.pdb" => successfully finished
+validated file "AMIE_37.pdb" => successfully finished
+validated file "AMIE_38.pdb" => successfully finished
+validated file "AMIE_39.pdb" => successfully finished
+validated file "AMIE_40.pdb" => successfully finished
+validated file "AMIE_41.pdb" => successfully finished
+validated file "AMIE_42.pdb" => successfully finished
+validated file "AMIE_43.pdb" => successfully finished
+validated file "AMIE_44.pdb" => successfully finished
+validated file "AMIE_45.pdb" => successfully finished
+validated file "AMIE_46.pdb" => successfully finished
+validated file "AMIE_47.pdb" => successfully finished
+validated file "AMIE_48.pdb" => successfully finished
+validated file "AMIE_49.pdb" => successfully finished
+validated file "AMIE_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 49 结果提取成功，已映射突变信息。

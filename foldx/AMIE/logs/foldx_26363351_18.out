@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AMIE.pdb
+1 models read: AMIE.pdb
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+
+BackHbond       =               -246.54
+SideHbond       =               -101.51
+Energy_VdW      =               -394.57
+Electro         =               -23.16
+Energy_SolvP    =               558.47
+Energy_SolvH    =               -504.97
+Energy_vdwclash =               24.80
+energy_torsion  =               8.85
+backbone_vdwclash=              191.03
+Entropy_sidec   =               205.47
+Entropy_mainc   =               526.18
+water bonds     =               0.00
+helix dipole    =               -1.74
+loop_entropy    =               0.00
+cis_bond        =               4.52
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.97
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  56.77
+
+Starting BuildModel
+Reading GA48N;
+Reading GA48M;
+Reading GA48K;
+Reading GA48I;
+Reading GA48H;
+Reading GA48F;
+Reading GA48E;
+Reading GA48D;
+Reading GA48C;
+Reading GA48A;
+Reading GA48L;
+Reading GA48T;
+Reading LA49C;
+Reading LA49A;
+Reading LA49E;
+Reading LA49M;
+Reading LA49G;
+Reading LA49H;
+Reading LA49I;
+Reading LA49K;
+Reading LA49D;
+Reading LA49N;
+Reading LA49F;
+Reading LA49P;
+Reading LA49R;
+Reading LA49S;
+Reading LA49T;
+Reading LA49V;
+Reading LA49W;
+Reading LA49Y;
+Reading LA49Q;
+Reading PA50K;
+Reading PA50I;
+Reading PA50M;
+Reading PA50L;
+Reading PA50H;
+Reading PA50N;
+Reading PA50F;
+Reading PA50D;
+Reading PA50C;
+Reading PA50A;
+Reading PA50G;
+Reading PA50Q;
+Reading PA50E;
+Reading PA50S;
+Reading PA50T;
+Reading PA50V;
+Reading PA50W;
+Reading PA50Y;
+Reading PA50R;
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate GLYA48 has residue index 47
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate LEUA49 has residue index 48
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Residue to Mutate PROA50 has residue index 49
+Mutating residue = GLYA48 into ASN
+Mutating residue = GLYA48 into MET
+Mutating residue = GLYA48 into LYS
+Mutating residue = GLYA48 into ILE
+Mutating residue = GLYA48 into HIS
+Mutating residue = GLYA48 into PHE
+Mutating residue = GLYA48 into GLU
+Mutating residue = GLYA48 into ASP
+Mutating residue = GLYA48 into CYS
+Mutating residue = GLYA48 into ALA
+Mutating residue = GLYA48 into LEU
+Mutating residue = GLYA48 into THR
+Mutating residue = LEUA49 into CYS
+Mutating residue = LEUA49 into ALA
+Mutating residue = LEUA49 into GLU
+Mutating residue = LEUA49 into MET
+Mutating residue = LEUA49 into GLY
+Mutating residue = LEUA49 into HIS
+Mutating residue = LEUA49 into ILE
+Mutating residue = LEUA49 into LYS
+Mutating residue = LEUA49 into ASP
+Mutating residue = LEUA49 into ASN
+Mutating residue = LEUA49 into PHE
+Mutating residue = LEUA49 into PRO
+Mutating residue = LEUA49 into ARG
+Mutating residue = LEUA49 into SER
+Mutating residue = LEUA49 into THR
+Mutating residue = LEUA49 into VAL
+Mutating residue = LEUA49 into TRP
+Mutating residue = LEUA49 into TYR
+Mutating residue = LEUA49 into GLN
+Mutating residue = PROA50 into LYS
+Mutating residue = PROA50 into ILE
+Mutating residue = PROA50 into MET
+Mutating residue = PROA50 into LEU
+Mutating residue = PROA50 into HIS
+Mutating residue = PROA50 into ASN
+Mutating residue = PROA50 into PHE
+Mutating residue = PROA50 into ASP
+Mutating residue = PROA50 into CYS
+Mutating residue = PROA50 into ALA
+Mutating residue = PROA50 into GLY
+Mutating residue = PROA50 into GLN
+Mutating residue = PROA50 into GLU
+Mutating residue = PROA50 into SER
+Mutating residue = PROA50 into THR
+Mutating residue = PROA50 into VAL
+Mutating residue = PROA50 into TRP
+Mutating residue = PROA50 into TYR
+Mutating residue = PROA50 into ARG
+Your file run OK
+End time of FoldX: Sat May  9 16:18:53 2026
+Total time spend: 115.22 seconds.
+validated file "AMIE_1.pdb" => successfully finished
+validated file "AMIE_2.pdb" => successfully finished
+validated file "AMIE_3.pdb" => successfully finished
+validated file "AMIE_4.pdb" => successfully finished
+validated file "AMIE_5.pdb" => successfully finished
+validated file "AMIE_6.pdb" => successfully finished
+validated file "AMIE_7.pdb" => successfully finished
+validated file "AMIE_8.pdb" => successfully finished
+validated file "AMIE_9.pdb" => successfully finished
+validated file "AMIE_10.pdb" => successfully finished
+validated file "AMIE_11.pdb" => successfully finished
+validated file "AMIE_12.pdb" => successfully finished
+validated file "AMIE_13.pdb" => successfully finished
+validated file "AMIE_14.pdb" => successfully finished
+validated file "AMIE_15.pdb" => successfully finished
+validated file "AMIE_16.pdb" => successfully finished
+validated file "AMIE_17.pdb" => successfully finished
+validated file "AMIE_18.pdb" => successfully finished
+validated file "AMIE_19.pdb" => successfully finished
+validated file "AMIE_20.pdb" => successfully finished
+validated file "AMIE_21.pdb" => successfully finished
+validated file "AMIE_22.pdb" => successfully finished
+validated file "AMIE_23.pdb" => successfully finished
+validated file "AMIE_24.pdb" => successfully finished
+validated file "AMIE_25.pdb" => successfully finished
+validated file "AMIE_26.pdb" => successfully finished
+validated file "AMIE_27.pdb" => successfully finished
+validated file "AMIE_28.pdb" => successfully finished
+validated file "AMIE_29.pdb" => successfully finished
+validated file "AMIE_30.pdb" => successfully finished
+validated file "AMIE_31.pdb" => successfully finished
+validated file "AMIE_32.pdb" => successfully finished
+validated file "AMIE_33.pdb" => successfully finished
+validated file "AMIE_34.pdb" => successfully finished
+validated file "AMIE_35.pdb" => successfully finished
+validated file "AMIE_36.pdb" => successfully finished
+validated file "AMIE_37.pdb" => successfully finished
+validated file "AMIE_38.pdb" => successfully finished
+validated file "AMIE_39.pdb" => successfully finished
+validated file "AMIE_40.pdb" => successfully finished
+validated file "AMIE_41.pdb" => successfully finished
+validated file "AMIE_42.pdb" => successfully finished
+validated file "AMIE_43.pdb" => successfully finished
+validated file "AMIE_44.pdb" => successfully finished
+validated file "AMIE_45.pdb" => successfully finished
+validated file "AMIE_46.pdb" => successfully finished
+validated file "AMIE_47.pdb" => successfully finished
+validated file "AMIE_48.pdb" => successfully finished
+validated file "AMIE_49.pdb" => successfully finished
+validated file "AMIE_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 18 结果提取成功，已映射突变信息。

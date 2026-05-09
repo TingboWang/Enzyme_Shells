@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN.pdb
+1 models read: PTEN.pdb
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+
+BackHbond       =               -227.30
+SideHbond       =               -82.03
+Energy_VdW      =               -403.58
+Electro         =               -27.63
+Energy_SolvP    =               559.36
+Energy_SolvH    =               -526.04
+Energy_vdwclash =               32.43
+energy_torsion  =               8.76
+backbone_vdwclash=              176.30
+Entropy_sidec   =               210.75
+Entropy_mainc   =               606.81
+water bonds     =               0.00
+helix dipole    =               -1.32
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  152.93
+
+Starting BuildModel
+Reading MA1A;
+Reading MA1V;
+Reading MA1I;
+Reading MA1L;
+Reading MA1M;
+Reading MA1F;
+Reading MA1Y;
+Reading MA1W;
+Reading MA1S;
+Reading MA1T;
+Reading MA1N;
+Reading MA1Q;
+Reading MA1C;
+Reading MA1G;
+Reading MA1P;
+Reading MA1R;
+Reading MA1H;
+Reading MA1K;
+Reading MA1D;
+Reading MA1E;
+Reading TA2A;
+Reading TA2V;
+Reading TA2I;
+Reading TA2L;
+Reading TA2M;
+Reading TA2F;
+Reading TA2Y;
+Reading TA2W;
+Reading TA2S;
+Reading TA2T;
+Reading TA2N;
+Reading TA2Q;
+Reading TA2C;
+Reading TA2G;
+Reading TA2P;
+Reading TA2R;
+Reading TA2H;
+Reading TA2K;
+Reading TA2D;
+Reading TA2E;
+Reading AA3A;
+Reading AA3V;
+Reading AA3I;
+Reading AA3L;
+Reading AA3M;
+Reading AA3F;
+Reading AA3Y;
+Reading AA3W;
+Reading AA3S;
+Reading AA3T;
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate META1 has residue index 0
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate THRA2 has residue index 1
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Residue to Mutate ALAA3 has residue index 2
+Mutating residue = META1 into ALA
+Mutating residue = META1 into VAL
+Mutating residue = META1 into ILE
+Mutating residue = META1 into LEU
+Mutating residue = META1 into MET
+Mutating residue = META1 into PHE
+Mutating residue = META1 into TYR
+Mutating residue = META1 into TRP
+Mutating residue = META1 into SER
+Mutating residue = META1 into THR
+Mutating residue = META1 into ASN
+Mutating residue = META1 into GLN
+Mutating residue = META1 into CYS
+Mutating residue = META1 into GLY
+Mutating residue = META1 into PRO
+Mutating residue = META1 into ARG
+Mutating residue = META1 into HIS
+Mutating residue = META1 into LYS
+Mutating residue = META1 into ASP
+Mutating residue = META1 into GLU
+Mutating residue = THRA2 into ALA
+Mutating residue = THRA2 into VAL
+Mutating residue = THRA2 into ILE
+Mutating residue = THRA2 into LEU
+Mutating residue = THRA2 into MET
+Mutating residue = THRA2 into PHE
+Mutating residue = THRA2 into TYR
+Mutating residue = THRA2 into TRP
+Mutating residue = THRA2 into SER
+Mutating residue = THRA2 into THR
+Mutating residue = THRA2 into ASN
+Mutating residue = THRA2 into GLN
+Mutating residue = THRA2 into CYS
+Mutating residue = THRA2 into GLY
+Mutating residue = THRA2 into PRO
+Mutating residue = THRA2 into ARG
+Mutating residue = THRA2 into HIS
+Mutating residue = THRA2 into LYS
+Mutating residue = THRA2 into ASP
+Mutating residue = THRA2 into GLU
+Mutating residue = ALAA3 into ALA
+Mutating residue = ALAA3 into VAL
+Mutating residue = ALAA3 into ILE
+Mutating residue = ALAA3 into LEU
+Mutating residue = ALAA3 into MET
+Mutating residue = ALAA3 into PHE
+Mutating residue = ALAA3 into TYR
+Mutating residue = ALAA3 into TRP
+Mutating residue = ALAA3 into SER
+Mutating residue = ALAA3 into THR
+Your file run OK
+End time of FoldX: Sat May  9 16:20:37 2026
+Total time spend: 205.75 seconds.
+validated file "PTEN_1.pdb" => successfully finished
+validated file "PTEN_2.pdb" => successfully finished
+validated file "PTEN_3.pdb" => successfully finished
+validated file "PTEN_4.pdb" => successfully finished
+validated file "PTEN_5.pdb" => successfully finished
+validated file "PTEN_6.pdb" => successfully finished
+validated file "PTEN_7.pdb" => successfully finished
+validated file "PTEN_8.pdb" => successfully finished
+validated file "PTEN_9.pdb" => successfully finished
+validated file "PTEN_10.pdb" => successfully finished
+validated file "PTEN_11.pdb" => successfully finished
+validated file "PTEN_12.pdb" => successfully finished
+validated file "PTEN_13.pdb" => successfully finished
+validated file "PTEN_14.pdb" => successfully finished
+validated file "PTEN_15.pdb" => successfully finished
+validated file "PTEN_16.pdb" => successfully finished
+validated file "PTEN_17.pdb" => successfully finished
+validated file "PTEN_18.pdb" => successfully finished
+validated file "PTEN_19.pdb" => successfully finished
+validated file "PTEN_20.pdb" => successfully finished
+validated file "PTEN_21.pdb" => successfully finished
+validated file "PTEN_22.pdb" => successfully finished
+validated file "PTEN_23.pdb" => successfully finished
+validated file "PTEN_24.pdb" => successfully finished
+validated file "PTEN_25.pdb" => successfully finished
+validated file "PTEN_26.pdb" => successfully finished
+validated file "PTEN_27.pdb" => successfully finished
+validated file "PTEN_28.pdb" => successfully finished
+validated file "PTEN_29.pdb" => successfully finished
+validated file "PTEN_30.pdb" => successfully finished
+validated file "PTEN_31.pdb" => successfully finished
+validated file "PTEN_32.pdb" => successfully finished
+validated file "PTEN_33.pdb" => successfully finished
+validated file "PTEN_34.pdb" => successfully finished
+validated file "PTEN_35.pdb" => successfully finished
+validated file "PTEN_36.pdb" => successfully finished
+validated file "PTEN_37.pdb" => successfully finished
+validated file "PTEN_38.pdb" => successfully finished
+validated file "PTEN_39.pdb" => successfully finished
+validated file "PTEN_40.pdb" => successfully finished
+validated file "PTEN_41.pdb" => successfully finished
+validated file "PTEN_42.pdb" => successfully finished
+validated file "PTEN_43.pdb" => successfully finished
+validated file "PTEN_44.pdb" => successfully finished
+validated file "PTEN_45.pdb" => successfully finished
+validated file "PTEN_46.pdb" => successfully finished
+validated file "PTEN_47.pdb" => successfully finished
+validated file "PTEN_48.pdb" => successfully finished
+validated file "PTEN_49.pdb" => successfully finished
+validated file "PTEN_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 1 结果提取成功，已映射突变信息。

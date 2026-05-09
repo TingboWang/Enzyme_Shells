@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OTC.pdb
+1 models read: OTC.pdb
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+
+BackHbond       =               -237.27
+SideHbond       =               -81.10
+Energy_VdW      =               -388.53
+Electro         =               -9.97
+Energy_SolvP    =               540.19
+Energy_SolvH    =               -513.86
+Energy_vdwclash =               33.38
+energy_torsion  =               12.52
+backbone_vdwclash=              217.39
+Entropy_sidec   =               193.92
+Entropy_mainc   =               551.16
+water bonds     =               0.00
+helix dipole    =               -2.68
+loop_entropy    =               0.00
+cis_bond        =               1.13
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.79
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  99.67
+
+Starting BuildModel
+Reading TA343R;
+Reading TA343S;
+Reading TA44A;
+Reading TA44P;
+Reading TA44S;
+Reading TA49A;
+Reading TA49I;
+Reading TA49N;
+Reading TA49P;
+Reading TA49S;
+Reading TA91A;
+Reading TA91N;
+Reading TA91S;
+Reading TA93A;
+Reading TA93I;
+Reading TA93K;
+Reading TA93R;
+Reading TA93S;
+Reading TA97A;
+Reading TA97I;
+Reading TA97K;
+Reading TA97P;
+Reading TA97R;
+Reading TA97S;
+Reading TA99A;
+Reading TA99I;
+Reading TA99K;
+Reading TA99R;
+Reading TA99S;
+Reading VA120A;
+Reading VA120E;
+Reading VA120G;
+Reading VA120L;
+Reading VA130A;
+Reading VA130E;
+Reading VA130G;
+Reading VA130I;
+Reading VA130L;
+Reading VA138A;
+Reading VA138E;
+Reading VA142A;
+Reading VA142E;
+Reading VA142L;
+Reading VA229A;
+Reading VA229G;
+Reading VA229I;
+Reading VA229L;
+Reading VA259A;
+Reading VA259E;
+Reading VA259G;
+Residue to Mutate THRA343 has residue index 342
+Residue to Mutate THRA343 has residue index 342
+Residue to Mutate THRA44 has residue index 43
+Residue to Mutate THRA44 has residue index 43
+Residue to Mutate THRA44 has residue index 43
+Residue to Mutate THRA49 has residue index 48
+Residue to Mutate THRA49 has residue index 48
+Residue to Mutate THRA49 has residue index 48
+Residue to Mutate THRA49 has residue index 48
+Residue to Mutate THRA49 has residue index 48
+Residue to Mutate THRA91 has residue index 90
+Residue to Mutate THRA91 has residue index 90
+Residue to Mutate THRA91 has residue index 90
+Residue to Mutate THRA93 has residue index 92
+Residue to Mutate THRA93 has residue index 92
+Residue to Mutate THRA93 has residue index 92
+Residue to Mutate THRA93 has residue index 92
+Residue to Mutate THRA93 has residue index 92
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate THRA99 has residue index 98
+Residue to Mutate THRA99 has residue index 98
+Residue to Mutate THRA99 has residue index 98
+Residue to Mutate THRA99 has residue index 98
+Residue to Mutate THRA99 has residue index 98
+Residue to Mutate VALA120 has residue index 119
+Residue to Mutate VALA120 has residue index 119
+Residue to Mutate VALA120 has residue index 119
+Residue to Mutate VALA120 has residue index 119
+Residue to Mutate VALA130 has residue index 129
+Residue to Mutate VALA130 has residue index 129
+Residue to Mutate VALA130 has residue index 129
+Residue to Mutate VALA130 has residue index 129
+Residue to Mutate VALA130 has residue index 129
+Residue to Mutate VALA138 has residue index 137
+Residue to Mutate VALA138 has residue index 137
+Residue to Mutate VALA142 has residue index 141
+Residue to Mutate VALA142 has residue index 141
+Residue to Mutate VALA142 has residue index 141
+Residue to Mutate VALA229 has residue index 228
+Residue to Mutate VALA229 has residue index 228
+Residue to Mutate VALA229 has residue index 228
+Residue to Mutate VALA229 has residue index 228
+Residue to Mutate VALA259 has residue index 258
+Residue to Mutate VALA259 has residue index 258
+Residue to Mutate VALA259 has residue index 258
+Mutating residue = THRA343 into ARG
+Mutating residue = THRA343 into SER
+Mutating residue = THRA44 into ALA
+Mutating residue = THRA44 into PRO
+Mutating residue = THRA44 into SER
+Mutating residue = THRA49 into ALA
+Mutating residue = THRA49 into ILE
+Mutating residue = THRA49 into ASN
+Mutating residue = THRA49 into PRO
+Mutating residue = THRA49 into SER
+Mutating residue = THRA91 into ALA
+Mutating residue = THRA91 into ASN
+Mutating residue = THRA91 into SER
+Mutating residue = THRA93 into ALA
+Mutating residue = THRA93 into ILE
+Mutating residue = THRA93 into LYS
+Mutating residue = THRA93 into ARG
+Mutating residue = THRA93 into SER
+Mutating residue = THRA97 into ALA
+Mutating residue = THRA97 into ILE
+Mutating residue = THRA97 into LYS
+Mutating residue = THRA97 into PRO
+Mutating residue = THRA97 into ARG
+Mutating residue = THRA97 into SER
+Mutating residue = THRA99 into ALA
+Mutating residue = THRA99 into ILE
+Mutating residue = THRA99 into LYS
+Mutating residue = THRA99 into ARG
+Mutating residue = THRA99 into SER
+Mutating residue = VALA120 into ALA
+Mutating residue = VALA120 into GLU
+Mutating residue = VALA120 into GLY
+Mutating residue = VALA120 into LEU
+Mutating residue = VALA130 into ALA
+Mutating residue = VALA130 into GLU
+Mutating residue = VALA130 into GLY
+Mutating residue = VALA130 into ILE
+Mutating residue = VALA130 into LEU
+Mutating residue = VALA138 into ALA
+Mutating residue = VALA138 into GLU
+Mutating residue = VALA142 into ALA
+Mutating residue = VALA142 into GLU
+Mutating residue = VALA142 into LEU
+Mutating residue = VALA229 into ALA
+Mutating residue = VALA229 into GLY
+Mutating residue = VALA229 into ILE
+Mutating residue = VALA229 into LEU
+Mutating residue = VALA259 into ALA
+Mutating residue = VALA259 into GLU
+Mutating residue = VALA259 into GLY
+Your file run OK
+End time of FoldX: Sat May  9 16:22:09 2026
+Total time spend: 297.07 seconds.
+validated file "OTC_1.pdb" => successfully finished
+validated file "OTC_2.pdb" => successfully finished
+validated file "OTC_3.pdb" => successfully finished
+validated file "OTC_4.pdb" => successfully finished
+validated file "OTC_5.pdb" => successfully finished
+validated file "OTC_6.pdb" => successfully finished
+validated file "OTC_7.pdb" => successfully finished
+validated file "OTC_8.pdb" => successfully finished
+validated file "OTC_9.pdb" => successfully finished
+validated file "OTC_10.pdb" => successfully finished
+validated file "OTC_11.pdb" => successfully finished
+validated file "OTC_12.pdb" => successfully finished
+validated file "OTC_13.pdb" => successfully finished
+validated file "OTC_14.pdb" => successfully finished
+validated file "OTC_15.pdb" => successfully finished
+validated file "OTC_16.pdb" => successfully finished
+validated file "OTC_17.pdb" => successfully finished
+validated file "OTC_18.pdb" => successfully finished
+validated file "OTC_19.pdb" => successfully finished
+validated file "OTC_20.pdb" => successfully finished
+validated file "OTC_21.pdb" => successfully finished
+validated file "OTC_22.pdb" => successfully finished
+validated file "OTC_23.pdb" => successfully finished
+validated file "OTC_24.pdb" => successfully finished
+validated file "OTC_25.pdb" => successfully finished
+validated file "OTC_26.pdb" => successfully finished
+validated file "OTC_27.pdb" => successfully finished
+validated file "OTC_28.pdb" => successfully finished
+validated file "OTC_29.pdb" => successfully finished
+validated file "OTC_30.pdb" => successfully finished
+validated file "OTC_31.pdb" => successfully finished
+validated file "OTC_32.pdb" => successfully finished
+validated file "OTC_33.pdb" => successfully finished
+validated file "OTC_34.pdb" => successfully finished
+validated file "OTC_35.pdb" => successfully finished
+validated file "OTC_36.pdb" => successfully finished
+validated file "OTC_37.pdb" => successfully finished
+validated file "OTC_38.pdb" => successfully finished
+validated file "OTC_39.pdb" => successfully finished
+validated file "OTC_40.pdb" => successfully finished
+validated file "OTC_41.pdb" => successfully finished
+validated file "OTC_42.pdb" => successfully finished
+validated file "OTC_43.pdb" => successfully finished
+validated file "OTC_44.pdb" => successfully finished
+validated file "OTC_45.pdb" => successfully finished
+validated file "OTC_46.pdb" => successfully finished
+validated file "OTC_47.pdb" => successfully finished
+validated file "OTC_48.pdb" => successfully finished
+validated file "OTC_49.pdb" => successfully finished
+validated file "OTC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 29 结果提取成功，已映射突变信息。

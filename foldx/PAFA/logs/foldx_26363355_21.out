@@ -1,0 +1,136 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PAFA.pdb
+1 models read: PAFA.pdb
+
+BackHbond       =               -357.68
+SideHbond       =               -147.65
+Energy_VdW      =               -638.22
+Electro         =               -24.37
+Energy_SolvP    =               902.09
+Energy_SolvH    =               -830.82
+Energy_vdwclash =               46.76
+energy_torsion  =               8.99
+backbone_vdwclash=              331.59
+Entropy_sidec   =               296.33
+Entropy_mainc   =               848.07
+water bonds     =               0.00
+helix dipole    =               -2.00
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.52
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  107.28
+
+
+BackHbond       =               -357.68
+SideHbond       =               -147.65
+Energy_VdW      =               -638.22
+Electro         =               -24.37
+Energy_SolvP    =               902.09
+Energy_SolvH    =               -830.82
+Energy_vdwclash =               46.76
+energy_torsion  =               8.99
+backbone_vdwclash=              331.59
+Entropy_sidec   =               296.33
+Entropy_mainc   =               848.07
+water bonds     =               0.00
+helix dipole    =               -2.00
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.52
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  107.28
+
+Starting BuildModel
+Reading PA539G;
+Reading PA539V;
+Reading IA540G;
+Reading IA540V;
+Reading TA541G;
+Reading TA541V;
+Reading EA542G;
+Reading EA542V;
+Reading VA543A;
+Reading VA543G;
+Reading IA544G;
+Reading IA544V;
+Reading GA545A;
+Reading GA545V;
+Reading RA546G;
+Reading RA546V;
+Residue to Mutate PROA539 has residue index 538
+Residue to Mutate PROA539 has residue index 538
+Residue to Mutate ILEA540 has residue index 539
+Residue to Mutate ILEA540 has residue index 539
+Residue to Mutate THRA541 has residue index 540
+Residue to Mutate THRA541 has residue index 540
+Residue to Mutate GLUA542 has residue index 541
+Residue to Mutate GLUA542 has residue index 541
+Residue to Mutate VALA543 has residue index 542
+Residue to Mutate VALA543 has residue index 542
+Residue to Mutate ILEA544 has residue index 543
+Residue to Mutate ILEA544 has residue index 543
+Residue to Mutate GLYA545 has residue index 544
+Residue to Mutate GLYA545 has residue index 544
+Residue to Mutate ARGA546 has residue index 545
+Residue to Mutate ARGA546 has residue index 545
+Mutating residue = PROA539 into GLY
+Mutating residue = PROA539 into VAL
+Mutating residue = ILEA540 into GLY
+Mutating residue = ILEA540 into VAL
+Mutating residue = THRA541 into GLY
+Mutating residue = THRA541 into VAL
+Mutating residue = GLUA542 into GLY
+Mutating residue = GLUA542 into VAL
+Mutating residue = VALA543 into ALA
+Mutating residue = VALA543 into GLY
+Mutating residue = ILEA544 into GLY
+Mutating residue = ILEA544 into VAL
+Mutating residue = GLYA545 into ALA
+Mutating residue = GLYA545 into VAL
+Mutating residue = ARGA546 into GLY
+Mutating residue = ARGA546 into VAL
+Your file run OK
+End time of FoldX: Sat May  9 16:18:41 2026
+Total time spend: 89.78 seconds.
+validated file "PAFA_1.pdb" => successfully finished
+validated file "PAFA_2.pdb" => successfully finished
+validated file "PAFA_3.pdb" => successfully finished
+validated file "PAFA_4.pdb" => successfully finished
+validated file "PAFA_5.pdb" => successfully finished
+validated file "PAFA_6.pdb" => successfully finished
+validated file "PAFA_7.pdb" => successfully finished
+validated file "PAFA_8.pdb" => successfully finished
+validated file "PAFA_9.pdb" => successfully finished
+validated file "PAFA_10.pdb" => successfully finished
+validated file "PAFA_11.pdb" => successfully finished
+validated file "PAFA_12.pdb" => successfully finished
+validated file "PAFA_13.pdb" => successfully finished
+validated file "PAFA_14.pdb" => successfully finished
+validated file "PAFA_15.pdb" => successfully finished
+validated file "PAFA_16.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 21 结果提取成功，已映射突变信息。

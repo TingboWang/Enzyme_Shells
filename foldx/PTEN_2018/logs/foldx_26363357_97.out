@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: PTEN_2018.pdb
+1 models read: PTEN_2018.pdb
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+
+BackHbond       =               -226.37
+SideHbond       =               -75.43
+Energy_VdW      =               -401.42
+Electro         =               -29.03
+Energy_SolvP    =               556.23
+Energy_SolvH    =               -524.04
+Energy_vdwclash =               33.14
+energy_torsion  =               7.90
+backbone_vdwclash=              169.85
+Entropy_sidec   =               207.28
+Entropy_mainc   =               605.00
+water bonds     =               0.00
+helix dipole    =               -1.33
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  154.68
+
+Starting BuildModel
+Reading HA259Q;
+Reading HA259R;
+Reading HA259S;
+Reading HA259A;
+Reading HA259M;
+Reading HA259V;
+Reading HA259Y;
+Reading HA259C;
+Reading KA260I;
+Reading KA260L;
+Reading KA260M;
+Reading KA260N;
+Reading KA260P;
+Reading KA260Q;
+Reading KA260H;
+Reading KA260F;
+Reading KA260E;
+Reading KA260G;
+Reading KA260S;
+Reading KA260A;
+Reading KA260T;
+Reading KA260C;
+Reading KA260D;
+Reading KA260Y;
+Reading KA260W;
+Reading KA260V;
+Reading KA260R;
+Reading QA261N;
+Reading QA261R;
+Reading QA261S;
+Reading QA261T;
+Reading QA261V;
+Reading QA261Y;
+Reading QA261G;
+Reading QA261W;
+Reading QA261H;
+Reading QA261E;
+Reading QA261I;
+Reading QA261K;
+Reading QA261L;
+Reading QA261M;
+Reading QA261F;
+Reading QA261P;
+Reading QA261C;
+Reading QA261A;
+Reading QA261D;
+Reading NA262A;
+Reading NA262D;
+Reading NA262Y;
+Reading NA262W;
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate HISA259 has residue index 258
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate LYSA260 has residue index 259
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate GLNA261 has residue index 260
+Residue to Mutate ASNA262 has residue index 261
+Residue to Mutate ASNA262 has residue index 261
+Residue to Mutate ASNA262 has residue index 261
+Residue to Mutate ASNA262 has residue index 261
+Mutating residue = H2SA259 into GLN
+Mutating residue = H2SA259 into ARG
+Mutating residue = H2SA259 into SER
+Mutating residue = H2SA259 into ALA
+Mutating residue = H2SA259 into MET
+Mutating residue = H2SA259 into VAL
+Mutating residue = H2SA259 into TYR
+Mutating residue = H2SA259 into CYS
+Mutating residue = LYSA260 into ILE
+Mutating residue = LYSA260 into LEU
+Mutating residue = LYSA260 into MET
+Mutating residue = LYSA260 into ASN
+Mutating residue = LYSA260 into PRO
+Mutating residue = LYSA260 into GLN
+Mutating residue = LYSA260 into HIS
+Mutating residue = LYSA260 into PHE
+Mutating residue = LYSA260 into GLU
+Mutating residue = LYSA260 into GLY
+Mutating residue = LYSA260 into SER
+Mutating residue = LYSA260 into ALA
+Mutating residue = LYSA260 into THR
+Mutating residue = LYSA260 into CYS
+Mutating residue = LYSA260 into ASP
+Mutating residue = LYSA260 into TYR
+Mutating residue = LYSA260 into TRP
+Mutating residue = LYSA260 into VAL
+Mutating residue = LYSA260 into ARG
+Mutating residue = GLNA261 into ASN
+Mutating residue = GLNA261 into ARG
+Mutating residue = GLNA261 into SER
+Mutating residue = GLNA261 into THR
+Mutating residue = GLNA261 into VAL
+Mutating residue = GLNA261 into TYR
+Mutating residue = GLNA261 into GLY
+Mutating residue = GLNA261 into TRP
+Mutating residue = GLNA261 into HIS
+Mutating residue = GLNA261 into GLU
+Mutating residue = GLNA261 into ILE
+Mutating residue = GLNA261 into LYS
+Mutating residue = GLNA261 into LEU
+Mutating residue = GLNA261 into MET
+Mutating residue = GLNA261 into PHE
+Mutating residue = GLNA261 into PRO
+Mutating residue = GLNA261 into CYS
+Mutating residue = GLNA261 into ALA
+Mutating residue = GLNA261 into ASP
+Mutating residue = ASNA262 into ALA
+Mutating residue = ASNA262 into ASP
+Mutating residue = ASNA262 into TYR
+Mutating residue = ASNA262 into TRP
+Your file run OK
+End time of FoldX: Sat May  9 16:25:35 2026
+Total time spend: 498.02 seconds.
+validated file "PTEN_2018_1.pdb" => successfully finished
+validated file "PTEN_2018_2.pdb" => successfully finished
+validated file "PTEN_2018_3.pdb" => successfully finished
+validated file "PTEN_2018_4.pdb" => successfully finished
+validated file "PTEN_2018_5.pdb" => successfully finished
+validated file "PTEN_2018_6.pdb" => successfully finished
+validated file "PTEN_2018_7.pdb" => successfully finished
+validated file "PTEN_2018_8.pdb" => successfully finished
+validated file "PTEN_2018_9.pdb" => successfully finished
+validated file "PTEN_2018_10.pdb" => successfully finished
+validated file "PTEN_2018_11.pdb" => successfully finished
+validated file "PTEN_2018_12.pdb" => successfully finished
+validated file "PTEN_2018_13.pdb" => successfully finished
+validated file "PTEN_2018_14.pdb" => successfully finished
+validated file "PTEN_2018_15.pdb" => successfully finished
+validated file "PTEN_2018_16.pdb" => successfully finished
+validated file "PTEN_2018_17.pdb" => successfully finished
+validated file "PTEN_2018_18.pdb" => successfully finished
+validated file "PTEN_2018_19.pdb" => successfully finished
+validated file "PTEN_2018_20.pdb" => successfully finished
+validated file "PTEN_2018_21.pdb" => successfully finished
+validated file "PTEN_2018_22.pdb" => successfully finished
+validated file "PTEN_2018_23.pdb" => successfully finished
+validated file "PTEN_2018_24.pdb" => successfully finished
+validated file "PTEN_2018_25.pdb" => successfully finished
+validated file "PTEN_2018_26.pdb" => successfully finished
+validated file "PTEN_2018_27.pdb" => successfully finished
+validated file "PTEN_2018_28.pdb" => successfully finished
+validated file "PTEN_2018_29.pdb" => successfully finished
+validated file "PTEN_2018_30.pdb" => successfully finished
+validated file "PTEN_2018_31.pdb" => successfully finished
+validated file "PTEN_2018_32.pdb" => successfully finished
+validated file "PTEN_2018_33.pdb" => successfully finished
+validated file "PTEN_2018_34.pdb" => successfully finished
+validated file "PTEN_2018_35.pdb" => successfully finished
+validated file "PTEN_2018_36.pdb" => successfully finished
+validated file "PTEN_2018_37.pdb" => successfully finished
+validated file "PTEN_2018_38.pdb" => successfully finished
+validated file "PTEN_2018_39.pdb" => successfully finished
+validated file "PTEN_2018_40.pdb" => successfully finished
+validated file "PTEN_2018_41.pdb" => successfully finished
+validated file "PTEN_2018_42.pdb" => successfully finished
+validated file "PTEN_2018_43.pdb" => successfully finished
+validated file "PTEN_2018_44.pdb" => successfully finished
+validated file "PTEN_2018_45.pdb" => successfully finished
+validated file "PTEN_2018_46.pdb" => successfully finished
+validated file "PTEN_2018_47.pdb" => successfully finished
+validated file "PTEN_2018_48.pdb" => successfully finished
+validated file "PTEN_2018_49.pdb" => successfully finished
+validated file "PTEN_2018_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 97 结果提取成功，已映射突变信息。

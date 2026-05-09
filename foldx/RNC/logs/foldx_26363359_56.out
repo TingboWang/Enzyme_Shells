@@ -1,0 +1,272 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: RNC.pdb
+1 models read: RNC.pdb
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+
+BackHbond       =               -168.66
+SideHbond       =               -38.21
+Energy_VdW      =               -241.09
+Electro         =               -9.50
+Energy_SolvP    =               337.30
+Energy_SolvH    =               -317.26
+Energy_vdwclash =               13.16
+energy_torsion  =               1.57
+backbone_vdwclash=              182.09
+Entropy_sidec   =               123.80
+Entropy_mainc   =               326.25
+water bonds     =               0.00
+helix dipole    =               -2.25
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  25.60
+
+Starting BuildModel
+Reading PA3N;
+Reading PA3Q;
+Reading PA3R;
+Reading PA3S;
+Reading PA3T;
+Reading PA3V;
+Reading PA3W;
+Reading PA3Y;
+Reading PA61A;
+Reading PA61C;
+Reading PA61D;
+Reading PA61E;
+Reading PA61F;
+Reading PA61G;
+Reading PA61H;
+Reading PA61I;
+Reading PA61K;
+Reading PA61L;
+Reading PA61M;
+Reading PA61N;
+Reading PA61Q;
+Reading PA61R;
+Reading PA61S;
+Reading PA61T;
+Reading PA61V;
+Reading PA61W;
+Reading PA61Y;
+Reading PA98A;
+Reading PA98C;
+Reading PA98D;
+Reading PA98E;
+Reading PA98F;
+Reading PA98G;
+Reading PA98H;
+Reading PA98I;
+Reading PA98K;
+Reading PA98L;
+Reading PA98M;
+Reading PA98N;
+Reading PA98Q;
+Reading PA98R;
+Reading PA98S;
+Reading PA98T;
+Reading PA98V;
+Reading PA98W;
+Reading PA98Y;
+Reading QA10A;
+Reading QA10C;
+Reading QA10D;
+Reading QA10E;
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA3 has residue index 2
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA61 has residue index 60
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate PROA98 has residue index 97
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Residue to Mutate GLNA10 has residue index 9
+Mutating residue = PROA3 into ASN
+Mutating residue = PROA3 into GLN
+Mutating residue = PROA3 into ARG
+Mutating residue = PROA3 into SER
+Mutating residue = PROA3 into THR
+Mutating residue = PROA3 into VAL
+Mutating residue = PROA3 into TRP
+Mutating residue = PROA3 into TYR
+Mutating residue = PROA61 into ALA
+Mutating residue = PROA61 into CYS
+Mutating residue = PROA61 into ASP
+Mutating residue = PROA61 into GLU
+Mutating residue = PROA61 into PHE
+Mutating residue = PROA61 into GLY
+Mutating residue = PROA61 into HIS
+Mutating residue = PROA61 into ILE
+Mutating residue = PROA61 into LYS
+Mutating residue = PROA61 into LEU
+Mutating residue = PROA61 into MET
+Mutating residue = PROA61 into ASN
+Mutating residue = PROA61 into GLN
+Mutating residue = PROA61 into ARG
+Mutating residue = PROA61 into SER
+Mutating residue = PROA61 into THR
+Mutating residue = PROA61 into VAL
+Mutating residue = PROA61 into TRP
+Mutating residue = PROA61 into TYR
+Mutating residue = PROA98 into ALA
+Mutating residue = PROA98 into CYS
+Mutating residue = PROA98 into ASP
+Mutating residue = PROA98 into GLU
+Mutating residue = PROA98 into PHE
+Mutating residue = PROA98 into GLY
+Mutating residue = PROA98 into HIS
+Mutating residue = PROA98 into ILE
+Mutating residue = PROA98 into LYS
+Mutating residue = PROA98 into LEU
+Mutating residue = PROA98 into MET
+Mutating residue = PROA98 into ASN
+Mutating residue = PROA98 into GLN
+Mutating residue = PROA98 into ARG
+Mutating residue = PROA98 into SER
+Mutating residue = PROA98 into THR
+Mutating residue = PROA98 into VAL
+Mutating residue = PROA98 into TRP
+Mutating residue = PROA98 into TYR
+Mutating residue = GLNA10 into ALA
+Mutating residue = GLNA10 into CYS
+Mutating residue = GLNA10 into ASP
+Mutating residue = GLNA10 into GLU
+Your file run OK
+End time of FoldX: Sat May  9 16:20:36 2026
+Total time spend: 195.04 seconds.
+validated file "RNC_1.pdb" => successfully finished
+validated file "RNC_2.pdb" => successfully finished
+validated file "RNC_3.pdb" => successfully finished
+validated file "RNC_4.pdb" => successfully finished
+validated file "RNC_5.pdb" => successfully finished
+validated file "RNC_6.pdb" => successfully finished
+validated file "RNC_7.pdb" => successfully finished
+validated file "RNC_8.pdb" => successfully finished
+validated file "RNC_9.pdb" => successfully finished
+validated file "RNC_10.pdb" => successfully finished
+validated file "RNC_11.pdb" => successfully finished
+validated file "RNC_12.pdb" => successfully finished
+validated file "RNC_13.pdb" => successfully finished
+validated file "RNC_14.pdb" => successfully finished
+validated file "RNC_15.pdb" => successfully finished
+validated file "RNC_16.pdb" => successfully finished
+validated file "RNC_17.pdb" => successfully finished
+validated file "RNC_18.pdb" => successfully finished
+validated file "RNC_19.pdb" => successfully finished
+validated file "RNC_20.pdb" => successfully finished
+validated file "RNC_21.pdb" => successfully finished
+validated file "RNC_22.pdb" => successfully finished
+validated file "RNC_23.pdb" => successfully finished
+validated file "RNC_24.pdb" => successfully finished
+validated file "RNC_25.pdb" => successfully finished
+validated file "RNC_26.pdb" => successfully finished
+validated file "RNC_27.pdb" => successfully finished
+validated file "RNC_28.pdb" => successfully finished
+validated file "RNC_29.pdb" => successfully finished
+validated file "RNC_30.pdb" => successfully finished
+validated file "RNC_31.pdb" => successfully finished
+validated file "RNC_32.pdb" => successfully finished
+validated file "RNC_33.pdb" => successfully finished
+validated file "RNC_34.pdb" => successfully finished
+validated file "RNC_35.pdb" => successfully finished
+validated file "RNC_36.pdb" => successfully finished
+validated file "RNC_37.pdb" => successfully finished
+validated file "RNC_38.pdb" => successfully finished
+validated file "RNC_39.pdb" => successfully finished
+validated file "RNC_40.pdb" => successfully finished
+validated file "RNC_41.pdb" => successfully finished
+validated file "RNC_42.pdb" => successfully finished
+validated file "RNC_43.pdb" => successfully finished
+validated file "RNC_44.pdb" => successfully finished
+validated file "RNC_45.pdb" => successfully finished
+validated file "RNC_46.pdb" => successfully finished
+validated file "RNC_47.pdb" => successfully finished
+validated file "RNC_48.pdb" => successfully finished
+validated file "RNC_49.pdb" => successfully finished
+validated file "RNC_50.pdb" => successfully finished
+Cleaning BuildModel...DONE
+任务 56 结果提取成功，已映射突变信息。
