@@ -1,0 +1,7 @@
+Job started on cn1111 at Thu May 14 14:59:10 CST 2026
+------------------------------------------------
+Processing /share/home/wangtb/enzyme_shells/fasta/AICDA.fasta (Array ID: 0)
+Results will be saved to /share/home/wangtb/enzyme_shells/structure_dca/AICDA
+Seq length: 198
+output/all: 5148/7226
+Finished AICDA at Fri May 15 03:38:33 CST 2026

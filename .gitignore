@@ -1,0 +1,5 @@
+# 忽略 structure_dca 目录下所有子文件夹中的 .A, .hmmer.a2m, .o, .tbl 文件
+structure_dca/**/*.A
+structure_dca/**/*.hmmer.a2m
+structure_dca/**/*.o
+structure_dca/**/*.tbl

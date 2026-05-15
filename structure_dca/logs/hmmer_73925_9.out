@@ -1,0 +1,7 @@
+Job started on cn1201 at Thu May 14 14:59:10 CST 2026
+------------------------------------------------
+Processing /share/home/wangtb/enzyme_shells/fasta/RNC.fasta (Array ID: 9)
+Results will be saved to /share/home/wangtb/enzyme_shells/structure_dca/RNC
+Seq length: 226
+output/all: 75465/204973
+Finished RNC at Fri May 15 03:56:26 CST 2026

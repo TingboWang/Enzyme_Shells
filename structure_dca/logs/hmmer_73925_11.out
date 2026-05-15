@@ -1,0 +1,7 @@
+Job started on cn1501 at Thu May 14 14:59:10 CST 2026
+------------------------------------------------
+Processing /share/home/wangtb/enzyme_shells/fasta/VKOR1.fasta (Array ID: 11)
+Results will be saved to /share/home/wangtb/enzyme_shells/structure_dca/VKOR1
+Seq length: 163
+output/all: 2276/3291
+Finished VKOR1 at Thu May 14 23:15:41 CST 2026

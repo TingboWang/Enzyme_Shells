@@ -1,0 +1,7 @@
+Job started on cn1120 at Thu May 14 14:59:10 CST 2026
+------------------------------------------------
+Processing /share/home/wangtb/enzyme_shells/fasta/PTEN_2018.fasta (Array ID: 6)
+Results will be saved to /share/home/wangtb/enzyme_shells/structure_dca/PTEN_2018
+Seq length: 403
+output/all: 4800/47967
+Finished PTEN_2018 at Fri May 15 03:47:07 CST 2026

@@ -1,0 +1,7 @@
+Job started on cn1116 at Thu May 14 14:59:10 CST 2026
+------------------------------------------------
+Processing /share/home/wangtb/enzyme_shells/fasta/CAS9.fasta (Array ID: 2)
+Results will be saved to /share/home/wangtb/enzyme_shells/structure_dca/CAS9
+Seq length: 1390
+output/all: 4007/24255
+Finished CAS9 at Fri May 15 04:04:46 CST 2026
