@@ -4,9 +4,9 @@ import csv
 from structuredca import StructureDCA
 
 # --- 路径配置 ---
-STRUCTURE_DIR = "/share/home/wangtb/enzyme_shells/structure"
-RESULT_ROOT = "/share/home/wangtb/enzyme_shells/structure_dca"
-ORIG_FASTA_DIR = "/share/home/wangtb/enzyme_shells/fasta"  # 新增：原始 FASTA 文件夹
+STRUCTURE_DIR = "/lustre/home/tbwang/EnzymeShells/Enzyme_Shells/structure"
+RESULT_ROOT = "/lustre/home/tbwang/EnzymeShells/Enzyme_Shells/structure_dca"
+ORIG_FASTA_DIR = "/lustre/home/tbwang/EnzymeShells/Enzyme_Shells/fasta"  # 新增：原始 FASTA 文件夹
 
 AMINO_ACIDS = "ACDEFGHIKLMNPQRSTVWY"
 
